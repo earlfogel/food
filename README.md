@@ -1,12 +1,12 @@
 # Table of Contents
-* [Bread, Biscuits and Breakfast](#SECTION-1:-Bread,-Biscuits-and-Breakfast)
-* [Vegetarian](SECTION-2:-Vegetarian)
-* [Meat](SECTION-3:-Meat)
-* [Dessert](SECTION-4:-Dessert)
-* [Cookies](SECTION-5:-Cookies)
-* [Muffins](SECTION-6:-Muffins)
-* [Icing](SECTION-7:-Icing)
-* [Pie](SECTION-8:-Pie)
+## [Bread, Biscuits and Breakfast](#SECTION-1:-Bread,-Biscuits-and-Breakfast)
+## [Vegetarian](#SECTION-2:-Vegetarian)
+## [Meat](#SECTION-3:-Meat)
+## [Dessert](#SECTION-4:-Dessert)
+## [Cookies](#SECTION-5:-Cookies)
+## [Muffins](#SECTION-6:-Muffins)
+## [Icing](#SECTION-7:-Icing)
+## [Pie](#SECTION-8:-Pie)
 
 # SECTION 1: Bread, Biscuits and Breakfast
 
