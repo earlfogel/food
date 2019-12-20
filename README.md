@@ -1,14 +1,14 @@
 # Table of Contents
-* [Bread, Biscuits and Breakfast](#section-1-bread-biscuits-and-breakfast)
-* [Vegetarian](#section-2-vegetarian)
-* [Meat](#section-3-meat)
-* [Dessert](#section-4-dessert)
-* [Cookies](#section-5-cookies)
-* [Muffins](#section-6-muffins)
-* [Icing](#section-7-icing)
-* [Pie](#section-8-pie)
+* [Bread, Biscuits and Breakfast](#bread-biscuits-and-breakfast)
+* [Vegetarian](#vegetarian)
+* [Meat](#meat)
+* [Dessert](#dessert)
+* [Cookies](#cookies)
+* [Muffins](#muffins)
+* [Icing](#icing)
+* [Pie](#pie)
 
-# SECTION 1: Bread, Biscuits and Breakfast
+# Bread, Biscuits and Breakfast
 
 Bread, biscuits, muffins and other breakfast foods.
 
@@ -384,7 +384,7 @@ Then add spices to taste.
 Pour onto crepes and sprinkle with cheese.
 
 
-# SECTION 2: Vegetarian
+# Vegetarian
 
 <br/> <!-- force page break -->
 
@@ -830,7 +830,7 @@ salt and pepper<br/>
 
 Mix all ingredients.
 
-# SECTION 3: Meat
+# Meat
 
 <br/> <!-- force page break -->
 
@@ -1061,7 +1061,7 @@ Serve with sour cream and fresh bread.
 If you can't find soup bones, use cut up meat instead.
 
 
-# SECTION 4: Dessert
+# Dessert
 
 <br/> <!-- force page break -->
 
@@ -1893,7 +1893,7 @@ Put half crumbs in bottom of pan, then filling, then remaining topping.
 Bake at 350 F for 45 minutes.
 
 
-# SECTION 5: Cookies
+# Cookies
 
 <br/> <!-- force page break -->
 
@@ -1997,7 +1997,7 @@ Add dry ingredients, raisins or choc. chips.
 
 Bake at 350 F 15 to 20 minutes.
 
-# SECTION 6: Muffins
+# Muffins
 
 <br/> <!-- force page break -->
 
@@ -2053,7 +2053,7 @@ Mix it all together.  If it's too thick, add more water.
 Oil muffin tins, bake 25-30 minutes at 400F
 
 
-# SECTION 7: Icing
+# Icing
 
 <br/> <!-- force page break -->
 
@@ -2091,7 +2091,7 @@ Let cool 10-15 minutes, then sift in icing sugar.
 This covers a 9x13" cake.
 
 
-# SECTION 8: Pie
+# Pie
 
 <br/> <!-- force page break -->
 
