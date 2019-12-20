@@ -1,7 +1,12 @@
-Title:   Earl's Recipies
-Summary: These are a few of my favorite recipies.
-Authors: Earl Fogel
-Date:    July 25, 2019
+# Table of Contents
+* [Bread, Biscuits and Breakfast](#SECTION-1:-Bread,-Biscuits-and-Breakfast)
+* [Vegetarian](SECTION-2:-Vegetarian)
+* [Meat](SECTION-3:-Meat)
+* [Dessert](SECTION-4:-Dessert)
+* [Cookies](SECTION-5:-Cookies)
+* [Muffins](SECTION-6:-Muffins)
+* [Icing](SECTION-7:-Icing)
+* [Pie](SECTION-8:-Pie)
 
 # SECTION 1: Bread, Biscuits and Breakfast
 
@@ -2227,8 +2232,4 @@ When cool, but not set, fold in whipped cream and pour over crust. Chill.
 
 For Julie, replace butter and whipping cream with margarine and nutriwhip.
 
-
-# SECTION 9: Table of Contents
-
-[TOC]
 
