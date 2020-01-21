@@ -232,8 +232,9 @@ flavour.
 
 ## Rye Soda Bread
 
-2 cup rye flour<br/>
-2 cup all-purpose flour (or 1 white, 1 whole wheat)<br/>
+2 cup rye flour (next time replace 1 cup rye with whole wheat)<br/>
+1 cup white flour<br/>
+1 cup whole wheat flour<br/>
 1 tbsp baking powder<br/>
 1 tsp baking soda<br/>
 1 tsp salt<br/>
@@ -253,6 +254,33 @@ Lightly cut diagonal lines on top of loaf and bake at 375 F for 45-50
 minutes or until it sounds hollow when tapped on the bottom.
 
 http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198
+
+## Oat and Honey Soda Bread
+
+2 1/4 cup whole wheat flour<br/>
+1 cup rolled oats<br/>
+1 1/2 tsp baking soda<br/>
+3/4 tsp salt<br/>
+1 1/2 cup warm milk<br/>
+1 tbsp vinegar<br/>
+2 tbsp honey<br/>
+3 tbsp butter<br/>
+
+Place large round oven-safe pan and lid in oven and preheat to 400 F.
+
+Mix dry ingredients in bowl.
+
+Add honey and butter to warm milk and stir until butter melts.
+
+Mix liquid ingredients into dry *just* until combined.
+Sprinkle a few more oats on top.
+
+Pour dough into hot pan, cover, and bake 35 minutes.
+If not done, remove lid and bake 5 minutes more.
+
+The original recipe had 2 cups milk and was much too wet.
+It also stuck to a greased pan.  Pouring into a pre-heated
+pan should prevent this, or line the pan with parchement.
 
 ## Cinnamon Breakfast Cake
 
@@ -577,7 +605,7 @@ Bake at 350 F for 30 minutes.
 ## Zucchini Quiche 3
 
 2 cup grated zuccini<br/>
-3/4 orange pepper, diced<br/>
+1 small red or orange pepper, diced<br/>
 1 1/2 cup grated mozzarella and cheddar<br/>
 3 eggs<br/>
 1 1/4 cup milk (or less)<br/>
@@ -593,6 +621,8 @@ Mix milk, eggs and pesto, then pour on top.
 Bake at 350 F for 35-40 minutes.
 
 If you have extra filling, add 1 or 2 eggs and fry til golden.
+
+Broccoli Quiche: use cut-up broccoli instead of zuccini.
 
 ## Onion Tarte
 
@@ -910,12 +940,6 @@ until it thickens.  Add meatballs and simmer.
 Put ribs in pan.  Mix rest and pour over ribs.
 
 Cover and bake at 350 F for 2 hours, basting occasionally.
-
-## Braised Beef Short Ribs
-
-From: Darlene Fichter <dfichter@gmail.com>
-
-https://www.allrecipes.com/recipe/218722/barbeque-style-braised-short-ribs/
 
 ## White House Ribs (not quite)
 
@@ -1494,8 +1518,8 @@ When cool, sprinkle with icing sugar and serve with whipped cream.
 
 2 cup sugar<br/>
 4 eggs<br/>
-1 1/3 cup oil<br/>
-3-4 cup grated carrot<br/>
+1 cup oil<br/>
+3 cup grated carrot<br/>
 2 cup flour<br/>
 2 tsp baking soda<br/>
 2 tsp baking powder<br/>
@@ -1503,6 +1527,7 @@ When cool, sprinkle with icing sugar and serve with whipped cream.
 1 cup raisins (optional)<br/>
 
 Preheat oven to 350 F.  Grease and flour 13x9" pan.
+
 Beat sugar and eggs, then stir in oil.
 Sift dry ingredients and stir into egg mixture.
 Fold in carrots and raisins.  Pour into pan and bake
@@ -1512,10 +1537,12 @@ Fold in carrots and raisins.  Pour into pan and bake
 
 8 oz cream cheese<br/>
 3 tbsp butter<br/>
-1 cup icing sugar(less)<br/>
+3/4 cup icing sugar<br/>
 
 Cream cheese and butter, add icing sugar and beat until smooth.
 Spread on cake.
+
+** Next time try 12 oz cream cheese and 1 cup sugar.
 
 ## Carrot Pudding
 
@@ -1796,7 +1823,7 @@ Pour into buttered 8x8" pan and bake at 350 F for 25 minutes.
 1 1/4 cup flour<br/>
 1/2 tsp baking soda<br/>
 1/2 tsp salt<br/>
-1 1/4 cup oats<br/>
+1 cup oats (or less?)<br/>
 1 cup chocolate chips (or 3 oz semi-sweet chocolate chunks)<br/>
 
 Beat butter and sugar til smooth, then add egg, milk and vanilla.
@@ -1811,15 +1838,17 @@ Based on https://www.thespruceeats.com/chocolate-oatmeal-bars-3051975
 1/4 cup melted butter<br/>
 1 1/4 cup graham wafer crumbs<br/>
 1/2 can sweetened condensed milk<br/>
-1/2 cup mini chocolate chips<br/>
-3/4 cup flaked coconut<br/>
-3/4 cup slivered almonds<br/>
+1/2 cup shredded coconut<br/>
+1/2 cup chocolate chips<br/>
+1/2 cup slivered almonds<br/>
 
 Combine graham crumbs and melted butter, press into 8x8" pan.
 
-Pour condensed milk over crust (except around the edge), then sprinkle
-with chocolate chips, coconut and almonds.  Bake at 350 F 25 minutes or
-until brown.
+Mix coconut, chocolate chips and almonds and spread over crust,
+then pour condensed milk on top (except around the edge).
+Bake at 325 F 25-30 minutes or until brown.
+
+Prairie Ink uses coconut, mini-chips and sliced almonds.
 
 ## Almond Slice
 
