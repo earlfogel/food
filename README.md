@@ -10,6 +10,26 @@
 
 # Bread, Biscuits and Breakfast
 
+* [Corn Bread](#corn-bread)
+* [No Knead Bread](#no-knead-bread)
+* [Moosewood Cottage Cheese Herb Bread](#moosewood-cottage-cheese-herb-bread)
+* [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
+* [Homemade Marzipan](#homemade-marzipan)
+* [Red Lobster Biscuits](#red-lobster-biscuits)
+* [Apple Scone](#apple-scone)
+* [Scrumpets](#scrumpets)
+* [Baked Bannock](#baked-bannock)
+* [Irish Soda Bread](#irish-soda-bread)
+* [Rye Soda Bread](#rye-soda-bread)
+* [Oat and Honey Soda Bread](#oat-and-honey-soda-bread)
+* [Cinnamon Breakfast Cake](#cinnamon-breakfast-cake)
+* [German Apple Pancakes](#german-apple-pancakes)
+* [Cottage Cheese Pancakes](#cottage-cheese-pancakes)
+* [Potato Pancakes](#potato-pancakes)
+* [!!!!! WAFFLES !!!!!](#-waffles-)
+* [Crepes](#crepes)
+
+
 Bread, biscuits, muffins and other breakfast foods.
 
 ## Corn Bread
@@ -413,6 +433,26 @@ Pour onto crepes and sprinkle with cheese.
 
 
 # Vegetarian
+
+* [Baked Macaroni](#baked-macaroni)
+* [Cottage Cheese Pie](#cottage-cheese-pie)
+* [Cauliflower Cheese Pie](#cauliflower-cheese-pie)
+* [Cossack Pie](#cossack-pie)
+* [Tian de courges](#tian-de-courges)
+* [Zucchini Quiche](#zucchini-quiche)
+* [Zucchini Quiche 2](#zucchini-quiche-2)
+* [Zucchini Quiche 3](#zucchini-quiche-3)
+* [Onion Tarte](#onion-tarte)
+* [Butternut Squash Chipotle Chili with Avocado](#butternut-squash-chipotle-chili-with-avocado)
+* [Chickpea Curry](#chickpea-curry)
+* [Sweet Potato Curry](#sweet-potato-curry)
+* [Coconut Chickpea Curry](#coconut-chickpea-curry)
+* [Noodle Kugel](#noodle-kugel)
+* [Tomato Veggie Soup](#tomato-veggie-soup)
+* [Caesar Salad](#caesar-salad)
+* [White House Coleslaw](#white-house-coleslaw)
+* [French Dressing](#french-dressing)
+
 
 <br/> <!-- force page break -->
 
@@ -862,6 +902,19 @@ Mix all ingredients.
 
 # Meat
 
+* [Peach Chicken](#peach-chicken)
+* [Sticky Chicky](#sticky-chicky)
+* [Sweet and Sour Meatballs](#sweet-and-sour-meatballs)
+* [Kyley Sweet and Sour Meatballs](#kyley-sweet-and-sour-meatballs)
+* [Sweet and Sour Beef Short Ribs](#sweet-and-sour-beef-short-ribs)
+* [White House Ribs (not quite)](#white-house-ribs-not-quite-)
+* [Greek Ribs](#greek-ribs)
+* [Sloppy Joes](#sloppy-joes)
+* [Earl's Chili](#earl-s-chili)
+* [Earl's Chicken Mafé](#earl-s-chicken-maf-)
+* [Beet Borscht](#beet-borscht)
+
+
 <br/> <!-- force page break -->
 
 ## Peach Chicken
@@ -1086,6 +1139,42 @@ If you can't find soup bones, use cut up meat instead.
 
 
 # Dessert
+
+* [Dainty (Ethel Gordon)](#dainty-ethel-gordon-)
+* [Ice Box Dessert](#ice-box-dessert)
+* [Custard Cake](#custard-cake)
+* [Two-Thirds Half Cake](#two-thirds-half-cake)
+* [Cheese Cake](#cheese-cake)
+* [Cherry Cheese Cake](#cherry-cheese-cake)
+* [Chocolate Marble Cheese Cake](#chocolate-marble-cheese-cake)
+* [Banana Cake](#banana-cake)
+* [Banana Banana Bread](#banana-banana-bread)
+* [Gingerbread](#gingerbread)
+* [Gingerbread Pudding Cake](#gingerbread-pudding-cake)
+* [Coffee Cake](#coffee-cake)
+* [Apricot Coffee Cake](#apricot-coffee-cake)
+* [Cardamom Coffee Cake](#cardamom-coffee-cake)
+* [Honey Cake](#honey-cake)
+* [Felix's Apple Cake](#felix-s-apple-cake)
+* [Carrot Cake](#carrot-cake)
+* [Carrot Pudding](#carrot-pudding)
+* [Lazy Daisy Cake](#lazy-daisy-cake)
+* [Killer Chocolate Torte](#killer-chocolate-torte)
+* [Zuccini Chocolate Cake](#zuccini-chocolate-cake)
+* [Grand Marnier Chocolate Torte](#grand-marnier-chocolate-torte)
+* [Grand Marnier Orange Cake](#grand-marnier-orange-cake)
+* [Shmoo Torte](#shmoo-torte)
+* [Lemon Pudding](#lemon-pudding)
+* [Lemon Bars](#lemon-bars)
+* [Brownies (Silver Palate)](#brownies-silver-palate-)
+* [Gluten Free Brownies](#gluten-free-brownies)
+* [Chocolate Oatmeal Squares](#chocolate-oatmeal-squares)
+* [Magic Squares](#magic-squares)
+* [Almond Slice](#almond-slice)
+* [Apple Crisp](#apple-crisp)
+* [Rhubarb Crisp](#rhubarb-crisp)
+* [Apple Rhubarb Crisp](#apple-rhubarb-crisp)
+
 
 <br/> <!-- force page break -->
 
@@ -1924,6 +2013,14 @@ Bake at 350 F for 45 minutes.
 
 # Cookies
 
+* [Granny Metcalfe's Uncooked Cookies](#granny-metcalfe-s-uncooked-cookies)
+* [Chocolate Chip Cookies](#chocolate-chip-cookies)
+* [Raisin Cookies](#raisin-cookies)
+* [Peanut Butter Cookies](#peanut-butter-cookies)
+* [Cinnamon Cookies](#cinnamon-cookies)
+* [Oatmeal Cookies  (Mrs Dodd)](#oatmeal-cookies-mrs-dodd-)
+
+
 <br/> <!-- force page break -->
 
 ## Granny Metcalfe's Uncooked Cookies
@@ -2028,6 +2125,10 @@ Bake at 350 F 15 to 20 minutes.
 
 # Muffins
 
+* [Carrot Apple Muffins (or cake)](#carrot-apple-muffins-or-cake-)
+* [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
+
+
 <br/> <!-- force page break -->
 
 ## Carrot Apple Muffins (or cake)
@@ -2084,6 +2185,10 @@ Oil muffin tins, bake 25-30 minutes at 400F
 
 # Icing
 
+* [Chocolate Icing](#chocolate-icing)
+* [Chocolate Icing - Dark](#chocolate-icing-dark)
+
+
 <br/> <!-- force page break -->
 
 ## Chocolate Icing
@@ -2121,6 +2226,14 @@ This covers a 9x13" cake.
 
 
 # Pie
+
+* [Chocolate Mouse (blender)](#chocolate-mouse-blender-)
+* [Chocolate Mouse Pie](#chocolate-mouse-pie)
+* [Pie Crust (Baba)](#pie-crust-baba-)
+* [Lemon Pie](#lemon-pie)
+* [Strawberry Bavarian Pie](#strawberry-bavarian-pie)
+* [Strawberry Fogellian Pie](#strawberry-fogellian-pie)
+
 
 <br/> <!-- force page break -->
 
