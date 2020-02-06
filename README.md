@@ -2077,7 +2077,7 @@ Bake at 350 F for 45 minutes.
 * [Raisin Cookies](#raisin-cookies)
 * [Peanut Butter Cookies](#peanut-butter-cookies)
 * [Cinnamon Cookies](#cinnamon-cookies)
-* [Oatmeal Cookies  (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
+* [Oatmeal Cookies (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
 
 
 <br/> <!-- force page break -->
@@ -2161,7 +2161,7 @@ and sugar.
 
 Place on greased cookie sheet and bake at 350 F for 10 minutes.
 
-## Oatmeal Cookies  (Mrs Dodd)
+## Oatmeal Cookies (Mrs Dodd)
 
 1/2 cup butter<br/>
 1/2 cup shortening<br/>
@@ -2245,7 +2245,7 @@ Oil muffin tins, bake 25-30 minutes at 400F
 # Icing
 
 * [Chocolate Icing](#chocolate-icing)
-* [Chocolate Icing - Dark](#chocolate-icing-dark)
+* [Dark Chocolate Icing](#dark-chocolate-icing)
 
 
 <br/> <!-- force page break -->
@@ -2269,7 +2269,7 @@ Spread quickly before it hardens.
 This makes too much icing for a 9" 2 layer cake, and it's still too sweet.
 Next time try only 1 cup brown sugar.
 
-## Chocolate Icing - Dark
+## Dark Chocolate Icing
 
 1/2 cup brown sugar<br/>
 1/3 cup water<br/>
