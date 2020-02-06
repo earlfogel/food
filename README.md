@@ -26,7 +26,7 @@
 * [German Apple Pancakes](#german-apple-pancakes)
 * [Cottage Cheese Pancakes](#cottage-cheese-pancakes)
 * [Potato Pancakes](#potato-pancakes)
-* [!!!!! WAFFLES !!!!!](#-waffles-)
+* [Waffles](#waffles)
 * [Crepes](#crepes)
 
 
@@ -252,7 +252,7 @@ flavour.
 
 ## Rye Soda Bread
 
-2 cup rye flour (next time replace 1 cup rye with whole wheat)<br/>
+2 cup rye flour (or replace 1 cup rye with whole wheat)<br/>
 1 cup white flour<br/>
 1 cup whole wheat flour<br/>
 1 tbsp baking powder<br/>
@@ -261,12 +261,12 @@ flavour.
 1 tsp caraway seeds<br/>
 2 tbsp brown sugar<br/>
 1 large egg, beaten<br/>
-2 cup buttermilk (or 1 cup yogurt, 1 cup milk, 1 tbsp vinegar)<br/>
+2 cup yogurt (or 1 cup yogurt, 1 cup milk, 1 tbsp vinegar)<br/>
 oats (large flakes)<br/>
 
 Combine flours, baking powder, soda, salt, caraway and sugar in a large bowl.
 
-Mix the egg and buttermilk and stir into the dry ingredients just to blend.
+Mix the egg and yogurt and stir into the dry ingredients just to blend.
 
 Sprinkle with oats and turn out onto buttered cookie sheet.
 
@@ -372,7 +372,9 @@ Fry both sides until golden brown.
 
 Serve with apple sauce and sour cream.
 
-## !!!!! WAFFLES !!!!!
+## Waffles
+
+!!!!! WAFFLES !!!!!
 
 For six waffles:
 
@@ -907,11 +909,11 @@ Mix all ingredients.
 * [Sweet and Sour Meatballs](#sweet-and-sour-meatballs)
 * [Kyley Sweet and Sour Meatballs](#kyley-sweet-and-sour-meatballs)
 * [Sweet and Sour Beef Short Ribs](#sweet-and-sour-beef-short-ribs)
-* [White House Ribs (not quite)](#white-house-ribs-not-quite-)
+* [White House Ribs (not quite)](#white-house-ribs-not-quite)
 * [Greek Ribs](#greek-ribs)
 * [Sloppy Joes](#sloppy-joes)
-* [Earl's Chili](#earl-s-chili)
-* [Earl's Chicken Mafé](#earl-s-chicken-maf-)
+* [Earl's Chili](#earls-chili)
+* [Earl's Chicken Mafé](#earls-chicken-mafé)
 * [Beet Borscht](#beet-borscht)
 
 
@@ -1140,7 +1142,7 @@ If you can't find soup bones, use cut up meat instead.
 
 # Dessert
 
-* [Dainty (Ethel Gordon)](#dainty-ethel-gordon-)
+* [Dainty (Ethel Gordon)](#dainty-ethel-gordon)
 * [Ice Box Dessert](#ice-box-dessert)
 * [Custard Cake](#custard-cake)
 * [Two-Thirds Half Cake](#two-thirds-half-cake)
@@ -1155,7 +1157,7 @@ If you can't find soup bones, use cut up meat instead.
 * [Apricot Coffee Cake](#apricot-coffee-cake)
 * [Cardamom Coffee Cake](#cardamom-coffee-cake)
 * [Honey Cake](#honey-cake)
-* [Felix's Apple Cake](#felix-s-apple-cake)
+* [Felix's Apple Cake](#felixs-apple-cake)
 * [Carrot Cake](#carrot-cake)
 * [Carrot Pudding](#carrot-pudding)
 * [Lazy Daisy Cake](#lazy-daisy-cake)
@@ -1164,9 +1166,10 @@ If you can't find soup bones, use cut up meat instead.
 * [Grand Marnier Chocolate Torte](#grand-marnier-chocolate-torte)
 * [Grand Marnier Orange Cake](#grand-marnier-orange-cake)
 * [Shmoo Torte](#shmoo-torte)
+* [Sachertorte](#sachertorte)
 * [Lemon Pudding](#lemon-pudding)
 * [Lemon Bars](#lemon-bars)
-* [Brownies (Silver Palate)](#brownies-silver-palate-)
+* [Brownies (Silver Palate)](#brownies-silver-palate)
 * [Gluten Free Brownies](#gluten-free-brownies)
 * [Chocolate Oatmeal Squares](#chocolate-oatmeal-squares)
 * [Magic Squares](#magic-squares)
@@ -1837,6 +1840,62 @@ Cut cake in half.  Fill with whipped cream and cover with sauce.
 Cover top and sides of cake with more whipped cream, then drizzle with
 more sauce.  Leave some sauce to spoon onto each slice when cake is served.
 
+## Sachertorte
+
+**The Cake**
+
+6 eggs, separated<br/>
+1 cup sugar<br/>
+3/4 cup soft butter<br/>
+1 cup flour<br/>
+1/2 cup almond flour or ground almonds<br/>
+1/4 tsp salt<br/>
+3 oz semi-sweet chocolate<br/>
+2 oz unsweetened chocolate<br/>
+
+Preheat oven to 375 F and butter two 9" springform cake pans.
+
+Melt chocolate and let cool slightly.
+
+In a large bowl, beat egg whites until stiff peaks form.
+
+In another large bowl, beat butter and sugar, then add melted chocolate.
+Add egg yolks one at a time mixing until smooth, then mix in flours and
+salt.
+
+Fold in 1/4 of the beaten egg whites to lighten the batter, then fold in the rest.
+
+Spread batter in cake pans and bake 20-22 minutes.  Remove from pans and cool.
+
+Next time: add 1/2 tsp cream of tartar to the egg whites before beating.
+
+NB: this cake is dry, try less baking, or add grated zuccini
+or beets or use sponge from Grand Marnier cake instead.
+
+**Apricot Filling and Chocolate Glaze**
+
+1 cup apricot jam<br/>
+1/4 cup water</br>
+3 oz unsweetened chocolate<br/>
+1 cup sugar<br/>
+1/2 cup milk<br/>
+1 tbsp corn syrop<br/>
+1 egg, lightly beaten (optional?)<br/>
+3 tbsp vanilla<br/>
+
+Heat apricot jam and water, mix and spread over both layers of cake
+(bottom side up -- some soaks in).  Assemble cake and cool some more.
+
+Heat milk, sugar, chocolate and corn syrop on stove, stirring
+until chocolate has dissolved.  Boil 5 to 15 minutes, stirring,
+until it thickens.  Reduce to low heat.
+
+Pour 2 to 3 tbsp of mix into lightly beaten egg, then add back to
+pot, and simmer 3-5 more minutes until it thickly 
+coats spoon.  Remove from heat and stir in vanilla.
+
+Cool.  When glaze is mostly cool, pour over top of cake and sides.
+
 ## Lemon Pudding
 
 2 tbsp butter<br/>
@@ -2013,12 +2072,12 @@ Bake at 350 F for 45 minutes.
 
 # Cookies
 
-* [Granny Metcalfe's Uncooked Cookies](#granny-metcalfe-s-uncooked-cookies)
+* [Granny Metcalfe's Uncooked Cookies](#granny-metcalfes-uncooked-cookies)
 * [Chocolate Chip Cookies](#chocolate-chip-cookies)
 * [Raisin Cookies](#raisin-cookies)
 * [Peanut Butter Cookies](#peanut-butter-cookies)
 * [Cinnamon Cookies](#cinnamon-cookies)
-* [Oatmeal Cookies  (Mrs Dodd)](#oatmeal-cookies-mrs-dodd-)
+* [Oatmeal Cookies  (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
 
 
 <br/> <!-- force page break -->
@@ -2125,7 +2184,7 @@ Bake at 350 F 15 to 20 minutes.
 
 # Muffins
 
-* [Carrot Apple Muffins (or cake)](#carrot-apple-muffins-or-cake-)
+* [Carrot Apple Muffins (or cake)](#carrot-apple-muffins-or-cake)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
 
 
@@ -2227,9 +2286,9 @@ This covers a 9x13" cake.
 
 # Pie
 
-* [Chocolate Mouse (blender)](#chocolate-mouse-blender-)
+* [Chocolate Mouse (blender)](#chocolate-mouse-blender)
 * [Chocolate Mouse Pie](#chocolate-mouse-pie)
-* [Pie Crust (Baba)](#pie-crust-baba-)
+* [Pie Crust (Baba)](#pie-crust-baba)
 * [Lemon Pie](#lemon-pie)
 * [Strawberry Bavarian Pie](#strawberry-bavarian-pie)
 * [Strawberry Fogellian Pie](#strawberry-fogellian-pie)
