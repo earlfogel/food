@@ -877,10 +877,10 @@ Just before serving, add lettuce and croutons.
 1/2 head cabbage, grated<br/>
 2 carrots, grated<br/>
 2 green onions, chopped<br/>
-3 tbsp sugar<br/>
-1 tsp salt<br/>
-1/3 cup oil<br/>
-1/2 cup white vinegar<br/>
+2 tbsp sugar<br/>
+1/4 tsp salt<br/>
+1/4 cup oil<br/>
+1/3 cup white vinegar<br/>
 2 cloves crushed garlic<br/>
 
 Mix cabbage, carrot and green onions.
@@ -889,6 +889,8 @@ Mix remaining ingredients together and pour over salad.
 
 Refrigerate 3 to 4 hours, stirring occasionally.
 Pour off excess liquid and serve.
+
+I use one bag of cole slaw plus 1 grated carrot and skip the onion.
 
 ## French Dressing
 
@@ -1100,23 +1102,27 @@ My version of Robert's version of:
 1-2 cup chicken broth<br/>
 1/2 lb grated cabbage (e.g. a package of cole slaw)<br/>
 1 sweet potato, peeled and chopped<br/>
-1 small cauliflower, chopped (or broccoli or zuccini)<br/>
+1 small cauliflower, chopped<br/>
+1 cup green beans<br/>
+1 cup broccoli or zuccini, chopped (optional)<br/>
 3 carrots, chopped<br/>
 3 tbsp fish sauce<br/>
 oil, for cooking<br/>
+1 cup peanut butter (less, optional)</br>
 
 Fry chicken in 2 tbsp oil til brown, then set aside.
 
 Brown onion, garlic and ginger in 2 tbsp oil until translucent, then add
-salt and tomato.  When warm, add chicken broth, chicken and vegetables.
+tomato.  When warm, add chicken broth, chicken and vegetables.
 This fills a large pot.
 
-Simmer about 1 hour, until chicken is tender.
+Simmer about 1 hour, until chicken is tender.  Add fish sauce and salt to
+taste.
 
-Serve with bread or rice.
+Serve with rice and bread.
 
-Peanut butter was included in original recipe, but it's not needed, so let
-people add it on their own, if they want.
+I leave out the peanut butter and let people add it themselves, if they
+want.
 
 ## Beet Borscht
 
@@ -1403,6 +1409,8 @@ then dry ingredients and chocolate chips.
 Pour batter into greased 9x5" loaf pan and
 bake at 350 F for 1 hour.
 
+For muffins, bake at 400 F for 25 minutes.
+
 ## Gingerbread
 
 1/2 cup soft butter<br/>
@@ -1475,11 +1483,11 @@ https://www.geniuskitchen.com/recipe/gingerbread-pudding-cake-266842
 
 2/3 cup butter<br/>
 1 1/4 cup sugar<br/>
-1 1/4 cup vanilla<br/>
+1 1/4 tsp vanilla<br/>
 3 eggs<br/>
 1 1/4 cup sour cream or yogurt<br/>
-1 1/4 tsp baking soda<br/>
 2 cup flour<br/>
+1 1/4 tsp baking soda<br/>
 2 tsp baking powder<br/>
 
 Cream butter and sugar, add vanilla and eggs.
@@ -1492,6 +1500,7 @@ Pour half the batter into a greased bundt pan, then filling, then
 rest of batter.  Stir a bit, then bake at 350 F for 45 minutes.
 
 **Filling:** 1/2 cup brown sugar mixed with 2 tbsp cinnamon
+             Optional: chopped apple, more cinnamon
 
 ## Apricot Coffee Cake
 
@@ -1970,7 +1979,7 @@ Pour into buttered 8x8" pan and bake at 350 F for 25 minutes.
 1/4 cup condensed milk<br/>
 1 1/4 cup flour<br/>
 1/2 tsp baking soda<br/>
-1/2 tsp salt<br/>
+2/3 tsp salt<br/>
 1 cup oats (or less?)<br/>
 1 cup chocolate chips (or 3 oz semi-sweet chocolate chunks)<br/>
 
@@ -2078,6 +2087,7 @@ Bake at 350 F for 45 minutes.
 * [Peanut Butter Cookies](#peanut-butter-cookies)
 * [Cinnamon Cookies](#cinnamon-cookies)
 * [Oatmeal Cookies (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
+* [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
 
 
 <br/> <!-- force page break -->
@@ -2179,8 +2189,31 @@ raisins or chocolate chips (optional)<br/>
 Cream butter, shortening and sugar.  Add eggs.
 Add dry ingredients, raisins or choc. chips.
 
+Bake at 350 F for 15 to 20 minutes.
 
-Bake at 350 F 15 to 20 minutes.
+## Oatmeal Raisin Cookies (Lee Benson)
+
+1 cup shortening (or butter)<br/>
+2 cup brown sugar<br/>
+2 tsp vanilla<br/>
+1 1/2 cup flour<br/>
+1 tsp baking soda<br/>
+1 tsp salt<br/>
+1 tsp cinnamon<br/>
+2/3 cup raisins<br/>
+2/3 cup chocolate chips<br/>
+2/3 cup coconut<br/>
+2 1/2 cup oats<br/>
+1/2 cup water<br/>
+
+Cream shortening, sugar and vanilla.
+
+Mix remaining ingredients (except oats and water) and stir into
+shortening/sugar mix.  Add oats and water and mix until well blended.
+
+Drop by spoonfuls onto a greased cookie sheet.
+
+Bake at 350 F for 12 to 15 minutes.
 
 # Muffins
 
@@ -2224,7 +2257,7 @@ Mix these:
 1 lb medium tofu<br/>
 1/2 cup oil<br/>
 1/2 cup apple juice<br/>
-1/4 cup water<br/>
+1/2 cup water<br/>
 1 2/3 cup sugar<br/>
 2 tsp cinnamon<br/>
 2 tsp allspice<br/>
@@ -2237,7 +2270,7 @@ Mix these:
 4 tsp baking powder<br/>
 1/2 tsp baking soda<br/>
 
-Mix it all together.  If it's too thick, add more water.
+Mix it all together.  If it's too thick, add more water or juice.
 
 Oil muffin tins, bake 25-30 minutes at 400F
 
