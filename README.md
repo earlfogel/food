@@ -577,7 +577,6 @@ Bake 40 minutes at 350 F.
 1/2 to 1 tsp salt<br/>
 2 sliced tomatoes<br/>
 1/2 cup homemade breadcrumbs<br/>
-parsley or cilantro (optional)<br/>
 
 Saute onion in 2 tbsp olive oil until just soft; Stir in squash and sprinkle
 with salt; Cook, covered, 10-15 minutes until squash is almost done,
@@ -593,7 +592,7 @@ In a food processor, blend remaining squash mixture with eggs, cream and
 half the Romano, then stir into other mix and season with salt.
 
 Spoon into lightly-oiled 3 quart baking dish or large gratin dish.
-Cover with a layer of sliced tomatoes and sprinkle with remaining Romano
+Cover with a layer of sliced tomatoes then sprinkle with remaining Romano
 cheese and breadcrumbs.
 
 Bake at 375 F for 30 minutes or until set and lightly browned on top.
@@ -2299,8 +2298,8 @@ Add sifted icing sugar mixed with cocoa, then add vanilla.
 If too thick, add a bit more milk.
 Spread quickly before it hardens.
 
-This makes too much icing for a 9" 2 layer cake, and it's still too sweet.
-Next time try only 1 cup brown sugar.
+This makes too much icing for a 9" 2 layer cake, and it's too sweet.
+Next time try a bit less icing sugar and milk.
 
 ## Dark Chocolate Icing
 
