@@ -30,8 +30,6 @@
 * [Crepes](#crepes)
 
 
-Bread, biscuits, muffins and other breakfast foods.
-
 ## Corn Bread
 
 1 cup corn meal<br/>
@@ -305,9 +303,9 @@ pan should prevent this, or line the pan with parchement.
 ## Cinnamon Breakfast Cake
 
 1 1/2 cup flour<br/>
-1/4 tsp salt<br/>
-2 tsp baking powder<br/>
 1/2 cup sugar<br/>
+2 tsp baking powder<br/>
+1/4 tsp salt<br/>
 3/4 cup milk<br/>
 1 egg<br/>
 2 tsp vanilla<br/>
@@ -315,8 +313,8 @@ pan should prevent this, or line the pan with parchement.
 1/3 cup brown sugar<br/>
 1 tsp cinnamon<br/>
 
-Mix flour, salt, sugar and baking powder. Mix milk, egg and vanilla. Stir
-the wet and dry ingredients together, and mix in the melted butter.
+Mix flour, sugar, baking powder and salt. Mix milk, egg and vanilla. Stir
+the wet and dry ingredients together, then add the melted butter.
 
 Pour into a buttered 8x8" pan.  Mix brown sugar and cinnamon, sprinkle on
 top and swirl into batter.
@@ -479,28 +477,35 @@ minutes.
 
 ** Crust **
 
-1/2 cup butter<br/>
-1/2 cup shortening<br/>
-1/2 cup sugar<br/>
-4 eggs<br/>
-1 1/2 cup milk<br/>
-2 1/2 cup flour<br/>
-2 tsp baking powder<br/>
+1/4 cup butter<br/>
+1/4 cup shortening<br/>
+1/4 cup sugar<br/>
+2 eggs<br/>
+3/4 cup milk<br/>
+1 1/4 cup flour<br/>
+1 tsp baking powder<br/>
 
-Cream butter, crisco, sugar, beaten eggs.
-Add milk, flour. Mix till smooth.
+Cream butter, shortening, sugar, beaten eggs.
+Add milk, flour, baking powder. Mix till smooth.
 
 ** Filling **
 
-1 600 gram container dry cottage cheese<br/>
+1 container dry cottage cheese (600 gr)<br/>
 2 eggs<br/>
 2 tsp sugar<br/>
 1/4 tsp salt<br/>
 
-Put half batter in greased 9x13" pan,
+Put half batter in greased 8x8" pan,
 then filling, then rest of batter.
 
-Bake 30 to 45 minutes at 350 F.
+Bake 35 to 45 minutes at 350 F.
+
+Serve with strawberries in syrop and sour cream.
+
+For a 9x13 pan, double the crust but not the filling.
+Instead, add 1 cup drained regular cottage cheese 
+to the filling and leave out the salt (since there's
+enough salt in the cottage cheese).
 
 ## Cauliflower Cheese Pie
 
@@ -1134,7 +1139,7 @@ want.
 1 cup shredded cabbage<br/>
 1/2 tsp salt<br/>
 
-Cut up vegetables
+Cut up vegetables.
 
 Boil soup bones in 1-2 litres of water, add onion, celery and salt, simmer 
 1/2 hour.  Add the other vegetables and simmer 30 minutes to 1 hour 
@@ -1189,8 +1194,8 @@ If you can't find soup bones, use cut up meat instead.
 ## Dainty (Ethel Gordon)
 
 1 1/4 cup crushed graham wafers<br/>
-1/4 cup butter, melted<br/>
 1/3 cup icing sugar<br/>
+1/4 cup melted butter<br/>
 
 Mix and spread on bottom of 8x8" pan.
 
@@ -1201,7 +1206,8 @@ Mix and spread on bottom of 8x8" pan.
 3 egg whites, unbeaten<br/>
 1/2 tsp vanilla<br/>
 
-Beat until thick, then spread on top of wafers.
+Cream butter and sugar. Mix in melted chocolate, egg yolks and vanilla.
+Add egg whites and beat until thick, then spread on top of wafers.
 
 1 cup whipping cream<br/>
 1 tbsp sugar<br/>
@@ -1937,8 +1943,6 @@ Bake an additional 20 minutes.
 
 Serve when cool.
 
-Some people add more lemon or double the filling.
-
 https://www.allrecipes.com/recipe/10294/the-best-lemon-bars/
 
 ## Brownies (Silver Palate)
@@ -2097,7 +2101,7 @@ Boil three minutes:
 
 1/2 cup butter<br/>
 1/2 cup milk<br/>
-1 1/2 cup sugar<br/>
+1 3/4 cup sugar<br/>
 
 Mix in large bowl:
 
@@ -2105,7 +2109,8 @@ Mix in large bowl:
 1 cup coconut<br/>
 4 tbsp cocoa<br/>
 
-Stir in butter/sugar mix, then spoon onto cookie sheets and refrigerate.  
+Stir it all together, add 1/2 tsp vanilla, spoon onto cookie sheets
+and refrigerate.  
 
 ## Chocolate Chip Cookies
 
@@ -2257,7 +2262,7 @@ Mix these:
 1/2 cup oil<br/>
 1/2 cup apple juice<br/>
 1/2 cup water<br/>
-1 2/3 cup sugar<br/>
+1 1/3 cup sugar<br/>
 2 tsp cinnamon<br/>
 2 tsp allspice<br/>
 
@@ -2278,6 +2283,7 @@ Oil muffin tins, bake 25-30 minutes at 400F
 
 * [Chocolate Icing](#chocolate-icing)
 * [Dark Chocolate Icing](#dark-chocolate-icing)
+* [Cream Cheese Icing](#cream-cheese-icing)
 
 
 <br/> <!-- force page break -->
@@ -2314,6 +2320,15 @@ and boil for 3 minutes.
 Let cool 10-15 minutes, then sift in icing sugar.
 
 This covers a 9x13" cake.
+
+## Cream Cheese Icing
+
+8 oz cream cheese<br/>
+3 tbsp butter<br/>
+3/4 cup icing sugar<br/>
+
+Cream cheese and butter, add icing sugar and beat until smooth.
+Spread on cake.
 
 
 # Pie
