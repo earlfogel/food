@@ -250,7 +250,7 @@ flavour.
 
 ## Rye Soda Bread
 
-2 cup rye flour (or replace 1 cup rye with whole wheat)<br/>
+2 cup rye flour<br/>
 1 cup white flour<br/>
 1 cup whole wheat flour<br/>
 1 tbsp baking powder<br/>
@@ -268,8 +268,8 @@ Mix the egg and yogurt and stir into the dry ingredients just to blend.
 
 Sprinkle with oats and turn out onto buttered cookie sheet.
 
-Lightly cut diagonal lines on top of loaf and bake at 375 F for 45-50
-minutes or until it sounds hollow when tapped on the bottom.
+Bake at 375 F for 45-50 minutes or until it sounds hollow when tapped on
+the bottom.
 
 http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198
 
@@ -440,8 +440,7 @@ Pour onto crepes and sprinkle with cheese.
 * [Cossack Pie](#cossack-pie)
 * [Tian de courges](#tian-de-courges)
 * [Zucchini Quiche](#zucchini-quiche)
-* [Zucchini Quiche 2](#zucchini-quiche-2)
-* [Zucchini Quiche 3](#zucchini-quiche-3)
+* [Zucchini or Broccoli Quiche](#zucchini-or-broccoli-quiche)
 * [Onion Tarte](#onion-tarte)
 * [Butternut Squash Chipotle Chili with Avocado](#butternut-squash-chipotle-chili-with-avocado)
 * [Chickpea Curry](#chickpea-curry)
@@ -627,35 +626,14 @@ butter.
 
 Bake at 450 F for 10 minutes, then 325 F for 40 minutes.
 
+## Zucchini or Broccoli Quiche
 
-## Zucchini Quiche 2
-
-2 tbsp chopped onion<br/>
-2 small zucchini, chopped<br/>
-4 eggs<br/>
-1 cup milk<br/>
-1/4 cup yogurt<br/>
-1 1/2 cup mozzarella, grated<br/>
-2 tbsp pesto<br/>
-2 pie shells<br/>
-
-Bake empty pie shell at 400 F for 12-14 minutes.
-
-Fry onion til translucent, add zuccini and cook til soft, then spread in pie
-shells.  Sprinkle with cheese.
-
-Mix milk, eggs, yogurt and pesto, then pour on top.
-
-Bake at 350 F for 30 minutes.
-
-## Zucchini Quiche 3
-
-2 cup grated zuccini<br/>
+2 cup grated zuccini or cut up broccoli<br/>
 1 small red or orange pepper, diced<br/>
 1 1/2 cup grated mozzarella and cheddar<br/>
 3 eggs<br/>
-1 1/4 cup milk (or less)<br/>
-2 tbsp pesto<br/>
+1 1/4 cup milk<br/>
+2-3 tbsp pesto<br/>
 2 9" pie shells<br/>
 
 Bake empty pie shell at 400 F for 12 minutes.
@@ -665,10 +643,6 @@ Mix veggies and cheese, then spread in pie shells.
 Mix milk, eggs and pesto, then pour on top.
 
 Bake at 350 F for 35-40 minutes.
-
-If you have extra filling, add 1 or 2 eggs and fry til golden.
-
-Broccoli Quiche: use cut-up broccoli instead of zuccini.
 
 ## Onion Tarte
 
@@ -1456,33 +1430,38 @@ Mix until smooth, pour over cooled cake.
 1/4 teaspoon allspice<br/>
 1/4 teaspoon cloves<br/>
 1/4 teaspoon salt<br/>
-1/2 cup butter, room temperature<br/>
+1/4 cup butter, room temperature<br/>
 1/2 cup sugar<br/>
 1 egg<br/>
+3/4 cup milk<br/>
 1/4 cup molasses<br/>
-3/4 cup water<br/>
+
+*Pudding*
 3/4 cup brown sugar<br/>
-1 1/2 cup hot water<br/>
+4 tsp corn starch<br/>
+1 cup hot water<br/>
+1/4 cup butter<br/>
 
-Preheat oven to 350 degrees. Butter an 8x8 inch glass baking dish. Whisk
-flour, ginger, baking soda, cinnamon, nutmeg, allspice, cloves and salt in
-medium bowl.
+Mix dry ingredients in one bowl.
 
-Using an electric mixer, beat butter and 1/2 cup sugar in large bowl until
-blended. Beat in egg and molasses.
+Mix milk, egg and molasses in another.
 
-Alternately add 3/4 cup water and flour mixture, beating to blend. Transfer
-to prepared dish.
+Cream butter and sugar in a large bowl. Add half the molasses mix,
+then half the flour, then the remaining molasses and flour, stirring
+just until blended.
 
-Sprinkle brown sugar on top.
+Pour into buttered 8x8 pan.
 
-Carefully pour 1 1/2 cups hot water on top (don't worry, there will be lots
-of liquid on the top). Bake until gingerbread is cracked on top, about 45
-minutes.
+For the pudding: Mix the brown sugar and cornstarch together.
+Heat the water and butter together until the butter melts, then stir
+into the brown sugar mix and gently pour over the cake.
 
-Serve warm with whipped cream.
+Bake at 350 F until a toothpick inserted in the centre comes out clean,
+about 35 minutes.
 
-https://www.geniuskitchen.com/recipe/gingerbread-pudding-cake-266842
+Serve warm with whipped cream or ice cream.
+
+https://www.kingarthurflour.com/recipes/gingerbread-pudding-cake-recipe
 
 ## Coffee Cake
 
