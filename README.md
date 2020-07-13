@@ -71,7 +71,7 @@ If not done, remove cover and bake 5 more minutes.
 
 Cool on rack 1 hour or more.
 
-See: http://www.kk.org/cooltools/archives/004156.php
+See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
 
 ## Moosewood Cottage Cheese Herb Bread
 
@@ -142,7 +142,8 @@ When almost cool, brush with melted butter and sprinkle with icing sugar.
 Add 1/2 tsp each cardamom, nutmeg and cinnamon<br/>
 Add diced candied fruit  soaked in rum<br/>
 
-For more detail, see: https://www.daringgourmet.com/stollen-german-christmas-bread/
+For more detail, see:
+<small>https://www.daringgourmet.com/stollen-german-christmas-bread/</small>
 
 ## Homemade Marzipan
 
@@ -271,7 +272,7 @@ Sprinkle with oats and turn out onto buttered cookie sheet.
 Bake at 375 F for 45-50 minutes or until it sounds hollow when tapped on
 the bottom.
 
-http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198
+<small>http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198</small>
 
 ## Oat and Honey Soda Bread
 
@@ -688,7 +689,7 @@ Serve with diced avocado, cilantro and corn chips.
 
 Original recipe:
 
-https://cookieandkate.com/2012/butternut-squash-chipotle-chili-with-avocado/
+<small>https://cookieandkate.com/2012/butternut-squash-chipotle-chili-with-avocado/</small>
 
 ## Chickpea Curry
 
@@ -756,10 +757,10 @@ was based on the Mushroom Curry in the Moosewood cookbook.
 
 1 1/2 tablespoons coconut oil<br/>
 1 leek, cleaned and sliced (or 1/2 an onion)<br/>
-1/2 red pepper, sliced<br/>
+1 red pepper, sliced<br/>
 2 garlic cloves, minced<br/>
 1 teaspoon freshly grated ginger<br/>
-1 1/2 tbsp red curry paste<br/>
+2 tbsp red curry paste<br/>
 1 cup sugar snap peas, cut into thirds<br/>
 2 carrots, sliced<br/>
 1 (14 ounce) can coconut milk<br/>
@@ -774,7 +775,7 @@ stirring occasionally. If sauce is too thin, remove cover and cook a bit more.
 
 Serve with fresh cilantro and rice.
 
-https://www.howsweeteats.com/2013/07/easy-chickpea-curry-with-coconut-rice/
+<small>https://www.howsweeteats.com/2013/07/easy-chickpea-curry-with-coconut-rice/</small>
 
 ## Noodle Kugel
 
@@ -1069,7 +1070,7 @@ Serve with Red Lobster Biscuits or Corn Bread.
 
 My version of Robert's version of:
 
-   https://cooking.nytimes.com/recipes/1017950-chicken-mafe
+   <small>https://cooking.nytimes.com/recipes/1017950-chicken-mafe</small>
 
 2 lbs chicken breasts, in 1" cubes<br/>
 1/2 onion, chopped<br/>
@@ -1153,6 +1154,7 @@ If you can't find soup bones, use cut up meat instead.
 * [Sachertorte](#sachertorte)
 * [Lemon Pudding](#lemon-pudding)
 * [Lemon Bars](#lemon-bars)
+* [What To Do With Half A Lemon Tartes](#what-to-do-with-half-a-lemon-tartes)
 * [Brownies (Silver Palate)](#brownies-silver-palate)
 * [Gluten Free Brownies](#gluten-free-brownies)
 * [Chocolate Oatmeal Squares](#chocolate-oatmeal-squares)
@@ -1205,9 +1207,10 @@ to room temperature.
 Beat chilled evaporated milk (in cold bowl with cold beaters) until thick,
 then fold in jello mix.
 
-Leave 12 whole wafers and crush the rest.  Spread half the wafer crumbs
-on bottom of angel food pan, pour in filling, then sprinkle remaining
-crumbs on top.  Slide whole wafers down around the edges.  Refrigerate.
+Leave 12 whole wafers and crush the rest (~1.5 cups).  Spread half the wafer
+crumbs on bottom of angel food pan, pour in filling, then sprinkle
+remaining crumbs on top.  Slide whole wafers down around the edges.
+Refrigerate.
 
 ## Custard Cake
 
@@ -1243,17 +1246,19 @@ Let sit at least 24 hours before serving.
 
 ## Two-Thirds Half Cake
 
+2/3 cup butter, soft<br/>
+2/3 cup sugar<br/>
+1 egg white<br/>
+2 cup flour<br/>
+1/4 tsp baking soda<br/>
+2/3 tsp baking powder<br/>
+
 Mix butter, sugar and egg, then add dry ingredients and mix til crumbly.
 Press into two 9" cake pans and bake at 375 F for 15-20 minutes.
 
 This makes two thin layers which harden as they cool, like cookies.
 
-2/3 cup butter, soft<br/>
-2/3 cup sugar<br/>
-1 egg white<br/>
-2 cup flour(more)<br/>
-1/4 tsp baking soda<br/>
-1 tsp baking powder<br/>
+If using unsalted butter, add 1/8 tsp salt.
 
 ** Custard **
 
@@ -1263,7 +1268,7 @@ This makes two thin layers which harden as they cool, like cookies.
 1 1/3 cup milk<br/>
 1 1/3 tbsp corn starch</br>
 1 tbsp butter<br/>
-1 tsp vanilla<br/>
+2/3 tsp vanilla<br/>
 
 Bring egg yolk, sugar, cocoa and 1 cup milk to a boil,
 then add remaining milk mixed with corn starch.
@@ -1461,7 +1466,7 @@ about 35 minutes.
 
 Serve warm with whipped cream or ice cream.
 
-https://www.kingarthurflour.com/recipes/gingerbread-pudding-cake-recipe
+<small>https://www.kingarthurflour.com/recipes/gingerbread-pudding-cake-recipe</small>
 
 ## Coffee Cake
 
@@ -1689,9 +1694,12 @@ Mix together and spread on cake.  Broil carefully until lightly golden.
 1 tsp hot water<br/>
 3 eggs, separated<br/>
 
-Melt chocolate and butter, add sugar flour and hot water.
-When partially cool, add egg yolks and fold in beaten egg whites.
-Bake at 425 F for 15 minutes (it's still soft).
+Melt chocolate and butter.  Cool partially, then add sugar, flour and
+water.  When mostly cool, add egg yolks and fold in beaten egg whites.
+
+Bake at 425 F for 15 minutes in a 9" cake pan.
+
+It will still be soft in the middle.
 
 Refrigerate.  Serve with whipped cream.
 
@@ -1922,7 +1930,26 @@ Bake an additional 20 minutes.
 
 Serve when cool.
 
-https://www.allrecipes.com/recipe/10294/the-best-lemon-bars/
+<small>https://www.allrecipes.com/recipe/10294/the-best-lemon-bars/</small>
+
+## What To Do With Half A Lemon Tartes
+
+1/4 cup butter<br/>
+1/4 cup sugar<br/>
+1/2 cup flour<br/>
+
+Mix and press into bottom of six muffin cups.
+Bake 15 minutes at 350 F.
+
+1/2 cup sugar, or a bit less<br/>
+1 tbsp flour<br/>
+1 tsp corn starch<br/>
+1/4 cup yogurt<br/>
+1/2 lemon, juice<br/>
+
+Whisk it all together.
+Pour over baked crust.
+Bake an additional 15-20 minutes.
 
 ## Brownies (Silver Palate)
 
@@ -1970,7 +1997,8 @@ Add flour, salt, baking soda, oats and chocolate chunks.
 
 Bake in buttered 8x8 pan at 350 F for 30-35 minutes.
 
-Based on https://www.thespruceeats.com/chocolate-oatmeal-bars-3051975
+Based on
+<small>https://www.thespruceeats.com/chocolate-oatmeal-bars-3051975</small>
 
 ## Magic Squares
 
@@ -2318,6 +2346,7 @@ Spread on cake.
 * [Lemon Pie](#lemon-pie)
 * [Strawberry Bavarian Pie](#strawberry-bavarian-pie)
 * [Strawberry Fogellian Pie](#strawberry-fogellian-pie)
+* [Keyless Lime Pie](#keyless-lime-pie)
 
 
 <br/> <!-- force page break -->
@@ -2459,4 +2488,47 @@ When cool, but not set, fold in whipped cream and pour over crust. Chill.
 
 For Julie, replace butter and whipping cream with margarine and nutriwhip.
 
+## Keyless Lime Pie
 
+Crust:
+
+1 3/4 cup graham wafer crumbs<br/>
+3 tbsp melted butter<br/>
+3 tbsp melted coconut oil<br/>
+1 tbsp sugar<br/>
+
+Mix and spread in 9" pie dish.  Press evenly into bottom and up the sides
+of the dish.  Bake 12-15 minutes at 325 F.
+
+Filling:
+
+1 14 oz can sweetened condensed milk<br/>
+4 egg yolks<br/>
+1/2 cup lime juice (3-4 limes)<br/>
+1/4 cup lemon juice (1/2 to 1 lemon)<br/>
+2 tbsp sugar<br/>
+grated lime zest<br/>
+a pinch of salt<br/>
+
+Beat condensed milk and egg yolks in a large bowl until doubled in volume.
+Add juice, half the lime zest, sugar and salt.
+Pour into cooled crust and bake 15-20 minutes.
+Let cool completely.
+
+Topping:
+
+1 cup whipping cream<br/>
+1/4 cup icing sugar<br/>
+1/2 cup plain yogurt<br/>
+
+Whip cream and sugar until stiff peaks form.
+Mix in yogurt and spread over cooled pie.
+
+Sprinkle lime zest on top.
+
+Refrigerate.
+
+For Key Lime pie, use 3/4 cup key lime juice instead of lime and lemon
+juice.
+
+From <small>https://www.bonappetit.com/recipe/bas-best-key-lime-pie</small>
