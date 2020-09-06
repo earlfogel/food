@@ -1310,16 +1310,19 @@ and 1/4 cup flour.
 
 ## Cherry Cheese Cake
 
+1 1/4 cup crushed graham wafers<br/>
+2 lbs cream cheese<br/>
 1 1/4 cup sugar<br/>
 3 eggs<br/>
-2 lbs cream cheese<br/>
 5 tbsp flour<br/>
 1 tsp vanilla<br/>
 1 cup cream or 2/3 c milk<br/>
 1 can cherry pie filling<br/>
 
+Spread graham wafer crumbs in the bottom of a 9" round cake pan.
+
 Beat cream cheese and sugar, then mix in remaining ingredients
-(except cherry).
+(except pie filling).
 
 Top with cherry pie filling and bake at 350 F 35-40 minutes.
 Leave in oven with door open for 10 minutes.
@@ -1613,7 +1616,7 @@ When cool, sprinkle with icing sugar and serve with whipped cream.
 2 cup flour<br/>
 2 tsp baking soda<br/>
 2 tsp baking powder<br/>
-3 tsp cinnamon<br/>
+1-2 tbsp cinnamon<br/>
 1 cup raisins (optional)<br/>
 
 Preheat oven to 350 F.  Grease and flour 13x9" pan.
@@ -1928,8 +1931,6 @@ Whisk together sugar, flour, eggs, lemon juice and zest.
 Pour over baked crust.
 Bake an additional 20 minutes.
 
-Serve when cool.
-
 <small>https://www.allrecipes.com/recipe/10294/the-best-lemon-bars/</small>
 
 ## What To Do With Half A Lemon Tartes
@@ -2056,17 +2057,19 @@ Bake at 350 F for 45 to 60 minutes.
 
 4 cup diced rhubarb<br/>
 1/2 cup sugar<br/>
-1/4 tsp cinnamon<br/>
-1/4 cup melted shortening<br/>
-1/3 cup brown sugar<br/>
+1/2 tsp cinnamon<br/>
 2/3 cup flour<br/>
+1/3 cup brown sugar<br/>
 1/4 tsp baking soda<br/>
 2/3 cup rolled oats<br/>
+1/4 cup melted butter<br/>
 
-Dry rhubarb and mix with sugar.  Sprinkle with cinnamon.
-Mix shortening with brown sugar.
-Mix flour, salt, baking soda and oats.
-Blend flour and shortening mixtures and crumble over rhubarb.
+Mix rhubarb, sugar and cinnamon and spread in pan.
+
+Mix flour, brown sugar, baking soda and oats.
+Blend in butter and crumble over rhubarb.
+
+Optional: add 2 cups chopped apple and/or berries.
 
 Bake at 350 F for 40 minutes.
 
@@ -2098,6 +2101,7 @@ Bake at 350 F for 45 minutes.
 * [Cinnamon Cookies](#cinnamon-cookies)
 * [Oatmeal Cookies (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
 * [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
+* [Chocolate Oatmeal Cookies](#chocolate-oatmeal-cookies)
 
 
 <br/> <!-- force page break -->
@@ -2226,6 +2230,33 @@ Drop by spoonfuls onto a greased cookie sheet.
 
 Bake at 350 F for 12 to 15 minutes.
 
+## Chocolate Oatmeal Cookies
+
+1 cup flour<br/>
+1 cup rolled oats<br/>
+3 tbsp cocoa powder<br/>
+1 tsp baking powder<br/>
+1/2 tsp baking soda<br/>
+1/2 tsp salt<br/>
+1/2 tsp cinnamon<br/>
+1/2 cup butter<br/>
+1/2 cup brown sugar<br/>
+1/2 cup white sugar<br/>
+1 egg<br/>
+1 tsp vanilla extract<br/>
+1/2 cup semisweet chocolate chips<br/>
+
+Mix flour, oats, cocoa, baking powder, baking soda, salt and cinnamon; set aside.
+
+In a large bowl, cream together the butter, brown sugar and white sugar.
+Beat in the egg and vanilla. Add chocolate chips and stir in the dry ingredients.
+
+Drop by tablespoonfuls onto cookie sheets, leaving 2 inches between cookies.
+
+Bake at 350 F for 10 to 12 minutes, or until lightly browned.
+
+<small>https://www.allrecipes.com/recipe/25023/chocolate-oatmeal-cookies/</small>
+
 # Muffins
 
 * [Carrot Apple Muffins (or cake)](#carrot-apple-muffins-or-cake)
@@ -2299,10 +2330,10 @@ Oil muffin tins, bake 25-30 minutes at 400F
 
 5/8 cup butter<br/>
 1 1/2 cup brown sugar<br/>
-1/2 cup milk<br/>
-2 cup icing sugar<br/>
+1/2 cup milk (or a bit less)<br/>
+2 cup sifted icing sugar<br/>
 1/3 cup cocoa<br/>
-2 tsp vanilla<br/>
+1 1/2 tsp vanilla<br/>
 
 Melt butter and sugar, stir.
 Add milk, bring to a boil, remove from heat.
@@ -2311,8 +2342,6 @@ Add sifted icing sugar mixed with cocoa, then add vanilla.
 If too thick, add a bit more milk.
 Spread quickly before it hardens.
 
-This makes too much icing for a 9" 2 layer cake, and it's too sweet.
-Next time try a bit less icing sugar and milk.
 
 ## Dark Chocolate Icing
 
@@ -2418,6 +2447,7 @@ Stop adding water and processing as soon as dough forms a ball.
 juice from 1 1/2 lemons<br/>
 1/3 cup corn starch, mixed with 1/2 c cold water<br/>
 3 eggs, separated<br/>
+1 9" pie crust<br/>
 
 Stir 1 cup sugar and water over low heat until sugar disolves.  Add cornstarch
 (carefully) and mix.  Cook until thick, stirring constantly.
