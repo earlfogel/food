@@ -12,7 +12,7 @@
 
 * [Corn Bread](#corn-bread)
 * [No Knead Bread](#no-knead-bread)
-* [Moosewood Cottage Cheese Herb Bread](#moosewood-cottage-cheese-herb-bread)
+* [Cottage Cheese Herb Bread](#cottage-cheese-herb-bread)
 * [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
 * [Homemade Marzipan](#homemade-marzipan)
 * [Red Lobster Biscuits](#red-lobster-biscuits)
@@ -73,7 +73,7 @@ Cool on rack 1 hour or more.
 
 See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
 
-## Moosewood Cottage Cheese Herb Bread
+## Cottage Cheese Herb Bread
 
 1 cup whole wheat flour<br/>
 1 1/3 to 2 cup white flour<br/>
@@ -83,23 +83,22 @@ See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
 2 tbsp sugar<br/>
 1 cup cottage cheese<br/>
 1 tbsp vegetable oil<br/>
+1 clove minced garlic<br/>
 1/2 tsp minced fresh thyme<br/>
 1 tsp minced fresh rosemary<br/>
 2 tbsp minced scallions<br/>
-1/2 ice cold water<br/>
+1/2 cup cold water<br/>
 
 Mix flour, yeast, salt and baking powder in food processor for 5 seconds.
 
-Mix cottage cheese, oil, sugar, herbs, and scallions, add to food
-processor and blend 5-10 seconds.
+Add cottage cheese, oil, sugar, herbs, and scallions, and blend 5-10 seconds.
 
-Gradually add ice water, while blending, until dough is smooth and elastic
+Gradually add water, while blending, until dough is smooth and elastic
 (45-60 seconds).  If dough is too wet or too dry, add more flour or water, 2
 tbsp at a time.
 
-Shape the dough into a ball, sprinkle with flour and place in a bowl. Cover
-with a damp towel and set in a warm spot for about 45 mins, until doubled in
-size.
+Place dough in a bowl, cover with a damp towel and set in a warm spot for
+about 45 mins, until doubled in size.
 
 After the dough rises, punch it down, shape it into a ball and place in an
 oiled 2-quart casserole dish. Return the dough to its warm place and let it
@@ -107,8 +106,8 @@ rise again until doubled, about 30-45 mins.
 
 Preheat the oven to 350 F near the end of the second rising time. When the
 dough has doubled in size, bake 25-30 mins until it is golden brown and
-sounds hollow when thumped on the bottom. Cool on a rack about 10 mins and
-it will be easier to slice.
+sounds hollow when thumped on the bottom. Cool on a rack at least 10
+minutes.
 
 ## Sylvia Gerrard Stollen
 
@@ -889,13 +888,15 @@ Mix all ingredients.
 * [Sticky Chicky](#sticky-chicky)
 * [Sweet and Sour Meatballs](#sweet-and-sour-meatballs)
 * [Kyley Sweet and Sour Meatballs](#kyley-sweet-and-sour-meatballs)
-* [Sweet and Sour Beef Short Ribs](#sweet-and-sour-beef-short-ribs)
+* [Sweet and Sour Short Ribs](#sweet-and-sour-short-ribs)
 * [White House Ribs (not quite)](#white-house-ribs-not-quite)
 * [Greek Ribs](#greek-ribs)
 * [Sloppy Joes](#sloppy-joes)
 * [Earl's Chili](#earls-chili)
 * [Earl's Chicken Mafé](#earls-chicken-mafé)
 * [Beet Borscht](#beet-borscht)
+* [Beef Stew](#beef-stew)
+* [Anne's Cabbage Rolls](#annes-cabbage-rolls)
 
 
 <br/> <!-- force page break -->
@@ -964,7 +965,7 @@ Mix sugar, water, vinegar and soy sauce in pan. Heat, stirring occasionally
 until it boils.  Mix cornstarch with remaining water, add to sauce and stir
 until it thickens.  Add meatballs and simmer.
 
-## Sweet and Sour Beef Short Ribs
+## Sweet and Sour Short Ribs
 
 1-2 pounds beef ribs<br/>
 1/2 cup ketchup<br/>
@@ -1123,6 +1124,53 @@ until everything is tender.
 Serve with sour cream and fresh bread.
 
 If you can't find soup bones, use cut up meat instead.
+
+## Beef Stew
+
+2 pounds stew meat, cubed<br/>
+3 tbsp oil<br/>
+3 cup beef broth<br/>
+1 tsp dried rosemary<br/>
+1/4 tsp ground black pepper<br/>
+1/2 onion, chopped<br/>
+4 cloves garlic, chopped<br/>
+3 large potatoes, cubed<br/>
+4 medium carrots, cut into 1" pieces<br/>
+4 stalks celery, cut into 1" pieces<br/>
+3 tbsp cornstarch<br/>
+3 tbsp cold water or broth<br/>
+
+In a large pot, fry beef in oil over medium heat until mostly brown.
+Add onion, garlic and celery and fry a bit more.
+
+Add beef broth, rosemary and pepper.
+Bring to a boil, then reduce heat, cover and simmer 1 hour.
+
+Add potatoes and carrots and simmer another hour or more.
+
+Dissolve cornstarch in cold water then stir into stew.
+Stir 2 or 3 minutes until the stew thickens.
+
+Serve with corn bread.
+
+## Anne's Cabbage Rolls
+
+2/3 cup long grain rice<br/>
+1/2 lb ground pork<br/>
+1/2 lb ground beef<br/>
+4 tbsp onion (leave out if Dianne)<br/>
+1 1/2 tbsp season-all<br/>
+1/4 tsp pepper<br/>
+1/4 tsp basil<br/>
+1/2 cup tomato sauce<br/>
+sauerkraut<br/>
+
+Top:<br/>
+10 oz tomato sauce<br/>
+1/4 cup brown sugar<br/>
+1/4 cup vinegar<br/>
+
+Bake at 350 F for 2 hours.
 
 
 # Dessert
@@ -1333,7 +1381,7 @@ Leave in oven with door open for 10 minutes.
 
 1 1/2 cup crushed chocolate wafers<br/>
 2 tbsp sugar<br/>
-4 tbsp melted butter<br/>
+3 tbsp melted butter<br/>
 
 Mix and pat into 9" cake pan.
 
@@ -1342,7 +1390,7 @@ Mix and pat into 9" cake pan.
 1 lb cream cheese<br/>
 1 cup sugar<br/>
 2 eggs<br/>
-2 tsp vanilla<br/>
+1 tsp vanilla<br/>
 1 cup sour cream<br/>
 4 oz semi-sweet chocolate, melted<br/>
 
@@ -1431,20 +1479,21 @@ Mix until smooth, pour over cooled cake.
 ## Gingerbread Pudding Cake
 
 1 1/4 cup flour<br/>
-1 teaspoon ground ginger<br/>
-3/4 teaspoon baking soda<br/>
-1/2 teaspoon cinnamon<br/>
-1/4 teaspoon nutmeg<br/>
-1/4 teaspoon allspice<br/>
-1/4 teaspoon cloves<br/>
-1/4 teaspoon salt<br/>
+1 tsp ground ginger<br/>
+1 tsp fresh grated ginger<br/>
+3/4 tsp baking soda<br/>
+1/2 tsp cinnamon<br/>
+1/4 tsp nutmeg<br/>
+1/4 tsp allspice<br/>
+1/4 tsp cloves<br/>
+1/4 tsp salt<br/>
 1/4 cup butter, room temperature<br/>
 1/2 cup sugar<br/>
 1 egg<br/>
-3/4 cup milk<br/>
+1/2 cup milk<br/>
 1/4 cup molasses<br/>
 
-*Pudding*
+**Pudding**<br/>
 3/4 cup brown sugar<br/>
 4 tsp corn starch<br/>
 1 cup hot water<br/>
