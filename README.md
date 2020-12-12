@@ -242,11 +242,10 @@ Combine flour, baking powder, baking soda, sugar and salt,
 then add beaten egg, milk, vinegar and melted butter.
 Mix just until moistened.
 
-Bake at 325 F in a buttered 9x5" loaf pan for 65-70 minutes, or until
-toothpick emerges clean (check at 55).
+Bake at 325 F in a buttered 9x5" loaf pan for 60-70 minutes, or until
+toothpick emerges clean.
 
-Cool on wire rack, then wrap in foil for several hours/overnight for best
-flavour.
+Yummy while still hot from the oven, or toasted later.
 
 ## Rye Soda Bread
 
@@ -439,6 +438,7 @@ Pour onto crepes and sprinkle with cheese.
 * [Cauliflower Cheese Pie](#cauliflower-cheese-pie)
 * [Cossack Pie](#cossack-pie)
 * [Tian de courges](#tian-de-courges)
+* [Fettuccini Primavera](#fettuccini-primavera)
 * [Zucchini Quiche](#zucchini-quiche)
 * [Zucchini or Broccoli Quiche](#zucchini-or-broccoli-quiche)
 * [Onion Tarte](#onion-tarte)
@@ -603,6 +603,31 @@ Bake at 375 F for 30 minutes or until set and lightly browned on top.
 
 Fyi: original recipe had more onion, turnip and pepper.
 
+## Fettuccini Primavera
+
+1/4 cup oil<br/>
+3 cloves garlic, minced<br/>
+1 small head cauliflower, cut into florets<br/>
+1 small bunch broccoli, cut into florets<br/>
+1/2 lb mushrooms, sliced<br/>
+1/2 lb fettuccini<br/>
+1/2 cup Ricotta or Mozarella cheese<br/>
+1/4 cup grated Romano or Parmesan cheese<br/>
+1/2 cup whipping cream<br/>
+salt and cayenne to taste<br/>
+
+In a large frying pan, saute the garlic in oil for 2 minutes, then add
+cauliflower and broccoli.  Cook 3-5 minutes, stirring, then add mushrooms
+and cook another 3-5 minutes.
+
+Meanwhile, cook the pasta in a large pot of boiling water until "al dente",
+8-10 minutes. Drain.
+
+Add pasta to veggies in frying pan, along with cheeses and cream.
+
+Toss until well mixed and cheese has melted, then season to taste.
+Serve immediately.
+
 ## Zucchini Quiche
 
 1 9" pie shell<br/>
@@ -722,10 +747,12 @@ Serve over rice, with sauteed almonds on top.
 
 This curry is better the second day.
 
+This is based on the mushroom curry in the Moosewood cookbook.
+
 ## Sweet Potato Curry
 
 3 tbsp butter<br/>
-1/2 cup onion, chopped<br/>
+1/2 onion, chopped<br/>
 2 cloves minced garlic<br/>
 1 tsp cumin<br/>
 1 tsp cinnamon<br/>
@@ -735,22 +762,21 @@ This curry is better the second day.
 1/2 tsp dry mustard<br/>
 1 cup celery, chopped<br/>
 2 lbs sweet potato, peeled<br/>
-2 cup mushrooms<br/>
-1 cup green beans<br/>
+2 cup mushrooms, sliced<br/>
+2 cup green beans, chopped<br/>
 1 tbsp honey<br/>
 2 tbsp lemon juice<br/>
 
 Chop the vegetables into bite-sized pieces.
 
 Fry onions, garlic and spices in butter.  When onions are soft, add celery.
-When celery is soft, add sweet potato and cook 2-3 minutes.  Then add
+When celery is soft, add sweet potato.  When sweet potato is soft, add
 mushrooms, beans and a little water.  Cover and simmer over low heat until
 everything is tender.  Remove from heat and stir in honey and lemon juice.
 
-Serve over rice, with naan.
+Serve over rice, with yogurt and naan.
 
-This is a variation on my Chickpea Curry (above), which
-was based on the Mushroom Curry in the Moosewood cookbook.
+This is a variation on Chickpea Curry (above).
 
 ## Coconut Chickpea Curry
 
@@ -895,6 +921,7 @@ Mix all ingredients.
 * [Earl's Chili](#earls-chili)
 * [Earl's Chicken Mafé](#earls-chicken-mafé)
 * [Beet Borscht](#beet-borscht)
+* [Beef Barley Soup](#beef-barley-soup)
 * [Beef Stew](#beef-stew)
 * [Anne's Cabbage Rolls](#annes-cabbage-rolls)
 
@@ -984,7 +1011,7 @@ Cover and bake at 350 F for 2 hours, basting occasionally.
 1 tbsp minced onion<br/>
 6 oz ketchup<br/>
 6 oz chili sauce<br/>
-5 oz consome<br/>
+5 oz consomme<br/>
 3 tbsp vinegar<br/>
 2 tbsp worchestershire sauce<br/>
 1 tsp salt<br/>
@@ -1000,7 +1027,7 @@ them) to get rid of some of the fat.
 
 Put sauce on and bake at 350 F for 25-30 minutes on each side.
 
-Note: I leave out the consome and onion and don't cook the sauce.
+Note: I leave out the consomme and onion and don't cook the sauce.
 
 ## Greek Ribs
 
@@ -1046,13 +1073,13 @@ minutes.
 1 (19 ounce) can dark red kidney beans, rinsed, drained<br/>
 1 (19 ounce) can black beans, rinsed, drained<br/>
 1 (12 ounce) can corn, drained (or frozen corn)<br/>
-1 (10 ounce) can sliced mushroom, drained (or fresh)<br/>
-1 (10 ounce) can tomato soup, undiluted<br/>
+2 (10 ounce) can sliced mushroom, drained (or fresh)<br/>
+2 (10 ounce) can tomato soup, undiluted<br/>
 1 (28 ounce) can diced tomatoes with juice<br/>
-1 tbsp chili powder<br/>
-1/2 tbsp chipotle pepper<br/>
+1-2 tbsp chili powder<br/>
+1/2 tbsp chipotle pepper (optional)<br/>
 1 teaspoon oregano<br/>
-1 teaspoon cinnamon<br/>
+1 teaspoon cinnamon (optional)<br/>
 2 garlic cloves, minced<br/>
 
 Brown the ground beef in a large frying pan over medium heat.
@@ -1125,6 +1152,38 @@ Serve with sour cream and fresh bread.
 
 If you can't find soup bones, use cut up meat instead.
 
+## Beef Barley Soup
+
+1 lb beef soup bones<br/>
+1 lb lean beef, cubed<br/>
+3 tablespoons vegetable oil<br/>
+1 teaspoon salt<br/>
+1/2 teaspoon pepper<br/>
+2 teaspoons garlic powder<br/>
+1 litre beef broth<br/>
+1 litre water<br/>
+1 onion, chopped<br/>
+4 stalks celery, chopped<br/>
+6 carrots, chopped<br/>
+1/2 lb mushrooms, sliced<br/>
+1 cup barley<br/>
+
+Simmer soup bones and water in a large pot for 1 hour.
+
+Add beef broth, barley, salt, pepper and garlic powder.
+
+Saute the beef in oil until browned, then add to the soup.
+
+Saute onion until soft, then add to the soup.
+
+Saute celery until soft, then add to the soup.
+
+Add carrots and mushrooms.
+
+Cover and simmer 2 hours, until the vegetables and barley are tender.
+
+If soup is too thick, add more water or broth.
+
 ## Beef Stew
 
 2 pounds stew meat, cubed<br/>
@@ -1182,6 +1241,7 @@ Bake at 350 F for 2 hours.
 * [Cheese Cake](#cheese-cake)
 * [Cherry Cheese Cake](#cherry-cheese-cake)
 * [Chocolate Marble Cheese Cake](#chocolate-marble-cheese-cake)
+* [Chocolate Cheese Cake](#chocolate-cheese-cake)
 * [Banana Cake](#banana-cake)
 * [Banana Banana Bread](#banana-banana-bread)
 * [Gingerbread](#gingerbread)
@@ -1403,6 +1463,33 @@ Bake at 350 F for 45-50 minutes, centre should still wobble.
 Let cool 30 minutes in open oven.
 Cool to room temperature, then refrigerate.
 
+## Chocolate Cheese Cake
+
+**Crust:**
+
+1 1/2 cup crushed chocolate wafers<br/>
+2 tbsp sugar<br/>
+3 tbsp melted butter<br/>
+
+Mix and pat into 9" cake pan.
+
+**Cake:**
+
+1 lb cream cheese<br/>
+1 cup sugar<br/>
+2 eggs<br/>
+1 tsp vanilla<br/>
+1 cup sour cream<br/>
+2 oz semi-sweet chocolate, melted<br/>
+2 oz unsweetened chocolate, melted<br/>
+
+Beat cream cheese with sugar, add eggs, sour cream, vanilla
+and melted chocolate, and pour over crust.
+
+Bake at 350 F for 45-50 minutes, centre should still wobble.
+Let cool 30 minutes in open oven.
+Cool to room temperature, then refrigerate.
+
 ## Banana Cake
 
 1/2 cup butter<br/>
@@ -1411,6 +1498,7 @@ Cool to room temperature, then refrigerate.
 1/4 cup water<br/>
 1 tsp vinegar<br/>
 1 tsp baking soda<br/>
+1 tsp baking powder<br/>
 1 1/2 cup cake flour<br/>
 2 bananas, mashed<br/>
 
@@ -1661,11 +1749,11 @@ When cool, sprinkle with icing sugar and serve with whipped cream.
 2 cup sugar<br/>
 4 eggs<br/>
 1 cup oil<br/>
-3 cup grated carrot<br/>
 2 cup flour<br/>
 2 tsp baking soda<br/>
 2 tsp baking powder<br/>
 1-2 tbsp cinnamon<br/>
+3 cup grated carrot<br/>
 1 cup raisins (optional)<br/>
 
 Preheat oven to 350 F.  Grease and flour 13x9" pan.
@@ -1677,14 +1765,12 @@ Fold in carrots and raisins.  Pour into pan and bake
 
 ** Cream Cheese Icing
 
-8 oz cream cheese<br/>
-3 tbsp butter<br/>
-3/4 cup icing sugar<br/>
+12 oz cream cheese (1 1/2 bricks)<br/>
+1/4 cup butter<br/>
+1 1/4 cup icing sugar<br/>
 
 Cream cheese and butter, add icing sugar and beat until smooth.
 Spread on cake.
-
-** Next time try 12 oz cream cheese and 1 cup sugar.
 
 ## Carrot Pudding
 
@@ -1960,7 +2046,8 @@ juice and zest of one small lemon<br/>
 2 egg whites, beaten stiff<br/>
 
 Cream butter and sugar, then mix in egg yolks, flour, milk and lemon.
-Fold in egg whites.  Set in a pan of hot water and bake at 325 F for 1 hour.
+Fold in egg whites.  Pour into medium oven-proof dish, set in a pan of
+water and bake at 325 F for 1 hour.
 
 ## Lemon Bars
 
