@@ -1154,8 +1154,8 @@ If you can't find soup bones, use cut up meat instead.
 
 ## Beef Barley Soup
 
-1 lb beef soup bones<br/>
-1 lb lean beef, cubed<br/>
+1 1/2 lb beef soup bones<br/>
+1 1/2 lb lean beef, cubed<br/>
 3 tablespoons vegetable oil<br/>
 1 teaspoon salt<br/>
 1/2 teaspoon pepper<br/>
@@ -2238,6 +2238,7 @@ Bake at 350 F for 45 minutes.
 * [Oatmeal Cookies (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
 * [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
 * [Chocolate Oatmeal Cookies](#chocolate-oatmeal-cookies)
+* [Ginger Cookies](#ginger-cookies)
 
 
 <br/> <!-- force page break -->
@@ -2392,6 +2393,31 @@ Drop by tablespoonfuls onto cookie sheets, leaving 2 inches between cookies.
 Bake at 350 F for 10 to 12 minutes, or until lightly browned.
 
 <small>https://www.allrecipes.com/recipe/25023/chocolate-oatmeal-cookies/</small>
+
+## Ginger Cookies
+
+3/4 cup butter<br/>
+1 cup sugar<br/>
+1 egg<br/>
+1/4 cup molasses<br/>
+2-1/4 cups flour<br/>
+2 tsp ground ginger<br/>
+1 tsp baking soda<br/>
+3/4 tsp cinnamon<br/>
+1/2 tsp cloves<br/>
+1/4 tsp salt<br/>
+
+Cream butter and sugar until light and fluffy. Beat in egg and molasses.
+Add remaining ingredients and mix well.
+
+Roll into 1 1/2" balls, then roll in sugar.
+
+Place 2 in. apart on ungreased baking sheets.
+
+Bake at 350 F until lightly browned, 12-14 minutes.
+
+<small>https://www.tasteofhome.com/recipes/big-soft-ginger-cookies/</small>
+
 
 # Muffins
 
