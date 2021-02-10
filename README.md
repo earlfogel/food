@@ -162,9 +162,10 @@ This makes about twice what we need for one stollen.
 ## Red Lobster Biscuits
 
 Biscuits:
+
 1 cup grated cheese<br/>
 2 cup flour<br/>
-1 T baking powder<br/>
+1 tbsp baking powder<br/>
 2 tsp sugar<br/>
 1/4 cup melted butter<br/>
 1 cup milk<br/>
@@ -172,9 +173,10 @@ Biscuits:
 Mix these and scoop onto greased cookie sheet.
 
 Topping:
+
 1/4 cup melted butter<br/>
 1 clove minced garlic<br/>
-1 T parmesan<br/>
+1 tbsp parmesan<br/>
 
 Mix and brush over biscuit dough.
 Bake at 375 F for 12 minutes or until golden.
@@ -257,7 +259,7 @@ Yummy while still hot from the oven, or toasted later.
 1 tsp salt<br/>
 1 tsp caraway seeds<br/>
 2 tbsp brown sugar<br/>
-1 large egg, beaten<br/>
+1 egg, beaten<br/>
 2 cup yogurt (or 1 cup yogurt, 1 cup milk, 1 tbsp vinegar)<br/>
 oats (large flakes)<br/>
 
@@ -308,7 +310,7 @@ pan should prevent this, or line the pan with parchement.
 3/4 cup milk<br/>
 1 egg<br/>
 2 tsp vanilla<br/>
-1/4 cup butter<br/>
+1/4 cup butter (try more)<br/>
 1/3 cup brown sugar<br/>
 1 tsp cinnamon<br/>
 
@@ -567,7 +569,7 @@ Bake 40 minutes at 350 F.
 
 ## Tian de courges
 
-1/2 cup rice, cooked<br/>
+1 cup cooked rice<br/>
 1 small onion, chopped<br/>
 3 tbsp olive oil<br/>
 4 cup squash, peeled and chopped into 1/2 inch cubes<br/>
@@ -589,8 +591,8 @@ stirring occasionally.
 In another pan, saute zuccini, turnip and garlic in 1 tbsp olive oil,
 stirring occasionally.
 
-In a large mixing bowl, combine zucchini, rice, parsley, emmenthal and
-2/3 squash mixture.
+In a large mixing bowl, combine zucchini, rice, emmenthal and 2/3 squash
+mixture.
 
 In a food processor, blend remaining squash mixture with eggs, cream and
 half the Romano, then stir into other mix and season with salt.
@@ -1008,10 +1010,8 @@ Cover and bake at 350 F for 2 hours, basting occasionally.
 ## White House Ribs (not quite)
 
 2 racks pork back ribs, with membrane removed<br/>
-1 tbsp minced onion<br/>
 6 oz ketchup<br/>
 6 oz chili sauce<br/>
-5 oz consomme<br/>
 3 tbsp vinegar<br/>
 2 tbsp worchestershire sauce<br/>
 1 tsp salt<br/>
@@ -1020,14 +1020,11 @@ Cover and bake at 350 F for 2 hours, basting occasionally.
 1 1/2 tbsp lemon juice<br/>
 10-15 drops tabasco<br/>
 
-Put all ingredients in a pot and simmer for 15 minutes.
+Boil the ribs for 30 minutes to get rid of some of the fat.
 
-Before you add the sauce, boil the ribs for 20 minutes or bake or broil
-them) to get rid of some of the fat.
+Make a sauce by mixing the remaining ingredients together.
 
-Put sauce on and bake at 350 F for 25-30 minutes on each side.
-
-Note: I leave out the consomme and onion and don't cook the sauce.
+Put sauce on ribs and bake at 350 F for 25-30 minutes on each side.
 
 ## Greek Ribs
 
@@ -1267,6 +1264,7 @@ Bake at 350 F for 2 hours.
 * [Gluten Free Brownies](#gluten-free-brownies)
 * [Chocolate Oatmeal Squares](#chocolate-oatmeal-squares)
 * [Magic Squares](#magic-squares)
+* [Chocolate Eclairs](#chocolate-eclairs)
 * [Almond Slice](#almond-slice)
 * [Apple Crisp](#apple-crisp)
 * [Rhubarb Crisp](#rhubarb-crisp)
@@ -1289,12 +1287,11 @@ Mix and spread on bottom of 8x8" pan.
 3 egg yolks<br/>
 3 egg whites, unbeaten<br/>
 1/2 tsp vanilla<br/>
+1 cup whipping cream<br/>
+1 tbsp sugar<br/>
 
 Cream butter and sugar. Mix in melted chocolate, egg yolks and vanilla.
 Add egg whites and beat until thick, then spread on top of wafers.
-
-1 cup whipping cream<br/>
-1 tbsp sugar<br/>
 
 Whip cream and sugar, then spread on top of filling.
 
@@ -1480,8 +1477,8 @@ Mix and pat into 9" cake pan.
 2 eggs<br/>
 1 tsp vanilla<br/>
 1 cup sour cream<br/>
-2 oz semi-sweet chocolate, melted<br/>
-2 oz unsweetened chocolate, melted<br/>
+3 oz semi-sweet chocolate, melted<br/>
+1 oz unsweetened chocolate, melted<br/>
 
 Beat cream cheese with sugar, add eggs, sour cream, vanilla
 and melted chocolate, and pour over crust.
@@ -1560,9 +1557,14 @@ Bake in greased bundt pan at 350 F for 50-60 minutes.
 **Lemon Glaze** (optional)
 
 1/2 cup icing sugar<br/>
-1/4 cup lemon juice<br/>
+1/4 cup lemon juice (or less)<br/>
 
 Mix until smooth, pour over cooled cake.
+
+I usually leave out the glaze and make it in an 8x8" pan.
+
+The last time I tried the glaze, it was too tart,
+but after a while the lemon taste faded and it was nice.
 
 ## Gingerbread Pudding Cake
 
@@ -2154,6 +2156,43 @@ Bake at 325 F 25-30 minutes or until brown.
 
 Prairie Ink uses coconut, mini-chips and sliced almonds.
 
+## Chocolate Eclairs
+
+1/2 cup water<br/>
+1/4 cup butter<br/>
+1/2 cup flour<br/>
+2 eggs<br/>
+1 cup whipping cream<br/>
+1/4 cup icing sugar<br/>
+1/2 tsp vanilla<br/>
+2 oz semi sweet chocolate<br/>
+1/2 tsp shortening<br/>
+
+Combine water and butter in a small heavy saucepan and bring to a full
+boil.
+
+Add flour all at once, stirring vigorously until mixture forms
+a ball that comes away from the sides of the pan.  Remove from heat.
+
+Add eggs one at a time, beating vigorously after each until mixture is smooth
+and glossy (easiest with an electric mixer).  Turn dough into pastry bag
+with 1/2" plain tip.
+
+Pipe 3" long eclairs onto greased baking sheet, leaving room for them to
+double in size.
+
+Bake at 425 F for 10 minutes, reduce to 375 F and bake 10-15 more minutes
+until golden brown.  Remove from pan and cool completely.
+
+To make filling, whip cream, adding icing sugar and vanilla.
+
+Split eclairs in half lengthwise and remove any moist bits inside.
+Fill with whipped cream and replace tops.
+
+Melt chocolate with shortening and drizzle on top.
+
+Makes about 16.
+
 ## Almond Slice
 
 3/4 cup butter<br/>
@@ -2266,18 +2305,18 @@ and refrigerate.
 1 cup brown sugar<br/>
 1/2 cup white sugar<br/>
 2 eggs<br/>
-1-2 tsp vanilla<br/>
-2 cup flour<br/>
+1 tsp vanilla<br/>
+2 1/4 cup flour<br/>
 1/2 tsp salt<br/>
-1 tsp baking powder<br/>
+1 tsp baking soda<br/>
 1 cup dark chocolate chips<br/>
 1/2 cup raisins<br/>
 
 Cream butter and sugar, then mix in eggs and vanilla.
 Add flour, salt, baking powder, chocolate chips and raisins,
-mixing until just blended.  May need a bit more flour.
+mixing until just blended.
 
-Spoon onto cookie sheets and bake at 375 F for 10-15 minutes.
+Spoon onto cookie sheets and bake at 375 F for 12-15 minutes.
 
 ## Raisin Cookies
 
@@ -2406,6 +2445,7 @@ Bake at 350 F for 10 to 12 minutes, or until lightly browned.
 3/4 tsp cinnamon<br/>
 1/2 tsp cloves<br/>
 1/4 tsp salt<br/>
+extra sugar<br/>
 
 Cream butter and sugar until light and fluffy. Beat in egg and molasses.
 Add remaining ingredients and mix well.
