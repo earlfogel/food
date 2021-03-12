@@ -13,6 +13,7 @@
 * [Corn Bread](#corn-bread)
 * [No Knead Bread](#no-knead-bread)
 * [Cottage Cheese Herb Bread](#cottage-cheese-herb-bread)
+* [Challah](#challah)
 * [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
 * [Homemade Marzipan](#homemade-marzipan)
 * [Red Lobster Biscuits](#red-lobster-biscuits)
@@ -71,7 +72,6 @@ If not done, remove cover and bake 5 more minutes.
 
 Cool on rack 1 hour or more.
 
-See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
 
 ## Cottage Cheese Herb Bread
 
@@ -109,6 +109,47 @@ dough has doubled in size, bake 25-30 mins until it is golden brown and
 sounds hollow when thumped on the bottom. Cool on a rack at least 10
 minutes.
 
+## Challah
+
+3 cup flour<br/>
+1/2 packet yeast (1 1/4 tsp)<br/>
+1 tsp salt<br/>
+1 1/2 eggs<br/>
+3 tbsp honey<br/>
+1 cup lukewarm water (or so)<br/>
+1 tbsp oil<br/>
+sesame seeds<br/>
+
+** Egg Wash: **<br/>
+1/2 egg (or 1/2 egg white)<br/>
+1 tsp water<br/>
+1/4 tsp salt<br/>
+
+Put flour, yeast, salt, eggs and honey in a food processor.
+While food processor is running, slowly add water until
+dough forms a ball.  You may not need need all the water.
+Keep processing (kneading) for 30-40 seconds.
+
+Turn dough out into an oiled bowl and rotate so entire surface is
+covered in oil.
+
+Cover and let rise in a warm place for 1 hour or so, until
+doubled in size.  Punch down and let rise for another hour.
+
+Turn dough out onto a lightly floured surface, divide in three
+and shape into round strips, about 10" long, tapered towards
+the ends.  Braid tightly, then pinch the ends together
+and fold them underneath.
+
+Brush with egg wash, sprinkle with sesame seeds, move to a baking sheet and
+let rise 30-45 minutes.
+
+Bake at 350 F for 35-40 minutes.  About half-way through, brush any lightly
+colored bits with more egg wash.
+
+If the loaf browns too soon, cover with tin foil for the last few minutes.
+
+
 ## Sylvia Gerrard Stollen
 
 4 cup flour<br/>
@@ -142,7 +183,6 @@ Add 1/2 tsp each cardamom, nutmeg and cinnamon<br/>
 Add diced candied fruit  soaked in rum<br/>
 
 For more detail, see:
-<small>https://www.daringgourmet.com/stollen-german-christmas-bread/</small>
 
 ## Homemade Marzipan
 
@@ -272,7 +312,6 @@ Sprinkle with oats and turn out onto buttered cookie sheet.
 Bake at 375 F for 45-50 minutes or until it sounds hollow when tapped on
 the bottom.
 
-<small>http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198</small>
 
 ## Oat and Honey Soda Bread
 
@@ -715,7 +754,6 @@ Serve with diced avocado, cilantro and corn chips.
 
 Original recipe:
 
-<small>https://cookieandkate.com/2012/butternut-squash-chipotle-chili-with-avocado/</small>
 
 ## Chickpea Curry
 
@@ -802,7 +840,6 @@ stirring occasionally. If sauce is too thin, remove cover and cook a bit more.
 
 Serve with fresh cilantro and rice.
 
-<small>https://www.howsweeteats.com/2013/07/easy-chickpea-curry-with-coconut-rice/</small>
 
 ## Noodle Kugel
 
@@ -1095,7 +1132,6 @@ Serve with Red Lobster Biscuits or Corn Bread.
 
 My version of Robert's version of:
 
-   <small>https://cooking.nytimes.com/recipes/1017950-chicken-mafe</small>
 
 2 lbs chicken breasts, in 1" cubes<br/>
 1/2 onion, chopped<br/>
@@ -1297,6 +1333,8 @@ Whip cream and sugar, then spread on top of filling.
 
 Grate chocolate on top.
 
+Refrigerate.
+
 ## Ice Box Dessert
 
 1 pkg (85 gr) lime jello<br/>
@@ -1421,7 +1459,7 @@ and 1/4 cup flour.
 3 eggs<br/>
 5 tbsp flour<br/>
 1 tsp vanilla<br/>
-1 cup cream or 2/3 c milk<br/>
+1 cup cream or 1/2 c milk<br/>
 1 can cherry pie filling<br/>
 
 Spread graham wafer crumbs in the bottom of a 9" round cake pan.
@@ -1429,8 +1467,24 @@ Spread graham wafer crumbs in the bottom of a 9" round cake pan.
 Beat cream cheese and sugar, then mix in remaining ingredients
 (except pie filling).
 
-Top with cherry pie filling and bake at 350 F 35-40 minutes.
+Bake at 350 F 35-40 minutes.
+
 Leave in oven with door open for 10 minutes.
+Cool on the counter for a while, then refrigerate.
+
+When cool, top with cherry pie filling, or homemade cherry sauce.
+
+** Cherry Sauce **:<br/>
+1 1/2 cup cherries, pitted<br/>
+1/4 cup sugar<br/>
+1/2 cup water<br/>
+1 tbsp corn starch<br/>
+
+Heat cherries, sugar and 1/4 cup water until it begins to boil.
+Mix remaining water with cornstarch and add to the pot.
+Cook slowly, stirring, until the sauce turns clear and thickens.
+
+When cool, spoon onto cake.
 
 ## Chocolate Marble Cheese Cake
 
@@ -1608,7 +1662,6 @@ about 35 minutes.
 
 Serve warm with whipped cream or ice cream.
 
-<small>https://www.kingarthurflour.com/recipes/gingerbread-pudding-cake-recipe</small>
 
 ## Coffee Cake
 
@@ -2069,7 +2122,6 @@ Whisk together sugar, flour, eggs, lemon juice and zest.
 Pour over baked crust.
 Bake an additional 20 minutes.
 
-<small>https://www.allrecipes.com/recipe/10294/the-best-lemon-bars/</small>
 
 ## What To Do With Half A Lemon Tartes
 
@@ -2137,7 +2189,6 @@ Add flour, salt, baking soda, oats and chocolate chunks.
 Bake in buttered 8x8 pan at 350 F for 30-35 minutes.
 
 Based on
-<small>https://www.thespruceeats.com/chocolate-oatmeal-bars-3051975</small>
 
 ## Magic Squares
 
@@ -2431,7 +2482,6 @@ Drop by tablespoonfuls onto cookie sheets, leaving 2 inches between cookies.
 
 Bake at 350 F for 10 to 12 minutes, or until lightly browned.
 
-<small>https://www.allrecipes.com/recipe/25023/chocolate-oatmeal-cookies/</small>
 
 ## Ginger Cookies
 
@@ -2456,7 +2506,6 @@ Place 2 in. apart on ungreased baking sheets.
 
 Bake at 350 F until lightly browned, 12-14 minutes.
 
-<small>https://www.tasteofhome.com/recipes/big-soft-ginger-cookies/</small>
 
 
 # Muffins
@@ -2763,4 +2812,3 @@ Refrigerate.
 For Key Lime pie, use 3/4 cup key lime juice instead of lime and lemon
 juice.
 
-From <small>https://www.bonappetit.com/recipe/bas-best-key-lime-pie</small>
