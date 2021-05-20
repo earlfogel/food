@@ -10,6 +10,7 @@
 
 # Bread, Biscuits and Breakfast
 
+* [Everyday Granola](#everyday-granola)
 * [Corn Bread](#corn-bread)
 * [No Knead Bread](#no-knead-bread)
 * [Cottage Cheese Herb Bread](#cottage-cheese-herb-bread)
@@ -29,6 +30,28 @@
 * [Potato Pancakes](#potato-pancakes)
 * [Waffles](#waffles)
 * [Crepes](#crepes)
+* [Yorkshire Pudding](#yorkshire-pudding)
+
+
+## Everyday Granola
+
+7 cups large rolled oats<br/>
+1/3 cup coconut<br/>
+1/3 cup raw pumpkin seeds<br/>
+1/3 cup raw sunflower seeds<br/>
+1/3 cup slivered almonds<br/>
+1 tbsp cinnamon (or more)<br/>
+1 cup brown sugar<br/>
+1/2 cup water<br/>
+1/2 cup oil<br/>
+
+Mix oats, coconut, pumpkin seeds, sunflower seeds, almonds and cinnamon
+in a large baking dish.
+
+Combine brown sugar, water and oil, then add to dry ingredients and
+stir.
+
+Bake at 350 F for 1 hour, stirring every 15 minutes.
 
 
 ## Corn Bread
@@ -264,18 +287,18 @@ Spread on a cookie sheet sprinkled with corn meal.
 
 Let rise 2-3 minutes.
 
-Bake 15 - 20 minutes at 400 F until bottom is golden.
+Bake at 400 F for 15 - 20 minutes until bottom is golden.
 
 ## Irish Soda Bread
 
-1 egg<br/>
-2 cups milk<br/>
-2 tbsp vinegar<br/>
 3 cups flour<br/>
 1 tbsp baking powder<br/>
 1 tsp baking soda<br/>
 1/3 cup sugar<br/>
 1 tsp salt<br/>
+1 egg<br/>
+2 cups milk<br/>
+2 tbsp vinegar<br/>
 1/4 cup melted butter<br/>
 
 Mix milk and vinegar.
@@ -471,6 +494,22 @@ Then add spices to taste.
 
 Pour onto crepes and sprinkle with cheese.
 
+## Yorkshire Pudding
+
+4 eggs<br/>
+1/2 cup flour<br/>
+1/2 cup milk<br/>
+1/3 cup water<br/>
+1/4 tsp salt<br/>
+
+Whisk it all together.
+
+Generously butter 12 cup muffin tin and half-fill each cup with batter.
+
+Bake at 400 F for 20 minutes.
+
+Serve immediately, traditionally with roast beef.
+
 
 # Vegetarian
 
@@ -538,7 +577,7 @@ Add milk, flour, baking powder. Mix till smooth.
 Put half batter in greased 8x8" pan,
 then filling, then rest of batter.
 
-Bake 35 to 45 minutes at 350 F.
+Bake at 350 F for 35 to 45 minutes.
 
 Serve with strawberries in syrop and sour cream.
 
@@ -558,7 +597,7 @@ enough salt in the cottage cheese).
 Salt the grated potato and let it sit 10 minutes,
 then squeeze out excess water.  Add egg, then spread
 into a well-oiled 9" pie pan and brush with oil.
-Bake 40-45 minutes at 400 F.
+Bake at 400 F for 40-45 minutes.
 
 ** Filling **
 
@@ -578,7 +617,7 @@ Saute onion and garlic in butter until soft.
 Add cauliflower and herbs and cook until soft (~10 minutes).
 Mix in cheese and pour into baked crust.
 Pour mixed milk and eggs on top and dust with paprika.
-Bake 35-40 minutes at 375 F.
+Bake at 375 F for 35-40 minutes.
 
 ## Cossack Pie
 
@@ -604,41 +643,43 @@ Add cheese and eggs to vegetables and spread into crust.
 Spread the sour cream/yogurt on top, then decorate with
 sliced mushrooms and dust with paprika.
 
-Bake 40 minutes at 350 F.
+Bake at 350 F for 40 minutes.
 
 ## Tian de courges
 
 1 cup cooked rice<br/>
 1 small onion, chopped<br/>
-3 tbsp olive oil<br/>
+4 tbsp olive oil<br/>
 4 cup squash, peeled and chopped into 1/2 inch cubes<br/>
 1 medium zuccini, cubed, about 2 cups<br/>
 2 cup grated white turnip<br/>
 2 cloves garlic, minced<br/>
 1.5 cup grated emmenthal cheese<br/>
-2/3 cup grated romano cheese<br/>
+2/3 cup grated romano cheese (divided)<br/>
 4 eggs<br/>
 1/2 cup cream<br/>
 1/2 to 1 tsp salt<br/>
 2 sliced tomatoes<br/>
 1/2 cup homemade breadcrumbs<br/>
 
-Saute onion in 2 tbsp olive oil until just soft; Stir in squash and sprinkle
+Saute onion in 2 tbsp oil until just soft; Stir in squash and sprinkle
 with salt; Cook, covered, 10-15 minutes until squash is almost done,
 stirring occasionally.
 
-In another pan, saute zuccini, turnip and garlic in 1 tbsp olive oil,
+In another pan, saute zuccini, turnip and garlic in 2 tbsp oil,
 stirring occasionally.
 
-In a large mixing bowl, combine zucchini, rice, emmenthal and 2/3 squash
-mixture.
+In a small bowl, combine bread crumbs and half the romano.
 
-In a food processor, blend remaining squash mixture with eggs, cream and
-half the Romano, then stir into other mix and season with salt.
+In a large bowl, combine remaining romano, emmenthal, zucchini, rice, 
+and 2/3 squash mixture.
+
+In a food processor, blend remaining squash mixture with eggs and cream,
+then stir into other mix and season with salt.
 
 Spoon into lightly-oiled 3 quart baking dish or large gratin dish.
-Cover with a layer of sliced tomatoes then sprinkle with remaining Romano
-cheese and breadcrumbs.
+Cover with a layer of sliced tomatoes then sprinkle with romano and
+breadcrumbs.
 
 Bake at 375 F for 30 minutes or until set and lightly browned on top.
 
@@ -1004,7 +1045,7 @@ sprinkle on sesame seeds.
 
 Brown meatballs.  For sauce, mix pineapple juice and water (1 cup total),
 then add remaining ingredients.  Heat until thick and clear.
-Pour sauce over meatballs and simmer about 20 minutes.
+Add pineapple to meatballs, stir in sauce and simmer about 20 minutes.
 
 ## Kyley Sweet and Sour Meatballs
 
@@ -1331,7 +1372,7 @@ Add egg whites and beat until thick, then spread on top of wafers.
 
 Whip cream and sugar, then spread on top of filling.
 
-Grate chocolate on top.
+Grate a little chocolate on top.
 
 Refrigerate.
 
@@ -1502,7 +1543,7 @@ Mix and pat into 9" cake pan.
 1 cup sugar<br/>
 2 eggs<br/>
 1 tsp vanilla<br/>
-1 cup sour cream<br/>
+1 cup sour cream (3/4?)<br/>
 4 oz semi-sweet chocolate, melted<br/>
 
 Beat cream cheese with sugar, add eggs, sour cream and vanilla.
@@ -1545,26 +1586,24 @@ Cool to room temperature, then refrigerate.
 
 1/2 cup butter<br/>
 1 1/4 cup sugar<br/>
-2 eggs (or 2 tbsp egg replacer and 1/4 cup water)<br/>
-1/4 cup water<br/>
-1 tsp vinegar<br/>
+2 eggs<br/>
+1/4 cup sour cream<br/>
 1 tsp baking soda<br/>
 1 tsp baking powder<br/>
 1 1/2 cup cake flour<br/>
 2 bananas, mashed<br/>
 
-Cream butter and sugar, then add eggs.
-Mix water and vinegar.
-Mix cake flour, baking soda and baking powder.
+Cream butter and sugar, then add eggs, sour cream
+and mashed banana.
 
-Alternately add dry and liquid mixes to batter,
-then add mashed bananas.
+Stir in cake flour, baking soda and baking powder.
 
 Pour into greased 9x13" pan and bake at 350 F for 40 minutes.
 
 When cool, top with dark chocolate icing.
 
-This cake is lighter and fluffier if you use egg replacer instead of eggs.
+Dairy-free version: replace butter, eggs and sour cream with
+margarine, 2 tbsp egg replacer, 1 tsp vinegar and 1/2 cup water.
 
 ## Banana Banana Bread
 
@@ -1856,14 +1895,14 @@ When cool, fold in beaten egg whites and sugar, and pour over cake.
 
 ## Lazy Daisy Cake
 
-1 cup white sugar<br/>
+1 cup sugar<br/>
 1 cup flour<br/>
 1/3-1/2 cup cocoa<br/>
 1 tsp baking powder<br/>
 1/2 tsp salt<br/>
 2 eggs<br/>
 1 tbsp butter, melted<br/>
-1/2 cup warm milk<br/>
+1/2 cup milk<br/>
 1 tsp vanilla<br/>
 
 Mix dry ingredients, then stir in eggs, butter, milk and vanilla.
@@ -2104,6 +2143,8 @@ Cream butter and sugar, then mix in egg yolks, flour, milk and lemon.
 Fold in egg whites.  Pour into medium oven-proof dish, set in a pan of
 water and bake at 325 F for 1 hour.
 
+Serve warm.
+
 ## Lemon Bars
 
 1/2 cup butter<br/>
@@ -2111,7 +2152,7 @@ water and bake at 325 F for 1 hour.
 1 cup flour<br/>
 
 Mix and press into bottom of ungreased 8x8 pan.
-Bake 15 to 20 minutes at 350 F.
+Bake at 350 F for 15 to 20 minutes.
 
 3/4 cup sugar<br/>
 2 tbsp flour<br/>
@@ -2130,7 +2171,7 @@ Bake an additional 20 minutes.
 1/2 cup flour<br/>
 
 Mix and press into bottom of six muffin cups.
-Bake 15 minutes at 350 F.
+Bake at 350 F for 15 minutes.
 
 1/2 cup sugar, or a bit less<br/>
 1 tbsp flour<br/>
@@ -2329,6 +2370,7 @@ Bake at 350 F for 45 minutes.
 * [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
 * [Chocolate Oatmeal Cookies](#chocolate-oatmeal-cookies)
 * [Ginger Cookies](#ginger-cookies)
+* [Maxine's Komish](#maxines-komish)
 
 
 <br/> <!-- force page break -->
@@ -2360,14 +2402,14 @@ and refrigerate.
 2 1/4 cup flour<br/>
 1/2 tsp salt<br/>
 1 tsp baking soda<br/>
-1 cup dark chocolate chips<br/>
+1 cup chocolate chips<br/>
 1/2 cup raisins<br/>
 
 Cream butter and sugar, then mix in eggs and vanilla.
 Add flour, salt, baking powder, chocolate chips and raisins,
 mixing until just blended.
 
-Spoon onto cookie sheets and bake at 375 F for 12-15 minutes.
+Spoon onto cookie sheets and bake at 375 F for 10-12 minutes.
 
 ## Raisin Cookies
 
@@ -2475,7 +2517,7 @@ Bake at 350 F for 12 to 15 minutes.
 
 Mix flour, oats, cocoa, baking powder, baking soda, salt and cinnamon; set aside.
 
-In a large bowl, cream together the butter, brown sugar and white sugar.
+In a large bowl, cream together the butter and sugar.
 Beat in the egg and vanilla. Add chocolate chips and stir in the dry ingredients.
 
 Drop by tablespoonfuls onto cookie sheets, leaving 2 inches between cookies.
@@ -2506,6 +2548,29 @@ Place 2 in. apart on ungreased baking sheets.
 
 Bake at 350 F until lightly browned, 12-14 minutes.
 
+
+## Maxine's Komish
+
+3 eggs<br/>
+1 cup sugar<br/>
+1 cup oil<br/>
+1 tsp vanilla<br/>
+16 oz chopped filberts (blender)<br/>
+4 oz semi sweet chocolate chips<br/>
+3/4 cup coconut (dessicated)<br/>
+2 1/2 cups flour<br/>
+2 tsp baking powder<br/>
+1/2 tsp salt<br/>
+
+Mix altogether. Form into rolls.
+
+Bake at 350 F for 45 minutes on parchment-lined baking pan.
+
+As soon as it is out of the oven, slice diagonally and dry in oven.
+
+I use ground and slivered almonds (300 and 100 grams respectively)
+plus 1 tsp almond extract instead of filberts, and don't dry the sliced
+komish in the oven.
 
 
 # Muffins
@@ -2565,7 +2630,7 @@ Mix these:
 
 Mix it all together.  If it's too thick, add more water or juice.
 
-Oil muffin tins, bake 25-30 minutes at 400F
+Oil muffin tins, bake at 400 F for 25-30 minutes.
 
 
 # Icing
@@ -2598,7 +2663,7 @@ Spread quickly before it hardens.
 
 1/2 cup brown sugar<br/>
 1/3 cup water<br/>
-2 oz bitter chocolate<br/>
+2 oz unsweetened chocolate<br/>
 2 tbsp butter<br/>
 6-7 heaping tbsp icing sugar<br/>
 
