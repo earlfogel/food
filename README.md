@@ -884,6 +884,7 @@ Serve with fresh cilantro and rice.
 
 ## Noodle Kugel
 
+1 pkg wide flat noodles<br/>
 3 eggs<br/>
 1 1/2 cup cottage cheese<br/>
 8 oz cream cheese (optional)<br/>
@@ -892,7 +893,6 @@ Serve with fresh cilantro and rice.
 1 tsp cinnamon<br/>
 1/4 cup honey<br/>
 2 apples, sliced<br/>
-1 pkg wide flat noodles<br/>
 corn flakes<br/>
 butter<br/>
 
@@ -900,7 +900,7 @@ Boil noodles in salted water until barely tender,
 drain and dot with butter.
 
 Beat eggs, cheese, yogurt, vanilla, cinnamon and honey.
-Combine with apples and noodles and spread into a well
+Combine with sliced apple and noodles and spread into a
 buttered casserole dish.
 
 Top with corn flakes, dot with butter and bake at 375 F for 35 minutes.
@@ -1325,6 +1325,7 @@ Bake at 350 F for 2 hours.
 * [Cardamom Coffee Cake](#cardamom-coffee-cake)
 * [Honey Cake](#honey-cake)
 * [Felix's Apple Cake](#felixs-apple-cake)
+* [Apple Spice Cake](#apple-spice-cake)
 * [Carrot Cake](#carrot-cake)
 * [Carrot Pudding](#carrot-pudding)
 * [Lazy Daisy Cake](#lazy-daisy-cake)
@@ -1489,8 +1490,7 @@ Leave in oven with door open 10 minutes. Refrigerate.
 
 Top with frozen strawberries.
 
-For a lighter, fluffier cake, use only 2 eggs and add 1/2 cup milk or cream
-and 1/4 cup flour.
+For a lighter cake, replace 2 eggs with 1/4 cup milk or cream.
 
 ## Cherry Cheese Cake
 
@@ -1513,16 +1513,16 @@ Bake at 350 F 35-40 minutes.
 Leave in oven with door open for 10 minutes.
 Cool on the counter for a while, then refrigerate.
 
-When cool, top with cherry pie filling, or homemade cherry sauce.
+When cool, top with cherry pie filling, or homemade cherry topping.
 
-** Cherry Sauce **:<br/>
-1 1/2 cup cherries, pitted<br/>
-1/4 cup sugar<br/>
-1/2 cup water<br/>
+** Cherry Topping **:<br/>
+1 can cherries in syrop<br/>
 1 tbsp corn starch<br/>
 
-Heat cherries, sugar and 1/4 cup water until it begins to boil.
-Mix remaining water with cornstarch and add to the pot.
+Mix corn starch with 1/4 cup cherry syrop and set aside.
+
+Bring cherries and remaining syrop to a boil,
+then add cornstarch/syrop mix.
 Cook slowly, stirring, until the sauce turns clear and thickens.
 
 When cool, spoon onto cake.
@@ -1646,18 +1646,6 @@ Alternately add dry and liquid ingredients to butter
 and mix until just blended.
 
 Bake in greased bundt pan at 350 F for 50-60 minutes.
-
-**Lemon Glaze** (optional)
-
-1/2 cup icing sugar<br/>
-1/4 cup lemon juice (or less)<br/>
-
-Mix until smooth, pour over cooled cake.
-
-I usually leave out the glaze and make it in an 8x8" pan.
-
-The last time I tried the glaze, it was too tart,
-but after a while the lemon taste faded and it was nice.
 
 ## Gingerbread Pudding Cake
 
@@ -1837,6 +1825,30 @@ Place apples on top of batter (grooved side out).
 Bake at 375 F for 40-50 minutes.
 
 When cool, sprinkle with icing sugar and serve with whipped cream.
+
+## Apple Spice Cake
+
+1/4 cup butter<br/>
+1 cup sugar<br/>
+1 egg<br/>
+1/2 cup apple sauce<br/>
+1 apple, chopped<br/>
+1 1/4 cups flour<br/>
+1 1/2 tsp cinnamon<br/>
+1/4 tsp nutmeg<br/>
+1/4 tsp cloves<br/>
+1 tsp baking soda<br/>
+3/4 tsp salt<br/>
+
+Cream butter and sugar, then add eggs, applesauce and apple.
+
+Add flour, cinnamon, nutmeg, cloves, baking soda and salt,
+and stir just until mixed.
+
+Pour into buttered 8x8" pan.
+
+Bake at 375 F for 30-35 minutes.
+
 
 ## Carrot Cake
 
@@ -2324,30 +2336,32 @@ Bake at 350 F for 45 to 60 minutes.
 
 4 cup diced rhubarb<br/>
 1/2 cup sugar<br/>
-1/2 tsp cinnamon<br/>
-2/3 cup flour<br/>
+1/4 tsp cinnamon<br/>
+1/4 cup melted butter<br/>
 1/3 cup brown sugar<br/>
+2/3 cup flour<br/>
 1/4 tsp baking soda<br/>
 2/3 cup rolled oats<br/>
-1/4 cup melted butter<br/>
 
 Mix rhubarb, sugar and cinnamon and spread in pan.
 
-Mix flour, brown sugar, baking soda and oats.
-Blend in butter and crumble over rhubarb.
+Mix melted butter and brown sugar.
 
-Optional: add 2 cups chopped apple and/or berries.
+Mix flour, baking soda and oats.
+Blend flour and butter mixtures and crumble over rhubarb.
+
+Optional: add 2 cups chopped apple or berries.
 
 Bake at 350 F for 40 minutes.
 
 ## Apple Rhubarb Crisp
 
-**Filling:**
+**Filling:**<br/>
 2 cup sliced apples<br/>
 2 cup sliced rhubarb<br/>
 1 tsp cinnamon<br/>
 
-**Topping:**
+**Topping:**<br/>
 1/2 cup soft butter<br/>
 1 cup brown sugar<br/>
 1 cup flour<br/>
@@ -2575,13 +2589,13 @@ komish in the oven.
 
 # Muffins
 
-* [Carrot Apple Muffins (or cake)](#carrot-apple-muffins-or-cake)
+* [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
 
 
 <br/> <!-- force page break -->
 
-## Carrot Apple Muffins (or cake)
+## Carrot Apple Muffins
 
 2 cup sugar<br/>
 1 cup oil<br/>
@@ -2685,7 +2699,7 @@ Spread on cake.
 
 # Pie
 
-* [Chocolate Mouse (blender)](#chocolate-mouse-blender)
+* [Chocolate Mousse (blender)](#chocolate-mousse-blender)
 * [Chocolate Mouse Pie](#chocolate-mouse-pie)
 * [Pie Crust (Baba)](#pie-crust-baba)
 * [Lemon Pie](#lemon-pie)
@@ -2696,18 +2710,20 @@ Spread on cake.
 
 <br/> <!-- force page break -->
 
-## Chocolate Mouse (blender)
+## Chocolate Mousse (blender)
 
 6 oz semi-sweet chocolate<br/>
 1/3 cup boiling water<br/>
 4 eggs, separated<br/>
-1/4 cup rum, kaluha or gran marnier<br/>
+1/4 cup rum, kaluha or grand marnier<br/>
 
 Blend chocolate.  Add water and blend 10 seconds on high.
 Add egg yolks and liqueur and blend 3 seconds.
 Fold into beaten egg whites.
 Spoon into serving dishes.
 Chill 1 hour before serving.
+
+If you melt the chocolate first, then you don't need a blender.
 
 ## Chocolate Mouse Pie
 
