@@ -1421,25 +1421,6 @@ When cool, top with dark chocolate icing.
 Dairy-free version: replace butter, eggs and sour cream with
 margarine, 2 tbsp egg replacer, 1 tsp vinegar and 1/2 cup water.
 
-## Banana Banana Bread
-
-1/2 cup butter (or less)<br/>
-3/4 cup brown sugar<br/>
-2 eggs<br/>
-1/2 cup yogurt or sour cream<br/>
-2 mashed ripe bananas<br/>
-2 cup flour<br/>
-1 tsp baking soda<br/>
-1/4 tsp salt<br/>
-1 cup chocolate chips<br/>
-
-Cream butter and sugar, add eggs, yogurt and mashed bananas,
-then dry ingredients and chocolate chips.
-Pour batter into greased 9x5" loaf pan and
-bake at 350 F for 1 hour.
-
-For muffins, use less butter and bake at 400 F for 25 minutes.
-
 ## Gingerbread
 
 1/2 cup soft butter<br/>
