@@ -211,8 +211,6 @@ Stir everything together, until just mixed.
 
 Spread on a cookie sheet sprinkled with corn meal.
 
-Let rise 2-3 minutes.
-
 Bake at 400 F for 15 - 20 minutes until bottom is golden.
 
 ## Irish Soda Bread
@@ -237,33 +235,6 @@ Bake at 325 F in a buttered 9x5" loaf pan for 60-70 minutes, or until
 toothpick emerges clean.
 
 Yummy while still hot from the oven, or toasted later.
-
-## Oat and Honey Soda Bread
-
-2 1/4 cup whole wheat flour<br/>
-1 cup rolled oats<br/>
-1 1/2 tsp baking soda<br/>
-3/4 tsp salt<br/>
-1 1/2 cup warm milk<br/>
-1 tbsp vinegar<br/>
-2 tbsp honey<br/>
-3 tbsp butter<br/>
-
-Place large round oven-safe pan and lid in oven and preheat to 400 F.
-
-Mix dry ingredients in bowl.
-
-Add honey and butter to warm milk and stir until butter melts.
-
-Mix liquid ingredients into dry *just* until combined.
-Sprinkle a few more oats on top.
-
-Pour dough into hot pan, cover, and bake 35 minutes.
-If not done, remove lid and bake 5 minutes more.
-
-The original recipe had 2 cups milk and was much too wet.
-It also stuck to a greased pan.  Pouring into a pre-heated
-pan should prevent this, or line the pan with parchment.
 
 ## Cinnamon Breakfast Cake
 
@@ -845,10 +816,11 @@ Mix all ingredients.
 * [Peach Chicken](#peach-chicken)
 * [Sticky Chicky](#sticky-chicky)
 * [Sweet and Sour Meatballs](#sweet-and-sour-meatballs)
-* [Kyley Sweet and Sour Meatballs](#kyley-sweet-and-sour-meatballs)
 * [Sweet and Sour Short Ribs](#sweet-and-sour-short-ribs)
 * [White House Ribs (not quite)](#white-house-ribs-not-quite)
 * [Greek Ribs](#greek-ribs)
+* [Roast Beef](#roast-beef)
+* [Roast Beef (Strip Loin)](#roast-beef-strip-loin)
 * [Sloppy Joes](#sloppy-joes)
 * [Earl's Chili](#earls-chili)
 * [Earl's Chicken Mafé](#earls-chicken-mafé)
@@ -899,31 +871,6 @@ Brown meatballs.  For sauce, mix pineapple juice and water (1 cup total),
 then add remaining ingredients.  Heat until thick and clear.
 Add pineapple to meatballs, stir in sauce and simmer about 20 minutes.
 
-## Kyley Sweet and Sour Meatballs
-
-** Meatballs **
-2 eggs, beaten<br/>
-1 cup bread crumbs<br/>
-1/2 cup onion, chopped<br/>
-2 tsp salt<br/>
-1/2 tsp pepper<br/>
-2 lbs ground beef<br/>
-
-Mix together in bowl, shape into small balls, and bake at 375 F
-for 15-25 minutes.
-
-** Sweet and Sour Sauce **
-
-2 1/2 cup brown sugar<br/>
-1 1/4 cup water<br/>
-2/3 cup vinegar<br/>
-3 tbsp soy sauce<br/>
-2 1/2 tbsp corn starch mixed with 3 tbsp water<br/>
-
-Mix sugar, water, vinegar and soy sauce in pan. Heat, stirring occasionally
-until it boils.  Mix cornstarch with remaining water, add to sauce and stir
-until it thickens.  Add meatballs and simmer.
-
 ## Sweet and Sour Short Ribs
 
 1-2 pounds beef ribs<br/>
@@ -944,7 +891,7 @@ Cover and bake at 350 F for 2 hours, basting occasionally.
 6 oz chili sauce<br/>
 3 tbsp vinegar<br/>
 2 tbsp worchestershire sauce<br/>
-1 tsp salt<br/>
+1 tsp salt (less)<br/>
 1 tsp paprika<br/>
 1 tsp dry mustard<br/>
 1 1/2 tbsp lemon juice<br/>
@@ -968,6 +915,22 @@ Place ribs concave side up.  Sprinkle on spices and bake at 350 F for 30
 minutes on each side.
 
 Sprinkle with lemon juice before serving.
+
+## Roast Beef
+
+1 standing rib roast, 3-5 lbs</br>
+2 cup sliced cabbage<br/>
+3-4 potatoes, cubed<br/>
+1 sweet potato, cubed<br/>
+3-4 carrots, thickly sliced<br/>
+
+Place roast and vegetables in a large pan and bake
+at 350 F for 1.5 to 2 hours (25 minutes per pound).
+
+For a small roast, partially cook the cabbage, potatoes and sweet potatoes
+before adding them to the pan.
+
+If the vegetables start to dry out, partially cover the pan.
 
 ## Sloppy Joes
 
@@ -1268,7 +1231,7 @@ If using unsalted butter, add 1/8 tsp salt.
 2 tbsp cocoa, heaping<br/>
 1 1/3 cup milk<br/>
 1 1/3 tbsp corn starch</br>
-1 tbsp butter<br/>
+1 1/3 tbsp butter<br/>
 2/3 tsp vanilla<br/>
 
 Bring egg yolk, sugar, cocoa and 1 cup milk to a boil,
@@ -1510,7 +1473,7 @@ Cook until apples are soft, about 5 minutes.
 
 ## Cardamom Coffee Cake
 
-2 cup soft butter<br/>
+2 cup soft butter (less)<br/>
 2 cup brown sugar<br/>
 4 eggs<br/>
 2 tsp vanilla<br/>
@@ -1529,13 +1492,13 @@ beginning and ending with flour.
 **Filling:**<br/>
 1/4 cup brown sugar<br/>
 1 tbsp cinnamon<br/>
-1 tbsp cardamom<br/>
+1 tsp cardamom<br/>
 1/2 cup raisins, dates or chopped apple<br/>
 
 Spread 1/3 batter in greased large tube or bundt pan, then half
 filling, then more batter, remaining filling, and batter.
 
-Bake at 350 F for 1 1/2 hours, until brown on top and dry all the way
+Bake at 350 F for 80-90 minutes until brown on top and dry all the way
 through.
 
 ## Honey Cake
@@ -1625,16 +1588,6 @@ Cream shortening and sugar, then add remaining ingredients in order.
 Beat egg whites and fold in last.
 Bake at 350 F for 1 hour, in a greased pan over a tray of water.
 
-**Lemon Sauce** (optional)<br/>
-2 egg yolks<br/>
-1/4 cup sugar<br/>
-juice and rind of 1 lemon<br/>
-4 tsp water<br/>
-2 egg whites beaten with 1/4 cup sugar<br/>
-
-Cook in double boiler until thick, stirring constantly.
-When cool, fold in beaten egg whites and sugar, and pour over cake.
-
 ## Lazy Daisy Cake
 
 1 cup sugar<br/>
@@ -1689,7 +1642,7 @@ Refrigerate.  Serve with whipped cream.
 2 tsp vanilla<br/>
 2 tbsp vinegar<br/>
 1 1/2 cup water<br/>
-2 cup grated zucchini (optional)<br/>
+2 cup grated zucchini<br/>
 
 Mix dry ingredients.
 Make 3 wells and pour oil, vanilla and vinegar into wells.
@@ -1698,9 +1651,9 @@ Pour into 2 greased 9" round cake pans.
 
 Bake at 350 F for 45-50 minutes.
 
-When cool, top with chocolate icing.
+When cool, top with <a href="#chocolate-icing">chocolate icing</a>.
 
-If you leave out the zucchini, add a 1/2 cup more water.
+You can leave out the zucchini and add a bit more water.
 
 ## Grand Marnier Chocolate Torte
 
@@ -2106,7 +2059,7 @@ and refrigerate.
 1 tsp vanilla<br/>
 2 1/4 cup flour<br/>
 1/2 tsp salt<br/>
-1 tsp baking soda<br/>
+3/4 tsp baking soda<br/>
 1 cup chocolate chips<br/>
 1/2 cup raisins<br/>
 
@@ -2224,7 +2177,7 @@ Bake at 350 F for 45 minutes on parchment-lined baking pan.
 As soon as it is out of the oven, slice diagonally and dry in oven.
 
 I use ground and slivered almonds (300 and 100 grams respectively)
-plus 1 tsp almond extract instead of filberts, and don't dry the sliced
+plus 1 tsp almond extract instead of hazelnuts, and don't dry the sliced
 komish in the oven.
 
 
@@ -2301,7 +2254,7 @@ Oil muffin tins, bake at 400 F for 25-30 minutes.
 
 5/8 cup butter<br/>
 1 1/2 cup brown sugar<br/>
-1/2 cup milk (or a bit less)<br/>
+1/2 cup milk (scant)<br/>
 2 cup sifted icing sugar<br/>
 1/3 cup cocoa<br/>
 1 1/2 tsp vanilla<br/>
@@ -2389,13 +2342,16 @@ Top with whipped cream.
 
 ## Pie Crust (Baba)
 
-1/4 cup butter (soft)<br/>
+1/4 cup butter, cubed<br/>
+
 1/4 cup crisco<br/>
-1 1/2 to 2 cup flour<br/>
+1 3/4 cup flour<br/>
 dash salt<br/>
 3-4 tbsp sour cream<br/>
+extra flour for rolling<br/>
 
-With pastry blender, mix flour, salt, butter and crisco til crumby.
+With pastry blender or food processor, mix flour, salt, butter and crisco
+til crumby.
 
 Mix in sour cream, dough should form a ball, else add more sour
 cream.
