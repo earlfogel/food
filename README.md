@@ -94,6 +94,41 @@ Cool on rack 1 hour or more.
 
 See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
 
+## Sylvia Gerrard Stollen
+
+4 cup flour<br/>
+1 pkg yeast<br/>
+1/2 cup sugar<br/>
+1 tsp salt<br/>
+2 eggs<br/>
+1 cup warm milk<br/>
+1/2 cup soft butter<br/>
+1 tsp vanilla<br/>
+zest of 1 lemon<br/>
+1/2 cup raisins<br/>
+1 pkg almond slivers<br/>
+8 oz marzipan<br/>
+icing sugar<br/>
+
+Mix flour, yeast, sugar, salt, eggs, milk, butter, vanilla, and lemon, and
+let sit a few minutes.  Knead til dough is smooth and elastic, add water as
+needed. Add raisins and almonds.
+
+Let sit in a warm place til almost doubled (~1 hour).
+
+Roll to 1" thick, cover with marzipan and fold over.
+
+Let rise 15 minutes, then bake at 350 F for 45 minutes to 1 hour.
+
+When almost cool, brush with melted butter and sprinkle with icing sugar.
+
+**Variations:**<br/>
+Add 1/2 tsp each cardamom, nutmeg and cinnamon<br/>
+Add diced candied fruit  soaked in rum<br/>
+
+For more detail, see:
+<small>https://www.daringgourmet.com/stollen-german-christmas-bread/</small>
+
 ## Homemade Marzipan
 
 1 1/2 cup almond flour or finely ground almonds<br/>
@@ -196,6 +231,31 @@ Bake at 325 F in a buttered 9x5" loaf pan for 60-70 minutes, or until
 toothpick emerges clean.
 
 Yummy while still hot from the oven, or toasted later.
+
+## Rye Soda Bread
+
+1 1/2 cup rye flour<br/>
+1 1/2 cup whole wheat flour<br/>
+1 cup white flour<br/>
+1 tbsp baking powder<br/>
+1 tsp baking soda<br/>
+1 tsp salt<br/>
+1 tsp caraway seeds<br/>
+2 tbsp brown sugar<br/>
+1 egg, beaten<br/>
+2 cup yogurt (or 1 cup yogurt, 1 cup milk, 1 tbsp vinegar)<br/>
+rolled oats<br/>
+
+Combine flours, baking powder, soda, salt, caraway and sugar in a large bowl.
+
+Mix the egg and yogurt and stir into the dry ingredients just to blend.
+
+Sprinkle with oats and turn out onto buttered cookie sheet.
+
+Bake at 375 F for 45-50 minutes or until it sounds hollow when tapped on
+the bottom.
+
+<small>http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198</small>
 
 ## Cinnamon Breakfast Cake
 
@@ -541,6 +601,36 @@ Add egg, onion, salt and pepper.
 
 Pour into pie shells and bake at 400 F for 30 minutes.
 
+## Butternut Squash Chipotle Chili
+
+2 tablespoons oil<br/>
+1 medium onion, chopped<br/>
+2 red, orange or yellow peppers, chopped<br/>
+1 small butternut squash (2 pounds), peeled and chopped<br/>
+4 garlic cloves, minced<br/>
+1 tablespoon chili powder<br/>
+1 tablespoon chopped chipotle pepper in adobo<br/>
+1 teaspoon ground cumin<br/>
+¼ teaspoon ground cinnamon<br/>
+1 bay leaf<br/>
+2 cans (15 ounces each) black beans, rinsed and drained<br/>
+1 can (28 ounces) diced tomatoes, including the liquid<br/>
+2 cup vegetable broth (or one 14-ounce can)<br/>
+
+Put everything in slow cooker. Cook on low for 6-8 hours.
+
+Serve with diced avocado, cilantro and corn chips.
+
+for Kyle:
+  - no onion, garlic or vegetable broth (use apple juice instead)
+
+for Stacey/Johny:
+  - no corn, corn chips or corn oil
+
+Original recipe:
+
+<small>https://cookieandkate.com/2012/butternut-squash-chipotle-chili-with-avocado/</small>
+
 ## Chickpea Curry
 
 1/4 cup butter<br/>
@@ -881,6 +971,43 @@ Add ground beef.  Or split into two pots, one with meat, one without.
 Cover and simmer for 1 1/2 hours, stirring occasionally.
 
 Serve with Red Lobster Biscuits or Corn Bread.
+
+## Earl's Chicken Mafé
+
+My version of Robert's version of:
+
+   <small>https://cooking.nytimes.com/recipes/1017950-chicken-mafe</small>
+
+2 lbs chicken breasts, in 1" cubes<br/>
+1/2 onion, chopped<br/>
+2 cloves garlic, minced<br/>
+1 inch piece of ginger, minced<br/>
+1/2 tsp salt<br/>
+1 can diced tomato<br/>
+1-2 cup chicken broth<br/>
+1/2 lb grated cabbage (e.g. a package of cole slaw)<br/>
+1 sweet potato, peeled and chopped<br/>
+1 small cauliflower, chopped<br/>
+1 cup green beans<br/>
+1 cup broccoli or zucchini, chopped (optional)<br/>
+3 carrots, chopped<br/>
+3 tbsp fish sauce<br/>
+oil, for cooking<br/>
+1 cup peanut butter (less, optional)<br/>
+
+Fry chicken in 2 tbsp oil til brown, then set aside.
+
+Brown onion, garlic and ginger in 2 tbsp oil until translucent, then add
+tomato.  When warm, add chicken broth, chicken and vegetables.
+This fills a large pot.
+
+Simmer about 1 hour, until chicken is tender.  Add fish sauce and salt to
+taste.
+
+Serve with rice and bread.
+
+I leave out the peanut butter and let people add it themselves, if they
+want.
 
 ## Beet Borscht
 
@@ -1438,6 +1565,29 @@ Bake at 375 F for 40-50 minutes.
 
 When cool, sprinkle with icing sugar and serve with whipped cream.
 
+## Apple Spice Cake
+
+1/4 cup butter<br/>
+1 cup sugar<br/>
+1 egg<br/>
+2 apples, chopped or grated<br/>
+1 1/4 cups flour<br/>
+1 1/2 tsp cinnamon<br/>
+1/4 tsp nutmeg<br/>
+1/4 tsp cloves<br/>
+1 tsp baking soda<br/>
+3/4 tsp salt<br/>
+
+Cream butter and sugar, then add egg and apple.
+
+Add remaining ingredients and stir just until mixed.
+
+Pour into buttered 8x8" pan.
+
+Bake at 375 F for 35-40 minutes.
+
+<small>https://www.onelovelylife.com/apple-spice-cake/</small>
+
 ## Carrot Cake
 
 2 cup sugar<br/>
@@ -1781,6 +1931,27 @@ Cream butter and sugar, add eggs and vanilla,
 then almonds mixed with cocoa.
 
 Pour into buttered 8x8" pan and bake at 350 F for 25 minutes.
+
+## Chocolate Oatmeal Squares
+
+1/2 cup soft butter<br/>
+1 cup brown sugar<br/>
+1 egg<br/>
+1 tsp vanilla<br/>
+1/4 cup condensed milk<br/>
+1 1/4 cup flour<br/>
+1/2 tsp baking soda<br/>
+2/3 tsp salt<br/>
+1 cup oats (or less?)<br/>
+1 cup chocolate chips (or 3 oz semi-sweet chocolate chunks)<br/>
+
+Beat butter and sugar til smooth, then add egg, milk and vanilla.
+Add flour, salt, baking soda, oats and chocolate chunks.
+
+Bake in buttered 8x8 pan at 350 F for 30-35 minutes.
+
+Based on
+<small>https://www.thespruceeats.com/chocolate-oatmeal-bars-3051975</small>
 
 ## Magic Squares
 
