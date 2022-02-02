@@ -13,8 +13,6 @@
 * [Everyday Granola](#everyday-granola)
 * [Corn Bread](#corn-bread)
 * [No Knead Bread](#no-knead-bread)
-* [Cottage Cheese Herb Bread](#cottage-cheese-herb-bread)
-* [Challah](#challah)
 * [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
 * [Homemade Marzipan](#homemade-marzipan)
 * [Red Lobster Biscuits](#red-lobster-biscuits)
@@ -23,7 +21,6 @@
 * [Baked Bannock](#baked-bannock)
 * [Irish Soda Bread](#irish-soda-bread)
 * [Rye Soda Bread](#rye-soda-bread)
-* [Oat and Honey Soda Bread](#oat-and-honey-soda-bread)
 * [Cinnamon Breakfast Cake](#cinnamon-breakfast-cake)
 * [German Apple Pancakes](#german-apple-pancakes)
 * [Cottage Cheese Pancakes](#cottage-cheese-pancakes)
@@ -96,42 +93,6 @@ If not done, remove cover and bake 5 more minutes.
 Cool on rack 1 hour or more.
 
 See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
-
-## Cottage Cheese Herb Bread
-
-1 cup whole wheat flour<br/>
-1 1/3 to 2 cup white flour<br/>
-1 tbsp yeast<br/>
-1 tsp salt<br/>
-1 tsp baking powder<br/>
-2 tbsp sugar<br/>
-1 cup cottage cheese<br/>
-1 tbsp vegetable oil<br/>
-1 clove minced garlic<br/>
-1/2 tsp minced fresh thyme<br/>
-1 tsp minced fresh rosemary<br/>
-2 tbsp minced scallions<br/>
-1/2 cup cold water<br/>
-
-Mix flour, yeast, salt and baking powder in food processor for 5 seconds.
-
-Add cottage cheese, oil, sugar, herbs, and scallions, and blend 5-10 seconds.
-
-Gradually add water, while blending, until dough is smooth and elastic
-(45-60 seconds).  If dough is too wet or too dry, add more flour or water, 2
-tbsp at a time.
-
-Place dough in a bowl, cover with a damp towel and set in a warm spot for
-about 45 mins, until doubled in size.
-
-After the dough rises, punch it down, shape it into a ball and place in an
-oiled 2-quart casserole dish. Return the dough to its warm place and let it
-rise again until doubled, about 30-45 mins.
-
-Preheat the oven to 350 F near the end of the second rising time. When the
-dough has doubled in size, bake 25-30 mins until it is golden brown and
-sounds hollow when thumped on the bottom. Cool on a rack at least 10
-minutes.
 
 ## Homemade Marzipan
 
@@ -388,17 +349,14 @@ Serve immediately, traditionally with roast beef.
 
 * [Baked Macaroni](#baked-macaroni)
 * [Cottage Cheese Pie](#cottage-cheese-pie)
-* [Cauliflower Cheese Pie](#cauliflower-cheese-pie)
-* [Cossack Pie](#cossack-pie)
 * [Tian de courges](#tian-de-courges)
 * [Fettuccini Primavera](#fettuccini-primavera)
 * [Zucchini Quiche](#zucchini-quiche)
 * [Zucchini or Broccoli Quiche](#zucchini-or-broccoli-quiche)
 * [Onion Tarte](#onion-tarte)
-* [Butternut Squash Chipotle Chili with Avocado](#butternut-squash-chipotle-chili-with-avocado)
+* [Butternut Squash Chipotle Chili](#butternut-squash-chipotle-chili)
 * [Chickpea Curry](#chickpea-curry)
 * [Sweet Potato Curry](#sweet-potato-curry)
-* [Coconut Chickpea Curry](#coconut-chickpea-curry)
 * [Noodle Kugel](#noodle-kugel)
 * [Tomato Veggie Soup](#tomato-veggie-soup)
 * [Caesar Salad](#caesar-salad)
@@ -459,70 +417,11 @@ Instead, add 1 cup drained regular cottage cheese
 to the filling and leave out the salt (since there's
 enough salt in the cottage cheese).
 
-## Cauliflower Cheese Pie
-
-** Crust **
-
-2 cups grated raw potato<br/>
-1/2 tsp salt<br/>
-1 egg, beaten<br/>
-
-Salt the grated potato and let it sit 10 minutes,
-then squeeze out excess water.  Add egg, then spread
-into a well-oiled 9" pie pan and brush with oil.
-Bake at 400 F for 40-45 minutes.
-
-** Filling **
-
-1/2 cup chopped onion<br/>
-1 clove crushed garlic<br/>
-1 small cauliflower, chopped<br/>
-3 tbsp butter<br/>
-1/2 tsp basil<br/>
-1/2 tsp salt<br/>
-dash of thyme<br/>
-1 cup grated cheddar cheese<br/>
-2 eggs, beaten<br/>
-1/4 cup milk<br/>
-paprika<br/>
-
-Saute onion and garlic in butter until soft.
-Add cauliflower and herbs and cook until soft (~10 minutes).
-Mix in cheese and pour into baked crust.
-Pour mixed milk and eggs on top and dust with paprika.
-Bake at 375 F for 35-40 minutes.
-
-## Cossack Pie
-
-1/2 cup chopped onion<br/>
-1 cup shredded cabbage<br/>
-1 cup sliced broccoli<br/>
-1 cup sliced carrot<br/>
-1/4 lb mushrooms<br/>
-1/2 tsp caraway<br/>
-1/2 tsp basil<br/>
-1/2 tsp dill<br/>
-1/3 cup cottage cheese<br/>
-2 eggs, beaten<br/>
-3/4 cup mixed sour cream and yogurt<br/>
-1 9" pie crust<br/>
-
-Slice a few mushrooms for the top and chop the rest.
-
-Saute onion, cabbage and broccoli in butter until soft, then add
-carrots, chopped mushroom and herbs and cook until tender.
-
-Add cheese and eggs to vegetables and spread into crust.
-Spread the sour cream/yogurt on top, then decorate with
-sliced mushrooms and dust with paprika.
-
-Bake at 350 F for 40 minutes.
-
 ## Tian de courges
 
 1 cup cooked rice<br/>
 1 small onion, chopped<br/>
-4 tbsp olive oil<br/>
+4 tbsp oil<br/>
 4 cup squash, peeled and chopped into 1/2 inch cubes<br/>
 1 medium zucchini, cubed, about 2 cups<br/>
 2 cup grated white turnip<br/>
@@ -819,8 +718,7 @@ Mix all ingredients.
 * [Sweet and Sour Short Ribs](#sweet-and-sour-short-ribs)
 * [White House Ribs (not quite)](#white-house-ribs-not-quite)
 * [Greek Ribs](#greek-ribs)
-* [Roast Beef](#roast-beef)
-* [Roast Beef (Strip Loin)](#roast-beef-strip-loin)
+* [Roast Beef (Prime Rib)](#roast-beef-prime-rib)
 * [Sloppy Joes](#sloppy-joes)
 * [Earl's Chili](#earls-chili)
 * [Earl's Chicken Mafé](#earls-chicken-mafé)
@@ -916,9 +814,9 @@ minutes on each side.
 
 Sprinkle with lemon juice before serving.
 
-## Roast Beef
+## Roast Beef (Prime Rib)
 
-1 standing rib roast, 3-5 lbs</br>
+1 standing rib roast, 3-5 lbs<br/>
 2 cup sliced cabbage<br/>
 3-4 potatoes, cubed<br/>
 1 sweet potato, cubed<br/>
@@ -1096,9 +994,7 @@ Bake at 350 F for 2 hours.
 * [Chocolate Marble Cheese Cake](#chocolate-marble-cheese-cake)
 * [Chocolate Cheese Cake](#chocolate-cheese-cake)
 * [Banana Cake](#banana-cake)
-* [Banana Banana Bread](#banana-banana-bread)
 * [Gingerbread](#gingerbread)
-* [Gingerbread Pudding Cake](#gingerbread-pudding-cake)
 * [Coffee Cake](#coffee-cake)
 * [Apricot Coffee Cake](#apricot-coffee-cake)
 * [Cardamom Coffee Cake](#cardamom-coffee-cake)
@@ -1115,7 +1011,6 @@ Bake at 350 F for 2 hours.
 * [Shmoo Torte](#shmoo-torte)
 * [Sachertorte](#sachertorte)
 * [Lemon Pudding](#lemon-pudding)
-* [Lemon Bars](#lemon-bars)
 * [What To Do With Half A Lemon Tartes](#what-to-do-with-half-a-lemon-tartes)
 * [Brownies (Silver Palate)](#brownies-silver-palate)
 * [Gluten Free Brownies](#gluten-free-brownies)
@@ -1230,7 +1125,7 @@ If using unsalted butter, add 1/8 tsp salt.
 1/3 cup sugar<br/>
 2 tbsp cocoa, heaping<br/>
 1 1/3 cup milk<br/>
-1 1/3 tbsp corn starch</br>
+1 1/3 tbsp corn starch<br/>
 1 1/3 tbsp butter<br/>
 2/3 tsp vanilla<br/>
 
@@ -1432,7 +1327,7 @@ rest of batter.  Stir a bit, then bake at 350 F for 45 minutes.
 
 ## Apricot Coffee Cake
 
-1/2 cup butter<br/>
+1/2 cup butter (originally 1 cup)<br/>
 1 cup sugar<br/>
 2 eggs<br/>
 1/2 cup water<br/>
@@ -1803,7 +1698,7 @@ or beets or use sponge from Grand Marnier cake instead.
 **Apricot Filling and Chocolate Glaze**
 
 1 cup apricot jam<br/>
-1/4 cup water</br>
+1/4 cup water<br/>
 3 oz unsweetened chocolate<br/>
 1 cup sugar<br/>
 1/2 cup milk<br/>
@@ -2026,8 +1921,6 @@ Bake at 350 F for 45 minutes.
 * [Cinnamon Cookies](#cinnamon-cookies)
 * [Oatmeal Cookies (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
 * [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
-* [Chocolate Oatmeal Cookies](#chocolate-oatmeal-cookies)
-* [Ginger Cookies](#ginger-cookies)
 * [Maxine's Komish](#maxines-komish)
 
 
@@ -2176,9 +2069,9 @@ Bake at 350 F for 45 minutes on parchment-lined baking pan.
 
 As soon as it is out of the oven, slice diagonally and dry in oven.
 
-I use ground and slivered almonds (300 and 100 grams respectively)
-plus 1 tsp almond extract instead of hazelnuts, and don't dry the sliced
-komish in the oven.
+Instead of hazelnuts, I use ground and slivered almonds (300 and 100 grams
+respectively) plus 1 tsp almond extract, and don't dry the sliced komish in
+the oven.
 
 
 # Muffins
@@ -2196,12 +2089,12 @@ komish in the oven.
 4 eggs<br/>
 2 cup grated carrots<br/>
 1 cup apple sauce<br/>
-1/4 cup apple juice (more if needed)</br>
+1/4 cup apple juice (more if needed)<br/>
 3 cup flour<br/>
 2 tsp baking soda<br/>
 2 tsp baking powder<br/>
 3 tsp cinnamon<br/>
-1/2 cup raisins (optional)
+1/2 cup raisins (optional)<br/>
 
 Mix sugar, egg and oil.  Add grated carrot, apple sauce and juice.
 Mix in dry ingredients and raisins.
@@ -2263,8 +2156,9 @@ Melt butter and sugar, stir.
 Add milk, bring to a boil, remove from heat.
 Add sifted icing sugar mixed with cocoa, then add vanilla.
 
+Cool until icing thickens, then spread quickly before it hardens.
+
 If too thick, add a bit more milk.
-Spread quickly before it hardens.
 
 
 ## Dark Chocolate Icing
@@ -2283,12 +2177,12 @@ This covers a 9x13" cake.
 
 ## Cream Cheese Icing
 
-8 oz cream cheese<br/>
-3 tbsp butter<br/>
-3/4 cup icing sugar<br/>
+12 oz cream cheese (1 1/2 bricks)<br/>
+1/4 cup butter<br/>
+1 1/4 cup icing sugar<br/>
 
 Cream cheese and butter, add icing sugar and beat until smooth.
-Spread on cake.
+Spread on 9x13" cake.
 
 
 # Pie
@@ -2299,7 +2193,6 @@ Spread on cake.
 * [Lemon Pie](#lemon-pie)
 * [Strawberry Bavarian Pie](#strawberry-bavarian-pie)
 * [Strawberry Fogellian Pie](#strawberry-fogellian-pie)
-* [Keyless Lime Pie](#keyless-lime-pie)
 
 
 <br/> <!-- force page break -->
