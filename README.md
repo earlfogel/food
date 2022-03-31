@@ -21,6 +21,7 @@
 * [Baked Bannock](#baked-bannock)
 * [Irish Soda Bread](#irish-soda-bread)
 * [Rye Soda Bread](#rye-soda-bread)
+* [Baba's Buns](#babas-buns)
 * [Cinnamon Breakfast Cake](#cinnamon-breakfast-cake)
 * [German Apple Pancakes](#german-apple-pancakes)
 * [Cottage Cheese Pancakes](#cottage-cheese-pancakes)
@@ -257,6 +258,25 @@ the bottom.
 
 <small>http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198</small>
 
+## Baba's Buns
+
+10-12 frozen dough balls (e.g. for dinner rolls)<br/>
+1/2 cup brown sugar<br/>
+1 tbsp cinnamon<br/>
+1/4 cup melted butter<br/>
+1/4 cup raisins<br/>
+1/3 package lemon or vanilla instant pudding (optional)<br/>
+
+Arrange dough balls in a greased bundt pan.
+
+Put everything else in a pot and boil 3 minutes.
+
+Pour mixture over balls.
+
+Cover, let rise overnight.
+
+Bake at 350 F for 25-30 minutes.
+
 ## Cinnamon Breakfast Cake
 
 1 1/2 cup flour<br/>
@@ -468,14 +488,14 @@ Add milk, flour, baking powder. Mix till smooth.
 Put half batter in greased 8x8" pan,
 then filling, then rest of batter.
 
-Bake at 350 F for 35 to 45 minutes.
+Bake at 350 F for 40 to 45 minutes.
 
 Serve with strawberries in syrop and sour cream.
 
 For a 9x13 pan, double the crust but not the filling.
 Instead, add 1 cup drained regular cottage cheese 
-to the filling and leave out the salt (since there's
-enough salt in the cottage cheese).
+and leave out the salt (since there's enough salt
+in the cottage cheese).
 
 ## Tian de courges
 
@@ -1332,7 +1352,7 @@ When cool, spoon onto cake.
 
 **Crust:**
 
-1 1/2 cup crushed chocolate wafers<br/>
+1 1/3 cup crushed chocolate wafers<br/>
 2 tbsp sugar<br/>
 3 tbsp melted butter<br/>
 
@@ -1656,6 +1676,11 @@ Pour into buttered 8" square pan and bake at 350 F for 25-30 minutes.
 1/2 cup coconut<br/>
 
 Mix together and spread on cake.  Broil carefully until lightly golden.
+
+Apple cake: replace cocoa with 1 finely chopped apple, 1 tsp cinnamon,
+1/2 tsp nutmeg and 1/4 tsp cloves (may need to reduce milk or increase
+spices).
+
 
 ## Killer Chocolate Torte
 
