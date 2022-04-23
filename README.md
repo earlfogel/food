@@ -23,7 +23,7 @@
 * [Rye Soda Bread](#rye-soda-bread)
 * [Baba's Buns](#babas-buns)
 * [Cinnamon Breakfast Cake](#cinnamon-breakfast-cake)
-* [German Apple Pancakes](#german-apple-pancakes)
+* [German Apple Pancake](#german-apple-pancake)
 * [Cottage Cheese Pancakes](#cottage-cheese-pancakes)
 * [Potato Pancakes](#potato-pancakes)
 * [Waffles](#waffles)
@@ -298,7 +298,7 @@ top and swirl into batter.
 
 Bake at 350 F for 30 minutes.
 
-## German Apple Pancakes
+## German Apple Pancake
 
 3 eggs<br/>
 3/4 cup milk<br/>
@@ -974,10 +974,10 @@ minutes.
 2 (10 ounce) can sliced mushroom, drained (or fresh)<br/>
 2 (10 ounce) can tomato soup, undiluted<br/>
 1 (28 ounce) can diced tomatoes with juice<br/>
-1-2 tbsp chili powder<br/>
-1/2 tbsp chipotle pepper (optional)<br/>
+1 tbsp chili powder<br/>
+1/2 tbsp chipotle pepper (or more chili powder)<br/>
 1 teaspoon oregano<br/>
-1 teaspoon cinnamon (optional)<br/>
+1 teaspoon cinnamon<br/>
 2 garlic cloves, minced<br/>
 
 Brown the ground beef in a large frying pan over medium heat.
@@ -1158,6 +1158,7 @@ Bake at 350 F for 2 hours.
 * [Shmoo Torte](#shmoo-torte)
 * [Sachertorte](#sachertorte)
 * [Lemon Pudding](#lemon-pudding)
+* [Lemon Bars](#lemon-bars)
 * [What To Do With Half A Lemon Tartes](#what-to-do-with-half-a-lemon-tartes)
 * [Brownies (Silver Palate)](#brownies-silver-palate)
 * [Gluten Free Brownies](#gluten-free-brownies)
@@ -1424,7 +1425,7 @@ Pour into greased 9x13" pan and bake at 350 F for 40 minutes.
 When cool, top with dark chocolate icing.
 
 Dairy-free version: replace butter, eggs and sour cream with
-margarine, 2 tbsp egg replacer, 1 tsp vinegar and 1/2 cup water.
+margarine, 1 tbsp egg replacer, 1 tsp vinegar and 1/2 cup water.
 
 ## Gingerbread
 
@@ -1909,6 +1910,27 @@ Fold in egg whites.  Pour into medium oven-proof dish, set in a pan of
 water and bake at 325 F for 1 hour.
 
 Serve warm.
+
+## Lemon Bars
+
+1/2 cup butter (less?)<br/>
+1/4 cup sugar<br/>
+1 cup flour<br/>
+
+Cream butter and sugar, mix in flour and press into bottom of 8x8 pan.
+Bake at 350 F for 15 to 20 minutes.
+
+3/4 cup sugar<br/>
+2 tbsp flour<br/>
+1/2 tsp baking powder</br>
+2 eggs<br/>
+1 lemon<br/>
+
+Whisk together sugar, flour, eggs, lemon juice and zest.
+Pour over baked crust.
+Bake an additional 20 minutes.
+
+When cool, dust with icing sugar, if desired.
 
 ## What To Do With Half A Lemon Tartes
 
