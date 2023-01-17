@@ -875,6 +875,7 @@ Mix all ingredients.
 * [Beet Borscht](#beet-borscht)
 * [Beef Barley Soup](#beef-barley-soup)
 * [Beef Stew](#beef-stew)
+* [Beef Banh Mi Bowl](#beef-banh-mi-bowl)
 * [Anne's Cabbage Rolls](#annes-cabbage-rolls)
 
 
@@ -1149,6 +1150,31 @@ Dissolve cornstarch in cold water then stir into stew.
 Stir 2 or 3 minutes until the stew thickens.
 
 Serve with corn bread.
+
+## Beef Banh Mi Bowl
+
+1 lb ground beef<br/>
+3/4 cup rice<br/>
+1/2 cup sliced cucumber<br/>
+1/2 cup julienned carrot<br/>
+1/4 cup chopped cilantro, stems removed<br/>
+1 tbsp sesame seeds<br/>
+1 tbsp soy sauce<br/>
+4 tbsp hoisin sauce<br/>
+1 tbsp rice vinegar<br/>
+1 tsp sugar<br/>
+1/4 cup water<br/>
+
+Marinate carrot and cucumber with rice vinegar, sugar and water and
+let sit while preparing the rest of the meal.
+
+Cook the rice.
+
+While the rice cooks, fry the ground beef until brown, 4-5 minutes.
+Drain any excess fat, then add hoisin and soy sauce and simmer 2-3
+minutes more.
+
+Serve rice topped with meat, drained veggies, cilantro and sesame seeds.
 
 ## Anne's Cabbage Rolls
 
