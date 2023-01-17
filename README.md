@@ -430,7 +430,7 @@ Serve immediately, traditionally with roast beef.
 * [Baked Macaroni](#baked-macaroni)
 * [Cottage Cheese Pie](#cottage-cheese-pie)
 * [Tian de courges](#tian-de-courges)
-* [Fettuccini Primavera](#fettuccini-primavera)
+* [Fettuccine Primavera](#fettuccine-primavera)
 * [Potato au gratin](#potato-au-gratin)
 * [Zucchini Quiche](#zucchini-quiche)
 * [Zucchini or Broccoli Quiche](#zucchini-or-broccoli-quiche)
@@ -449,7 +449,7 @@ Serve immediately, traditionally with roast beef.
 
 ## Baked Macaroni
 
-2 cup macaroni<br/>
+2 1/2 cup macaroni<br/>
 2 tbsp butter<br/>
 3 tbsp flour<br/>
 1 1/2 cup milk<br/>
@@ -481,7 +481,7 @@ Add milk, flour, baking powder. Mix till smooth.
 
 ** Filling **
 
-1 container dry cottage cheese (600 gr)<br/>
+1 lb dry cottage cheese<br/>
 2 eggs<br/>
 2 tsp sugar<br/>
 1/4 tsp salt<br/>
@@ -493,10 +493,9 @@ Bake at 350 F for 40 to 45 minutes.
 
 Serve with strawberries in syrop and sour cream.
 
-For a 9x13 pan, double the crust but not the filling.
-Instead, add 1 cup drained regular cottage cheese 
-and leave out the salt (since there's enough salt
-in the cottage cheese).
+If you can't find dry cottage cheese, you can drain regular
+cottage cheese and leave out the salt (since there's enough
+salt in regular cottage cheese).
 
 ## Tian de courges
 
@@ -538,17 +537,17 @@ Bake at 375 F for 30 minutes or until set and lightly browned on top.
 
 Fyi: original recipe had more onion, turnip and pepper.
 
-## Fettuccini Primavera
+## Fettuccine Primavera
 
 1/4 cup oil<br/>
 3 cloves garlic, minced<br/>
 1 small head cauliflower, cut into florets<br/>
 1 small bunch broccoli, cut into florets<br/>
 1/2 lb mushrooms, sliced<br/>
-1/2 lb fettuccini<br/>
+1/2 lb fettuccine<br/>
 1/2 cup Ricotta or Mozzarella cheese<br/>
 1/4 cup grated Romano or Parmesan cheese<br/>
-1/2 cup whipping cream<br/>
+1/2 cup cream<br/>
 salt and cayenne to taste<br/>
 
 In a large frying pan, saute the garlic in oil for 2 minutes, then add
@@ -578,29 +577,6 @@ Alternately layer potato slices and cheese in an 8x8" pan,
 then add milk/onion/garlic, cover and bake for 1 hour at 350 F.
 
 Remove cover and bake another 15-20 minutes until golden brown on top.
-
-## Zucchini Quiche
-
-1 9" pie shell<br/>
-1/4 cup grated parmesan<br/>
-1/2 cup bread crumbs<br/>
-2 lb zucchini, sliced 1/4" thick<br/>
-2 eggs, separated<br/>
-1 1/2 cup sour cream<br/>
-2 tbsp chives<br/>
-2 tbsp flour<br/>
-butter<br/>
-
-Beat egg yolks and sour cream, add chives and flour.
-
-Beat egg whites til stiff and fold into other mixture.
-
-Put half the parmesan and breadcrumbs in pie shell, then
-alternate layers of zucchini slices and other mix in pie shell.
-Top with remaining parmesan and breadcrumbs and a few dabs of
-butter.
-
-Bake at 450 F for 10 minutes, then 325 F for 40 minutes.
 
 ## Zucchini Quiche
 
@@ -863,7 +839,7 @@ Mix all ingredients.
 # Meat
 
 * [Peach Chicken](#peach-chicken)
-* [Sticky Chicky](#sticky-chicky)
+* [Sticky Chicken](#sticky-chicken)
 * [Sweet and Sour Meatballs](#sweet-and-sour-meatballs)
 * [Sweet and Sour Short Ribs](#sweet-and-sour-short-ribs)
 * [White House Ribs (not quite)](#white-house-ribs-not-quite)
@@ -871,7 +847,7 @@ Mix all ingredients.
 * [Roast Beef (Prime Rib)](#roast-beef-prime-rib)
 * [Sloppy Joes](#sloppy-joes)
 * [Earl's Chili](#earls-chili)
-* [Earl's Chicken Mafé](#earls-chicken-mafé)
+* [Chicken Mafé](#chicken-mafé)
 * [Beet Borscht](#beet-borscht)
 * [Beef Barley Soup](#beef-barley-soup)
 * [Beef Stew](#beef-stew)
@@ -891,7 +867,7 @@ Put chicken in pyrex dish.  Mix soya sauce and juice from peaches and pour over
 chicken.  Bake at 350 F for 1 hour.  About 20 minutes before it is
 finished, add the peaches.
 
-## Sticky Chicky
+## Sticky Chicken
 
 8 chicken pieces<br/>
 garlic powder<br/>
@@ -1033,13 +1009,9 @@ Cover and simmer for 1 1/2 hours, stirring occasionally.
 
 Serve with Red Lobster Biscuits or Corn Bread.
 
-## Earl's Chicken Mafé
+## Chicken Mafé
 
-My version of Robert's version of:
-
-   <small>https://cooking.nytimes.com/recipes/1017950-chicken-mafe</small>
-
-2 lbs chicken breasts, in 1" cubes<br/>
+2 lbs chicken breast, in 1" cubes<br/>
 1/2 onion, chopped<br/>
 2 cloves garlic, minced<br/>
 1 inch piece of ginger, minced<br/>
@@ -1070,6 +1042,11 @@ Serve with rice and bread.
 I leave out the peanut butter and let people add it themselves, if they
 want.
 
+This is my version of Uncle Robert's version of:
+
+   <small>https://cooking.nytimes.com/recipes/1017950-chicken-mafe</small>
+
+
 ## Beet Borscht
 
 1 or 2 soup bones<br/>
@@ -1084,7 +1061,7 @@ want.
 Cut up vegetables.
 
 Boil soup bones in 1-2 litres of water, add onion, celery and salt, simmer 
-1/2 hour.  Add the other vegetables and simmer 30 minutes to 1 hour 
+1/2 hour.  Add the other vegetables and simmer 1 hour, or 
 until everything is tender.
 
 Serve with sour cream and fresh bread.
@@ -1165,13 +1142,13 @@ Serve with corn bread.
 1 tsp sugar<br/>
 1/4 cup water<br/>
 
-Marinate carrot and cucumber with rice vinegar, sugar and water and
+Marinate carrot and cucumber with rice vinegar, sugar and water and 
 let sit while preparing the rest of the meal.
 
 Cook the rice.
 
 While the rice cooks, fry the ground beef until brown, 4-5 minutes.
-Drain any excess fat, then add hoisin and soy sauce and simmer 2-3
+Drain any excess fat, then add hoisin and soy sauce and simmer 2-3 
 minutes more.
 
 Serve rice topped with meat, drained veggies, cilantro and sesame seeds.
@@ -1322,7 +1299,7 @@ Let sit at least 24 hours before serving.
 2/3 cup butter, soft<br/>
 2/3 cup sugar<br/>
 1 egg white<br/>
-2 cup flour<br/>
+2+ cup flour<br/>
 1/4 tsp baking soda<br/>
 2/3 tsp baking powder<br/>
 
@@ -1522,26 +1499,25 @@ Bake in greased bundt pan at 350 F for 50-60 minutes.
 1 1/4 cup sugar<br/>
 1 1/4 tsp vanilla<br/>
 3 eggs<br/>
-1 1/4 cup sour cream or yogurt<br/>
+1 1/4 cup sour cream<br/>
 2 cup flour<br/>
 1 1/4 tsp baking soda<br/>
 2 tsp baking powder<br/>
+1/2 cup brown sugar<br/>
+2 tbsp cinnamon<br/>
 
-Cream butter and sugar, add vanilla and eggs.
+Cream butter and sugar, then mix in vanilla, eggs and sour cream.
 
-Alternately add sour cream and mixed dry ingredients to butter/sugar mix
-(half sour cream, then half flour mix, then remaining sour cream, then
-remaining flour).
+Stir in flour, baking soda and powder.
 
-Pour half the batter into a greased bundt pan, then filling, then
-rest of batter.  Stir a bit, then bake at 350 F for 45 minutes.
+Put half the batter in a greased bundt pan, sprinkle with
+brown sugar and cinnamon, then cover with remaining batter.
 
-**Filling:** 1/2 cup brown sugar mixed with 2 tbsp cinnamon
-             Optional: chopped apple, more cinnamon
+Stir a bit, and bake at 350 F for 45 minutes.
 
 ## Apricot Coffee Cake
 
-1/2 cup butter (originally 1 cup)<br/>
+3/4 cup butter (was 1 cup)<br/>
 1 cup sugar<br/>
 2 eggs<br/>
 1/2 cup water<br/>
@@ -1555,11 +1531,26 @@ Cream butter and sugar, add eggs, vanilla and water, then flour
 mixed with baking powder and salt.
 
 Put half of batter in buttered 8x8" pan, then apricot filling, then rest
-of batter.  Sprinkle with streusal and bake at 350 F for 50 minutes.
+of batter.  Sprinkle with streusal.
 
-**Streusal:** Mix 1/4 cup sugar, 1/4 c flour and 2 tbsp butter.
+Bake at 350 F for 50 minutes.
+
+**Streusal:**
+
+1/4 cup sugar<br/>
+1/4 cup flour<br/>
+2 tbsp butter<br/>
+
+Mix.
 
 **Apricot Filling:**
+
+1 cup apricot jam (or more)<br/>
+1-2 tbsp water<br/>
+
+Mix.
+
+Or:
 
 2 cup apricots<br/>
 1 1/2 cup sugar<br/>
@@ -1623,9 +1614,11 @@ through.
 1 tsp each of ginger, cinnamon, nutmeg and allspice<br/>
 
 Mix everything together and bake at 350 F for 1 hour or more
-in a greased 9x13" pan (plus a loaf tin).
+in a greased 9x13" pan.
 
-Or use two 9" round pans and bake for 45 minutes.
+Or make a half recipe in an 8x8 pan and bake for 45 minutes.
+
+Variation: use root beer instead of tea and coke.
 
 ## Felix's Apple Cake
 
@@ -1683,16 +1676,16 @@ Bake at 375 F for 35-40 minutes.
 2 cup flour<br/>
 2 tsp baking soda<br/>
 2 tsp baking powder<br/>
-1-2 tbsp cinnamon<br/>
+1 1/2 tbsp cinnamon<br/>
 3 cup grated carrot<br/>
 1 cup raisins (optional)<br/>
 
-Preheat oven to 350 F.  Grease and flour 13x9" pan.
+Grease and flour a 9x13" pan.
 
 Beat sugar and eggs, then stir in oil.
 Sift dry ingredients and stir into egg mixture.
 Fold in carrots and raisins.  Pour into pan and bake
-50-60 minutes.
+at 350 F for 50-60 minutes.
 
 ** Cream Cheese Icing
 
@@ -1744,9 +1737,8 @@ Pour into buttered 8" square pan and bake at 350 F for 25-30 minutes.
 
 Mix together and spread on cake.  Broil carefully until lightly golden.
 
-Apple cake: replace cocoa with 1 finely chopped apple, 1 tsp cinnamon,
-1/2 tsp nutmeg and 1/4 tsp cloves (may need to reduce milk or increase
-spices).
+Apple cake: replace cocoa and milk with 1/2 cup apple sauce, 1 1/2 tsp cinnamon,
+1/2 tsp nutmeg and 1/4 tsp cloves.
 
 
 ## Killer Chocolate Torte
@@ -1909,57 +1901,65 @@ more sauce.  Leave some sauce to spoon onto each slice when cake is served.
 
 **The Cake**
 
-6 eggs, separated<br/>
-1 cup sugar<br/>
-3/4 cup soft butter<br/>
+6 oz semi-sweet chocolate<br/>
+8 egg yolks<br/>
+10 egg whites<br/>
+1 tbsp vanilla<br/>
+1/2 cup melted butter<br/>
+3/4 cup sugar<br/>
 1 cup flour<br/>
-1/2 cup almond flour or ground almonds<br/>
-1/4 tsp salt<br/>
-3 oz semi-sweet chocolate<br/>
-2 oz unsweetened chocolate<br/>
 
-Preheat oven to 375 F and butter two 9" springform cake pans.
+Line two 8" round pans with wax paper and brush with butter.
 
-Melt chocolate and let cool slightly.
+Melt chocolate over low heat and let cool til lukewarm,
+then beat in egg yolks one by one.
 
-In a large bowl, beat egg whites until stiff peaks form.
+Add vanilla and melted butter a few tbsp at a time.
 
-In another large bowl, beat butter and sugar, then add melted chocolate.
-Add egg yolks one at a time mixing until smooth, then mix in flours and
-salt.
+Beat egg whites until they foam thickly, then slowly add sugar, beating
+until whites are stiff.  Mix 1 cup of whites into chocolate mix, then pour
+chocolate mix over remaining whites.  Sieve flour on top and fold all three
+together until no flour or whites show.
 
-Fold in 1/4 of the beaten egg whites to lighten the batter, then fold in the rest.
+Pour batter into pans and bake 30 minutes at 350 F.
 
-Spread batter in cake pans and bake 20-22 minutes.  Remove from pans and cool.
-
-Next time: add 1/2 tsp cream of tartar to the egg whites before beating.
-
-NB: this cake is dry, try less baking, or add grated zucchini
-or beets or use sponge from Grand Marnier cake instead.
+Remove from oven and let stand 5 minutes before removing from pans.
 
 **Apricot Filling and Chocolate Glaze**
 
-1 cup apricot jam<br/>
-1/4 cup water<br/>
 3 oz unsweetened chocolate<br/>
+1 cup cream<br/>
 1 cup sugar<br/>
-1/2 cup milk<br/>
-1 tbsp corn syrop<br/>
-1 egg, lightly beaten (optional?)<br/>
-3 tbsp vanilla<br/>
+3 tbsp corn syrop<br/>
+1 egg<br/>
+1 tbsp vanilla<br/>
+1/2 cup apricot jam mixed with 2 tbsp water<br/>
+1 cup whipped cream (optional)<br/>
 
-Heat apricot jam and water, mix and spread over both layers of cake
-(bottom side up -- some soaks in).  Assemble cake and cool some more.
+Combine chocolate, cream, sugar and corn syrop in a pot.
+bring to a boil over moderate heat, stirring constantly
+until chocolate has completely dissolved.
 
-Heat milk, sugar, chocolate and corn syrop on stove, stirring
-until chocolate has dissolved.  Boil 5 to 15 minutes, stirring,
-until it thickens.  Reduce to low heat.
+Cook 5-8 minutes, stirring constantly, until 1/4 tsp of mixture
+forms a small ball when dropped in a glass of cold water.
 
-Pour 2 to 3 tbsp of mix into lightly beaten egg, then add back to
-pot, and simmer 3-5 more minutes until it thickly 
-coats spoon.  Remove from heat and stir in vanilla.
+When glaze reaches proper consistency, mix 2-3 tbsp of glaze into
+lightly beaten egg, then pour back into pot.
+Reduce to low heat and simmer 3-4 minutes, stirring constantly,
+until thick enough to coat a spoon heavily.
 
-Cool.  When glaze is mostly cool, pour over top of cake and sides.
+Remove from heat, stir in vanilla and cool to room temperature.
+
+Spread apricot jam over bottom layer of cake (inverted).
+Add second layer.  Pour cooled glaze in a slow stream over cake,
+covering it completely.
+
+Let chill for 3 hours in fridge until glaze is firm and glossy.
+
+Serve with whipped cream.
+
+Alternatively, see:
+<small>https://www.foodandwine.com/recipes/sacher-torte</small>
 
 ## Lemon Pudding
 
@@ -2030,6 +2030,8 @@ Cream butter and sugar, add eggs and vanilla,
 then flour mixed with cocoa.
 
 Pour into buttered 8x8" pan and bake at 350 F for 25 minutes.
+
+Variation: add 1 cup ground almonds.
 
 ## Gluten Free Brownies
 
@@ -2128,7 +2130,7 @@ Makes about 16.
 2 tsp almond extract<br/>
 1 tsp vanilla<br/>
 2 cup flour<br/>
-5 oz ground almonds<br/>
+1 cup ground almonds<br/>
 1 cup slivered almonds<br/>
 
 Cream butter and sugar, then mix in eggs, almond extract and vanilla,
@@ -2224,8 +2226,9 @@ Mix in large bowl:
 1 cup coconut<br/>
 4 tbsp cocoa<br/>
 
-Stir it all together, add 1/2 tsp vanilla, spoon onto cookie sheets
-and refrigerate.  
+Stir it all together and add 1/2 tsp vanilla.
+
+Spoon onto cookie sheets and refrigerate.  
 
 ## Chocolate Chip Cookies
 
@@ -2239,6 +2242,7 @@ and refrigerate.
 3/4 tsp baking soda<br/>
 1 cup chocolate chips<br/>
 1/2 cup raisins<br/>
+1 cup ground almonds (optional)<br/>
 
 Cream butter and sugar, then mix in eggs and vanilla.
 Add flour, salt, baking powder, chocolate chips and raisins,
@@ -2248,13 +2252,26 @@ Spoon onto cookie sheets and bake at 375 F for 10-12 minutes.
 
 ## Raisin Cookies
 
-Boil 2 cups raisins in 1/2 cup water, add 1 tsp baking soda.
+3/4 cup raisins<br/>
+1/4 cup boiling water<br/>
+1/2 cup butter<br/>
+1 cup brown sugar<br/>
+2 eggs<br/>
+1/2 tsp vanilla<br/>
+2 cup flour<br/>
+1/2 tsp salt<br/>
+1/2 tsp baking powder<br/>
+1/2 tsp baking soda<br/>
+3/4 tsp cinnamon<br/>
+1/4 tsp nutmeg<br/>
+1/4 tsp allspice<br/>
 
-Beat 1 cup shortening, 2 cups brown sugar, 3 eggs, 1 tsp vanilla.
-Add 4 cups flour mixed with 1 tsp each salt, baking powder, cinnamon
-and nutmeg.
+Soak raisins in boiling water.
 
-Add raisins and bake at 325 to 350 F for a while.
+Blend butter with brown sugar, eggs and vanilla.
+Add dry ingredients, raisins and (most of the) water.
+
+Bake at 350 F for 12 to 14 minutes.
 
 ## Peanut Butter Cookies
 
@@ -2357,6 +2374,9 @@ Instead of hazelnuts, I use ground and slivered almonds (300 and 100 grams
 respectively) plus 1 tsp almond extract, and don't dry the sliced komish in
 the oven.
 
+Next time, make one without chocolate chips (and double-bake it), or try
+adding lemon zest or nutmeg, less almond, or chop the almonds.
+
 
 # Muffins
 
@@ -2370,8 +2390,8 @@ the oven.
 ## Carrot Apple Muffins
 
 2 cup sugar<br/>
-1 cup oil<br/>
 4 eggs<br/>
+1 cup oil<br/>
 2 cup grated carrots<br/>
 1 cup apple sauce<br/>
 1/4 cup apple juice (more if needed)<br/>
@@ -2495,7 +2515,7 @@ Spread on 9x13" cake.
 # Pie
 
 * [Chocolate Mousse (blender)](#chocolate-mousse-blender)
-* [Chocolate Mouse Pie](#chocolate-mouse-pie)
+* [Chocolate Mousse Pie](#chocolate-mousse-pie)
 * [Pie Crust (Baba)](#pie-crust-baba)
 * [Lemon Pie](#lemon-pie)
 * [Strawberry Bavarian Pie](#strawberry-bavarian-pie)
@@ -2519,16 +2539,15 @@ Chill 1 hour before serving.
 
 If you melt the chocolate first, then you don't need a blender.
 
-## Chocolate Mouse Pie
+## Chocolate Mousse Pie
 
-1 cup(?) chocolate wafer crumbs<br/>
-1 pkg (8 oz) semi-sweet chocolate<br/>
-   (or 7 oz semi-sweet, 1 oz dark)<br/>
+1 1/4 cup chocolate wafer crumbs<br/>
+1 pkg (8 oz) semi-sweet chocolate (plus 1/2 oz dark)<br/>
 6 eggs, separated<br/>
 4 tbsp water<br/>
 4 tbsp sugar<br/>
 1 tsp vanilla<br/>
-1 cup whipping cream<br/>
+1 1/4 cup whipping cream<br/>
 
 Line 9" round pan with crushed chocolate wafers.
 
