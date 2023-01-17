@@ -431,6 +431,7 @@ Serve immediately, traditionally with roast beef.
 * [Cottage Cheese Pie](#cottage-cheese-pie)
 * [Tian de courges](#tian-de-courges)
 * [Fettuccini Primavera](#fettuccini-primavera)
+* [Potato au gratin](#potato-au-gratin)
 * [Zucchini Quiche](#zucchini-quiche)
 * [Zucchini or Broccoli Quiche](#zucchini-or-broccoli-quiche)
 * [Onion Tarte](#onion-tarte)
@@ -561,6 +562,45 @@ Add pasta to veggies in frying pan, along with cheeses and cream.
 
 Toss until well mixed and cheese has melted, then season to taste.
 Serve immediately.
+
+## Potato au gratin
+
+2-3 potato, sliced<br/>
+1/2 onion, chopped<br/>
+1 clove garlic, minced<br/>
+1/2 cup milk<br/>
+1/2 cup cream<br/>
+200 grams gruyere cheese, grated<br/>
+
+Briefly fry onion and garlic, then add milk and simmer a few minutes.
+
+Alternately layer potato slices and cheese in an 8x8" pan,
+then add milk/onion/garlic, cover and bake for 1 hour at 350 F.
+
+Remove cover and bake another 15-20 minutes until golden brown on top.
+
+## Zucchini Quiche
+
+1 9" pie shell<br/>
+1/4 cup grated parmesan<br/>
+1/2 cup bread crumbs<br/>
+2 lb zucchini, sliced 1/4" thick<br/>
+2 eggs, separated<br/>
+1 1/2 cup sour cream<br/>
+2 tbsp chives<br/>
+2 tbsp flour<br/>
+butter<br/>
+
+Beat egg yolks and sour cream, add chives and flour.
+
+Beat egg whites til stiff and fold into other mixture.
+
+Put half the parmesan and breadcrumbs in pie shell, then
+alternate layers of zucchini slices and other mix in pie shell.
+Top with remaining parmesan and breadcrumbs and a few dabs of
+butter.
+
+Bake at 450 F for 10 minutes, then 325 F for 40 minutes.
 
 ## Zucchini Quiche
 
