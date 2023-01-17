@@ -2296,6 +2296,7 @@ the oven.
 
 * [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
+* [Pumpkin Muffins](#pumpkin-muffins)
 
 
 <br/> <!-- force page break -->
@@ -2350,6 +2351,28 @@ Mix these:
 Mix it all together.  If it's too thick, add more water or juice.
 
 Oil muffin tins, bake at 400 F for 25-30 minutes.
+
+## Pumpkin Muffins
+
+1 1/2 cup pumpkin puree (1 small can)<br/>
+1 1/2 cup sugar<br/>
+1/2 cup oil<br/>
+2 eggs<br/>
+1 3/4 cup flour<br/>
+1 tsp baking soda<br/>
+2 tsp cinnamon<br/>
+3/4 tsp salt<br/>
+1/2 tsp cloves<br/>
+1/2 tsp nutmeg (less?)<br/>
+1/4 cup raisins<br/>
+
+Mix well: pumpkin, sugar, oil and eggs.
+
+Stir in remaining ingredients.
+
+Bake 25 minutes at 400 F.
+
+Makes 12 - 14 muffins.
 
 
 # Icing
