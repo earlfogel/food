@@ -564,19 +564,16 @@ Serve immediately.
 
 ## Potato au gratin
 
-2-3 potato, sliced<br/>
+2-3 potato, thinly sliced<br/>
 1/2 onion, chopped<br/>
-1 clove garlic, minced<br/>
-1/2 cup milk<br/>
-1/2 cup cream<br/>
-200 grams gruyere cheese, grated<br/>
+2 clove garlic, minced<br/>
+1 cup milk<br/>
+200 grams gruyere or mozzarella cheese, grated<br/>
 
-Briefly fry onion and garlic, then add milk and simmer a few minutes.
+Alternately layer potato slices, onion, garlic and cheese in an 8x8" pan,
+then add milk, cover and bake for 50-70 minutes at 350 F.
 
-Alternately layer potato slices and cheese in an 8x8" pan,
-then add milk/onion/garlic, cover and bake for 1 hour at 350 F.
-
-Remove cover and bake another 15-20 minutes until golden brown on top.
+If needed, remove cover and bake another 10 minutes until golden brown on top.
 
 ## Zucchini Quiche
 
@@ -1061,7 +1058,7 @@ This is my version of Uncle Robert's version of:
 Cut up vegetables.
 
 Boil soup bones in 1-2 litres of water, add onion, celery and salt, simmer 
-1/2 hour.  Add the other vegetables and simmer 1 hour, or 
+1 or 2 hours.  Add the other vegetables and simmer 2 more hours, or 
 until everything is tender.
 
 Serve with sour cream and fresh bread.
@@ -1084,7 +1081,7 @@ If you can't find soup bones, use cut up meat instead.
 1/2 lb mushrooms, sliced<br/>
 1 cup barley<br/>
 
-Simmer soup bones and water in a large pot for 1 hour.
+Simmer soup bones and water in a large pot for 1 or 2 hours.
 
 Add beef broth, barley, salt, pepper and garlic powder.
 
@@ -1130,17 +1127,18 @@ Serve with corn bread.
 
 ## Beef Banh Mi Bowl
 
-1 lb ground beef<br/>
+1 lb ground beef (pork?)<br/>
 3/4 cup rice<br/>
 1/2 cup sliced cucumber<br/>
 1/2 cup julienned carrot<br/>
-1/4 cup chopped cilantro, stems removed<br/>
-1 tbsp sesame seeds<br/>
-1 tbsp soy sauce<br/>
-4 tbsp hoisin sauce<br/>
 1 tbsp rice vinegar<br/>
 1 tsp sugar<br/>
 1/4 cup water<br/>
+1/2 cup chopped cilantro, stems removed<br/>
+1 tbsp sesame seeds<br/>
+1 tbsp soy sauce<br/>
+2-4 tbsp hoisin sauce<br/>
+fish sauce (to taste)<br/>
 
 Marinate carrot and cucumber with rice vinegar, sugar and water and 
 let sit while preparing the rest of the meal.
@@ -1581,7 +1579,7 @@ Cook until apples are soft, about 5 minutes.
 4 cup flour<br/>
 2 tsp baking powder<br/>
 2 1/2 tsp baking soda<br/>
-1 1/2 tsp cardamom<br/>
+1 1/2 tsp cardamom (or more, to taste)<br/>
 1/2 tsp salt<br/>
 
 Cream butter and sugar, add eggs and vanilla.
@@ -1593,7 +1591,7 @@ beginning and ending with flour.
 1/4 cup brown sugar<br/>
 1 tbsp cinnamon<br/>
 1 tsp cardamom<br/>
-1/2 cup raisins, dates or chopped apple<br/>
+1/2 cup chopped apple (optional)<br/>
 
 Spread 1/3 batter in greased large tube or bundt pan, then half
 filling, then more batter, remaining filling, and batter.
@@ -1979,7 +1977,7 @@ Serve warm.
 
 ## Lemon Bars
 
-1/2 cup butter (less?)<br/>
+1/2 cup butter<br/>
 1/4 cup sugar<br/>
 1 cup flour<br/>
 
@@ -2207,7 +2205,9 @@ Bake at 350 F for 45 minutes.
 * [Cinnamon Cookies](#cinnamon-cookies)
 * [Oatmeal Cookies (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
 * [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
+* [Ginger Cookies](#ginger-cookies)
 * [Maxine's Komish](#maxines-komish)
+* [Coconut Cream Cheese Cookies](#coconut-cream-cheese-cookies)
 
 
 <br/> <!-- force page break -->
@@ -2329,7 +2329,7 @@ Bake at 350 F for 15 to 20 minutes.
 
 ## Oatmeal Raisin Cookies (Lee Benson)
 
-1 cup shortening (or butter)<br/>
+1 cup shortening<br/>
 2 cup brown sugar<br/>
 2 tsp vanilla<br/>
 1 1/2 cup flour<br/>
@@ -2340,7 +2340,7 @@ Bake at 350 F for 15 to 20 minutes.
 2/3 cup chocolate chips<br/>
 2/3 cup coconut<br/>
 2 1/2 cup oats<br/>
-1/2 cup water<br/>
+1/2 cup water (or 2 eggs plus 1/4 cup water)<br/>
 
 Cream shortening, sugar and vanilla.
 
@@ -2350,6 +2350,31 @@ shortening/sugar mix.  Add oats and water and mix until well blended.
 Drop by spoonfuls onto a greased cookie sheet.
 
 Bake at 350 F for 12 to 15 minutes.
+
+## Ginger Cookies
+
+3/4 cup butter<br/>
+1 cup sugar<br/>
+1 egg<br/>
+1/4 cup molasses<br/>
+2-1/4 cups flour<br/>
+2 tsp ground ginger<br/>
+1 tsp baking soda<br/>
+3/4 tsp cinnamon<br/>
+1/2 tsp cloves<br/>
+1/4 tsp salt<br/>
+extra sugar<br/>
+
+Cream butter and sugar until light and fluffy. Beat in egg and molasses.
+Add remaining ingredients and mix well.
+
+Roll into 1 1/2" balls, then roll in sugar.
+
+Place 2" apart on ungreased baking sheets.
+
+Bake at 375 F until lightly browned, 12-14 minutes.
+
+<small>https://www.tasteofhome.com/recipes/big-soft-ginger-cookies/</small>
 
 ## Maxine's Komish
 
@@ -2377,6 +2402,29 @@ the oven.
 Next time, make one without chocolate chips (and double-bake it), or try
 adding lemon zest or nutmeg, less almond, or chop the almonds.
 
+## Coconut Cream Cheese Cookies
+
+2 cups flour (more?)</br>
+1/2 tsp baking soda</br>
+1/2 tsp salt</br>
+1 1/4 cup butter</br>
+6 oz cream cheese</br>
+1 cup brown sugar</br>
+1/2 cup white sugar</br>
+2 tsp vanilla</br>
+2 cups shredded coconut</br>
+
+To toast coconut: spread coconut on baking sheet and bake at 325 F
+until light brown (10-15 minutes) stirring every 3-4 minutes.  Do not burn.
+Set aside.
+
+Cream butter and cream cheese until smooth, then mix in sugar and vanilla,
+toasted coconut, and remaining ingredients.
+
+Spoon cookie dough onto baking sheets and bake at 350 F for 12-14 minutes,
+just until edges and bottoms are light brown.
+
+<small>https://vanillakitchen.blogspot.com/2009/03/coconut-cream-cheese-cookies.html</small>
 
 # Muffins
 
