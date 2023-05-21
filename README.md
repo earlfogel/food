@@ -2418,13 +2418,13 @@ adding lemon zest or nutmeg, less almond, or chop the almonds.
 2 cups shredded coconut</br>
 
 To toast coconut: spread coconut on baking sheet and bake at 325 F
-until light brown (10-15 minutes) stirring every 3-4 minutes.  Do not burn.
+until light brown (10-15 minutes) stirring every 4-5 minutes.  Do not burn.
 Set aside.
 
 Cream butter and cream cheese until smooth, then mix in sugar and vanilla,
 toasted coconut, and remaining ingredients.
 
-Spoon cookie dough onto baking sheets and bake at 350 F for 12-14 minutes,
+Spoon cookie dough onto baking sheets and bake at 375 F for 12-14 minutes,
 just until edges and bottoms are light brown.
 
 <small>https://vanillakitchen.blogspot.com/2009/03/coconut-cream-cheese-cookies.html</small>
