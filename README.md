@@ -288,7 +288,7 @@ Bake at 350 F for 25-30 minutes.
 2 tsp vanilla<br/>
 1/4 cup butter (try more)<br/>
 1/3 cup brown sugar<br/>
-1 tsp cinnamon<br/>
+1-2 tsp cinnamon<br/>
 
 Mix flour, sugar, baking powder and salt. Mix milk, egg and vanilla. Stir
 the wet and dry ingredients together, then add the melted butter.
@@ -296,7 +296,10 @@ the wet and dry ingredients together, then add the melted butter.
 Pour into a buttered 8x8" pan.  Mix brown sugar and cinnamon, sprinkle on
 top and swirl into batter.
 
-Bake at 350 F for 30 minutes.
+Bake at 350 F for 25-30 minutes.
+
+Optional: when cool, drizzle with 1/3 cup icing sugar mixed with 1 tsp
+(approx) water and 1/4 tsp vanilla.
 
 ## German Apple Pancake
 
@@ -1099,16 +1102,16 @@ If soup is too thick, add more water or broth.
 
 ## Beef Stew
 
-2 pounds stew meat, cubed<br/>
+1 1/2 pounds stew meat, cubed<br/>
 3 tbsp oil<br/>
-3 cup beef broth<br/>
-1 tsp dried rosemary<br/>
-1/4 tsp ground black pepper<br/>
 1/2 onion, chopped<br/>
 4 cloves garlic, chopped<br/>
+4 stalks celery, sliced<br/>
+1 litre beef broth<br/>
+1 tsp dried rosemary<br/>
+1/4 tsp ground black pepper<br/>
 3 large potatoes, cubed<br/>
-4 medium carrots, cut into 1" pieces<br/>
-4 stalks celery, cut into 1" pieces<br/>
+4 medium carrots, sliced<br/>
 3 tbsp cornstarch<br/>
 3 tbsp cold water or broth<br/>
 
@@ -1201,7 +1204,7 @@ Bake at 350 F for 2 hours.
 * [Lemon Pudding](#lemon-pudding)
 * [Lemon Bars](#lemon-bars)
 * [What To Do With Half A Lemon Tartes](#what-to-do-with-half-a-lemon-tartes)
-* [Brownies (Silver Palate)](#brownies-silver-palate)
+* [Brownies](#brownies)
 * [Gluten Free Brownies](#gluten-free-brownies)
 * [Chocolate Oatmeal Squares](#chocolate-oatmeal-squares)
 * [Magic Squares](#magic-squares)
@@ -1648,13 +1651,13 @@ When cool, sprinkle with icing sugar and serve with whipped cream.
 1/4 cup butter<br/>
 1 cup sugar<br/>
 1 egg<br/>
-2 apples, chopped or grated<br/>
+1 apple, chopped or grated<br/>
 1 1/4 cups flour<br/>
 1 1/2 tsp cinnamon<br/>
 1/4 tsp nutmeg<br/>
 1/4 tsp cloves<br/>
 1 tsp baking soda<br/>
-3/4 tsp salt<br/>
+1/2 tsp salt<br/>
 
 Cream butter and sugar, then add egg and apple.
 
@@ -2015,7 +2018,7 @@ Whisk it all together.
 Pour over baked crust.
 Bake an additional 15-20 minutes.
 
-## Brownies (Silver Palate)
+## Brownies
 
 1/2 cup soft butter<br/>
 1 cup sugar<br/>
@@ -2407,7 +2410,7 @@ adding lemon zest or nutmeg, less almond, or chop the almonds.
 2 cups flour (more?)</br>
 1/2 tsp baking soda</br>
 1/2 tsp salt</br>
-1 1/4 cup butter</br>
+3/4 cup butter</br>
 6 oz cream cheese</br>
 1 cup brown sugar</br>
 1/2 cup white sugar</br>
