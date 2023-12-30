@@ -1,17 +1,20 @@
 # Table of Contents
-* [Bread, Biscuits and Breakfast](#bread-biscuits-and-breakfast)
+* [Bread and Breakfast](#bread-and-breakfast)
 * [Vegetarian](#vegetarian)
 * [Meat](#meat)
+* [Soup](#soup)
 * [Dessert](#dessert)
 * [Cookies](#cookies)
 * [Muffins](#muffins)
 * [Icing](#icing)
 * [Pie](#pie)
 
-# Bread, Biscuits and Breakfast
+# Bread and Breakfast
 
 * [Everyday Granola](#everyday-granola)
 * [Corn Bread](#corn-bread)
+* [Irish Soda Bread](#irish-soda-bread)
+* [Rye Soda Bread](#rye-soda-bread)
 * [No Knead Bread](#no-knead-bread)
 * [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
 * [Homemade Marzipan](#homemade-marzipan)
@@ -19,8 +22,6 @@
 * [Apple Scone](#apple-scone)
 * [Scrumpets](#scrumpets)
 * [Baked Bannock](#baked-bannock)
-* [Irish Soda Bread](#irish-soda-bread)
-* [Rye Soda Bread](#rye-soda-bread)
 * [Baba's Buns](#babas-buns)
 * [Cinnamon Breakfast Cake](#cinnamon-breakfast-cake)
 * [German Apple Pancake](#german-apple-pancake)
@@ -70,6 +71,54 @@ Combine corn meal, butter and hot water. Let sit 2 minutes.
 Mix dry ingredients together, then add everything else.
 
 Bake in buttered 8" square pan, 375 F for 30 minutes.
+
+## Irish Soda Bread
+
+3 cups flour<br/>
+1 tbsp baking powder<br/>
+1 tsp baking soda<br/>
+1/3 cup sugar<br/>
+1 tsp salt<br/>
+1 egg<br/>
+2 cups milk<br/>
+2 tbsp vinegar<br/>
+1/4 cup melted butter<br/>
+
+Mix milk and vinegar.
+
+Combine flour, baking powder, baking soda, sugar and salt,
+then add beaten egg, milk, vinegar and melted butter.
+Mix just until moistened.
+
+Bake at 325 F in a buttered 9x5" loaf pan for 60-70 minutes, or until
+toothpick emerges clean.
+
+Yummy while still hot from the oven, or toasted later.
+
+## Rye Soda Bread
+
+1 1/2 cup rye flour<br/>
+1 1/2 cup whole wheat flour<br/>
+1 cup white flour<br/>
+1 tbsp baking powder<br/>
+1 tsp baking soda<br/>
+1 tsp salt<br/>
+1 tsp caraway seeds<br/>
+2 tbsp brown sugar<br/>
+1 egg, beaten<br/>
+2 cup yogurt (or 1 cup yogurt, 1 cup milk, 1 tbsp vinegar)<br/>
+rolled oats<br/>
+
+Combine flours, baking powder, soda, salt, caraway and sugar in a large bowl.
+
+Mix the egg and yogurt and stir into the dry ingredients just to blend.
+
+Sprinkle with oats and turn out onto buttered cookie sheet.
+
+Bake at 375 F for 45-50 minutes or until it sounds hollow when tapped on
+the bottom.
+
+<small>http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198</small>
 
 ## No Knead Bread
 
@@ -157,6 +206,7 @@ Biscuits:
 1 cup milk<br/>
 
 Mix these and scoop onto greased cookie sheet.
+Makes 6-8 biscuits.
 
 Topping:
 
@@ -167,15 +217,17 @@ Topping:
 Mix and brush over biscuit dough.
 Bake at 375 F for 12 minutes or until golden.
 
+These are *too* rich, so I usually halve the topping, or skip it completely.
+
 ## Apple Scone
 
 2 cup flour<br/>
-1/2 tsp salt<br/>
-1 tbsp baking powder<br/>
 1/4 cup sugar<br/>
+1 tbsp baking powder<br/>
+1/2 tsp salt<br/>
 1/4 cup butter<br/>
-3/4 cup milk<br/>
 1 apple, chopped<br/>
+3/4 cup milk<br/>
 2 tbsp brown sugar<br/>
 
 Mix dry ingredients. Cut in butter. Add apple and milk (except 1 tbsp).
@@ -209,54 +261,6 @@ Stir everything together, until just mixed.
 Spread on a cookie sheet sprinkled with corn meal.
 
 Bake at 400 F for 15 - 20 minutes until bottom is golden.
-
-## Irish Soda Bread
-
-3 cups flour<br/>
-1 tbsp baking powder<br/>
-1 tsp baking soda<br/>
-1/3 cup sugar<br/>
-1 tsp salt<br/>
-1 egg<br/>
-2 cups milk<br/>
-2 tbsp vinegar<br/>
-1/4 cup melted butter<br/>
-
-Mix milk and vinegar.
-
-Combine flour, baking powder, baking soda, sugar and salt,
-then add beaten egg, milk, vinegar and melted butter.
-Mix just until moistened.
-
-Bake at 325 F in a buttered 9x5" loaf pan for 60-70 minutes, or until
-toothpick emerges clean.
-
-Yummy while still hot from the oven, or toasted later.
-
-## Rye Soda Bread
-
-1 1/2 cup rye flour<br/>
-1 1/2 cup whole wheat flour<br/>
-1 cup white flour<br/>
-1 tbsp baking powder<br/>
-1 tsp baking soda<br/>
-1 tsp salt<br/>
-1 tsp caraway seeds<br/>
-2 tbsp brown sugar<br/>
-1 egg, beaten<br/>
-2 cup yogurt (or 1 cup yogurt, 1 cup milk, 1 tbsp vinegar)<br/>
-rolled oats<br/>
-
-Combine flours, baking powder, soda, salt, caraway and sugar in a large bowl.
-
-Mix the egg and yogurt and stir into the dry ingredients just to blend.
-
-Sprinkle with oats and turn out onto buttered cookie sheet.
-
-Bake at 375 F for 45-50 minutes or until it sounds hollow when tapped on
-the bottom.
-
-<small>http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198</small>
 
 ## Baba's Buns
 
@@ -442,10 +446,10 @@ Serve immediately, traditionally with roast beef.
 * [Chickpea Curry](#chickpea-curry)
 * [Sweet Potato Curry](#sweet-potato-curry)
 * [Noodle Kugel](#noodle-kugel)
-* [Tomato Veggie Soup](#tomato-veggie-soup)
 * [Caesar Salad](#caesar-salad)
 * [White House Coleslaw](#white-house-coleslaw)
 * [French Dressing](#french-dressing)
+* [Cranberry Sauce](#cranberry-sauce)
 
 
 <br/> <!-- force page break -->
@@ -502,7 +506,7 @@ salt in regular cottage cheese).
 
 ## Tian de courges
 
-1 cup cooked rice<br/>
+1 cup rice, cooked<br/>
 1 small onion, chopped<br/>
 4 tbsp oil<br/>
 4 cup squash, peeled and chopped into 1/2 inch cubes<br/>
@@ -515,7 +519,7 @@ salt in regular cottage cheese).
 1/2 cup cream<br/>
 1/2 to 1 tsp salt<br/>
 2 sliced tomatoes<br/>
-1/2 cup homemade breadcrumbs<br/>
+1 cup homemade breadcrumbs<br/>
 
 Saute onion in 2 tbsp oil until just soft; Stir in squash and sprinkle
 with salt; Cook, covered, 10-15 minutes until squash is almost done,
@@ -536,9 +540,8 @@ Spoon into lightly-oiled 3 quart baking dish or large gratin dish.
 Cover with a layer of sliced tomatoes then sprinkle with romano and
 breadcrumbs.
 
-Bake at 375 F for 30 minutes or until set and lightly browned on top.
+Bake at 375 F for 35-45 minutes or until set and lightly browned on top.
 
-Fyi: original recipe had more onion, turnip and pepper.
 
 ## Fettuccine Primavera
 
@@ -570,13 +573,15 @@ Serve immediately.
 2-3 potato, thinly sliced<br/>
 1/2 onion, chopped<br/>
 2 clove garlic, minced<br/>
-1 cup milk<br/>
-200 grams gruyere or mozzarella cheese, grated<br/>
+1 1/4 cup milk<br/>
+100 grams gruyere, grated<br/>
 
 Alternately layer potato slices, onion, garlic and cheese in an 8x8" pan,
-then add milk, cover and bake for 50-70 minutes at 350 F.
+then add milk, cover and bake for 1 hour at 350 F.
 
-If needed, remove cover and bake another 10 minutes until golden brown on top.
+Remove cover and bake 10 more minutes until golden brown on top.
+
+AKA: scalloped potatoes
 
 ## Zucchini Quiche
 
@@ -659,9 +664,6 @@ Serve with diced avocado, cilantro and corn chips.
 
 for Kyle:
   - no onion, garlic or vegetable broth (use apple juice instead)
-
-for Stacey/Johny:
-  - no corn, corn chips or corn oil
 
 Original recipe:
 
@@ -747,41 +749,11 @@ butter<br/>
 Boil noodles in salted water until barely tender,
 drain and dot with butter.
 
-Beat eggs, cheese, yogurt, vanilla, cinnamon and honey.
+Mix eggs, cheese, yogurt, vanilla, cinnamon and honey.
 Combine with sliced apple and noodles and spread into a
 buttered casserole dish.
 
 Top with corn flakes, dot with butter and bake at 375 F for 35 minutes.
-
-## Tomato Veggie Soup
-
-1 onion, chopped<br/>
-1 clove garlic, crushed<br/>
-1 cup tomatoes, chopped<br/>
-1 cup cauliflower, chopped<br/>
-1 cup broccoli, chopped<br/>
-1 cup zucchini, chopped<br/>
-(or any vegetables you want)<br/>
-4 tbsp flour<br/>
-1 tbsp sugar<br/>
-salt and pepper<br/>
-basil<br/>
-thyme<br/>
-2 cup canned tomato or tomato juice<br/>
-1 cup milk<br/>
-1 cup water<br/>
-
-Fry onion in butter until soft.
-Add vegetables and fry just until done.
-Move to a large pot, add flour, sugar and spices (season to taste).
-Add canned tomato (or juice) and bring to a boil.
-Remove from heat, add milk and water, then heat to boiling again and serve.
-
-To keep milk from curdling:
-* add 1/2 tsp baking soda to soup before adding milk
-* add 1/2 cup soup to milk (slowly) before adding milk to soup
-* use warm milk
-* use whole milk
 
 ## Caesar Salad
 
@@ -822,8 +794,6 @@ Mix remaining ingredients together and pour over salad.
 Refrigerate 3 to 4 hours, stirring occasionally.
 Pour off excess liquid and serve.
 
-I use one bag of cole slaw plus 1 grated carrot and skip the onion.
-
 ## French Dressing
 
 3/4 cup oil<br/>
@@ -835,6 +805,19 @@ I use one bag of cole slaw plus 1 grated carrot and skip the onion.
 salt and pepper<br/>
 
 Mix all ingredients.
+
+## Cranberry Sauce
+
+300 gr fresh or frozen cranberries<br/>
+1 cup sugar<br/>
+1 cup water<br/>
+a little orange juice and/or zest (optional)<br/>
+
+Simmer cranberries, sugar and water until most of the berries
+burst, about 20 minutes. Add orange juice/zest if desired.
+
+Cool.
+
 
 # Meat
 
@@ -848,8 +831,6 @@ Mix all ingredients.
 * [Sloppy Joes](#sloppy-joes)
 * [Earl's Chili](#earls-chili)
 * [Chicken Mafé](#chicken-mafé)
-* [Beet Borscht](#beet-borscht)
-* [Beef Barley Soup](#beef-barley-soup)
 * [Beef Stew](#beef-stew)
 * [Beef Banh Mi Bowl](#beef-banh-mi-bowl)
 * [Anne's Cabbage Rolls](#annes-cabbage-rolls)
@@ -922,7 +903,7 @@ Cover and bake at 350 F for 2 hours, basting occasionally.
 1 1/2 tbsp lemon juice<br/>
 10-15 drops tabasco<br/>
 
-Boil the ribs for 30 minutes to get rid of some of the fat.
+Boil the ribs for at least 1 hour to soften them.
 
 Make a sauce by mixing the remaining ingredients together.
 
@@ -1046,6 +1027,89 @@ This is my version of Uncle Robert's version of:
 
    <small>https://cooking.nytimes.com/recipes/1017950-chicken-mafe</small>
 
+## Beef Stew
+
+1 1/2 pounds stew meat, cubed<br/>
+3 tbsp oil<br/>
+1/2 onion, chopped<br/>
+4 cloves garlic, chopped<br/>
+4 stalks celery, sliced<br/>
+1 litre beef broth<br/>
+1 tsp dried rosemary<br/>
+1/4 tsp ground black pepper<br/>
+3 large potatoes, cubed<br/>
+4 medium carrots, sliced<br/>
+3 tbsp cornstarch<br/>
+3 tbsp cold water or broth<br/>
+
+In a large pot, fry beef in oil over medium heat until mostly brown.
+Add onion, garlic and celery and fry a bit more.
+
+Add beef broth, rosemary and pepper.
+Bring to a boil, then reduce heat, cover and simmer 1 hour.
+
+Add potatoes and carrots and simmer another hour or more.
+
+Dissolve cornstarch in cold water then stir into stew.
+Stir 2 or 3 minutes until the stew thickens.
+
+Serve with corn bread.
+
+## Beef Banh Mi Bowl
+
+1 lb ground beef (pork?)<br/>
+3/4 cup rice<br/>
+1/2 cup sliced cucumber<br/>
+1/2 cup julienned carrot<br/>
+1 tbsp rice vinegar<br/>
+2 tsp sugar<br/>
+1/4 cup water<br/>
+1/2 cup chopped cilantro, stems removed<br/>
+1 tbsp sesame seeds<br/>
+1 tbsp soy sauce<br/>
+3-4 tbsp hoisin sauce<br/>
+fish sauce (to taste)<br/>
+
+Marinate carrot and cucumber with rice vinegar, sugar and water and 
+let sit while preparing the rest of the meal.
+
+Cook the rice.
+
+While the rice cooks, fry the ground beef until brown, 4-5 minutes.
+Drain any excess fat, then add hoisin and soy sauce and simmer 2-3 
+minutes more.
+
+Serve rice topped with meat, drained veggies, cilantro and sesame seeds.
+
+## Anne's Cabbage Rolls
+
+2/3 cup long grain rice<br/>
+1/2 lb ground pork<br/>
+1/2 lb ground beef<br/>
+4 tbsp onion (leave out if Dianne)<br/>
+1 1/2 tbsp season-all<br/>
+1/4 tsp pepper<br/>
+1/4 tsp basil<br/>
+1/2 cup tomato sauce<br/>
+sauerkraut<br/>
+
+Top:<br/>
+10 oz tomato sauce<br/>
+1/4 cup brown sugar<br/>
+1/4 cup vinegar<br/>
+
+Bake at 350 F for 2 hours.
+
+
+# Soup
+
+* [Beet Borscht](#beet-borscht)
+* [Beef Barley Soup](#beef-barley-soup)
+* [Tomato Veggie Soup](#tomato-veggie-soup)
+* [Cascadilla](#cascadilla)
+
+
+<br/> <!-- force page break -->
 
 ## Beet Borscht
 
@@ -1100,79 +1164,52 @@ Cover and simmer 2 hours, until the vegetables and barley are tender.
 
 If soup is too thick, add more water or broth.
 
-## Beef Stew
+## Tomato Veggie Soup
 
-1 1/2 pounds stew meat, cubed<br/>
-3 tbsp oil<br/>
-1/2 onion, chopped<br/>
-4 cloves garlic, chopped<br/>
-4 stalks celery, sliced<br/>
-1 litre beef broth<br/>
-1 tsp dried rosemary<br/>
-1/4 tsp ground black pepper<br/>
-3 large potatoes, cubed<br/>
-4 medium carrots, sliced<br/>
-3 tbsp cornstarch<br/>
-3 tbsp cold water or broth<br/>
+1 onion, chopped<br/>
+1 clove garlic, crushed<br/>
+1 cup tomatoes, chopped<br/>
+1 cup cauliflower, chopped<br/>
+1 cup broccoli, chopped<br/>
+1 cup zucchini, chopped<br/>
+(or any vegetables you want)<br/>
+4 tbsp flour<br/>
+1 tbsp sugar<br/>
+salt and pepper<br/>
+basil<br/>
+thyme<br/>
+2 cup canned tomato or tomato juice<br/>
+1 cup milk<br/>
+1 cup water<br/>
 
-In a large pot, fry beef in oil over medium heat until mostly brown.
-Add onion, garlic and celery and fry a bit more.
+Fry onion in butter until soft.
+Add vegetables and fry just until done.
+Move to a large pot, add flour, sugar and spices (season to taste).
+Add canned tomato (or juice) and bring to a boil.
+Remove from heat, add milk and water, then heat to boiling again and serve.
 
-Add beef broth, rosemary and pepper.
-Bring to a boil, then reduce heat, cover and simmer 1 hour.
+To keep milk from curdling (pick one):
 
-Add potatoes and carrots and simmer another hour or more.
+- add 1/2 tsp baking soda to soup before adding milk
+- add 1/2 cup soup to milk (slowly) before adding milk to soup
+- use warm milk
+- use whole milk
 
-Dissolve cornstarch in cold water then stir into stew.
-Stir 2 or 3 minutes until the stew thickens.
+## Cascadilla
 
-Serve with corn bread.
+1 cucumber, chopped<br/>
+1 green onion, chopped<br/>
+1 clove garlic, minced<br/>
+1/2 sweet pepper, chopped<br/>
+a few mushrooms, chopped<br/>
+1/2 tsp dill<br/>
+1 tsp honey<br/>
+4 cup tomato juice<br/>
+1 cup yogurt<br/>
 
-## Beef Banh Mi Bowl
+Combine everything and chill.
 
-1 lb ground beef (pork?)<br/>
-3/4 cup rice<br/>
-1/2 cup sliced cucumber<br/>
-1/2 cup julienned carrot<br/>
-1 tbsp rice vinegar<br/>
-1 tsp sugar<br/>
-1/4 cup water<br/>
-1/2 cup chopped cilantro, stems removed<br/>
-1 tbsp sesame seeds<br/>
-1 tbsp soy sauce<br/>
-2-4 tbsp hoisin sauce<br/>
-fish sauce (to taste)<br/>
-
-Marinate carrot and cucumber with rice vinegar, sugar and water and 
-let sit while preparing the rest of the meal.
-
-Cook the rice.
-
-While the rice cooks, fry the ground beef until brown, 4-5 minutes.
-Drain any excess fat, then add hoisin and soy sauce and simmer 2-3 
-minutes more.
-
-Serve rice topped with meat, drained veggies, cilantro and sesame seeds.
-
-## Anne's Cabbage Rolls
-
-2/3 cup long grain rice<br/>
-1/2 lb ground pork<br/>
-1/2 lb ground beef<br/>
-4 tbsp onion (leave out if Dianne)<br/>
-1 1/2 tbsp season-all<br/>
-1/4 tsp pepper<br/>
-1/4 tsp basil<br/>
-1/2 cup tomato sauce<br/>
-sauerkraut<br/>
-
-Top:<br/>
-10 oz tomato sauce<br/>
-1/4 cup brown sugar<br/>
-1/4 cup vinegar<br/>
-
-Bake at 350 F for 2 hours.
-
+Serve with homemade croutons or toast.
 
 # Dessert
 
@@ -1201,6 +1238,7 @@ Bake at 350 F for 2 hours.
 * [Grand Marnier Orange Cake](#grand-marnier-orange-cake)
 * [Shmoo Torte](#shmoo-torte)
 * [Sachertorte](#sachertorte)
+* [Bruce's Bambi Baklava](#bruces-bambi-baklava)
 * [Lemon Pudding](#lemon-pudding)
 * [Lemon Bars](#lemon-bars)
 * [What To Do With Half A Lemon Tartes](#what-to-do-with-half-a-lemon-tartes)
@@ -1619,6 +1657,8 @@ in a greased 9x13" pan.
 
 Or make a half recipe in an 8x8 pan and bake for 45 minutes.
 
+If baked just right, it will be sticky on top when it cools.
+
 Variation: use root beer instead of tea and coke.
 
 ## Felix's Apple Cake
@@ -1883,7 +1923,7 @@ Fold in flour and baking powder.  Fold in crushed pecans.
 Pour into Angel food tin and bake at 325 F for 1 hour.
 Turn upside down to cool.
 
-**Shmoo Sauce**
+**Shmoo Sauce and Filling**
 
 2 tbsp butter<br/>
 1 cup brown sugar<br/>
@@ -1892,7 +1932,7 @@ Turn upside down to cool.
 
 Bring butter, brown sugar and 1 cup cream to a boil, then cool, stirring occasionally.
 
-Beat remaining cream with icing sugar until stiff.
+Whip remaining cream with icing sugar until stiff.
 
 Cut cake in half.  Fill with whipped cream and cover with sauce.
 Cover top and sides of cake with more whipped cream, then drizzle with
@@ -1961,6 +2001,41 @@ Serve with whipped cream.
 
 Alternatively, see:
 <small>https://www.foodandwine.com/recipes/sacher-torte</small>
+
+## Bruce's Bambi Baklava
+
+Filling:
+
+1 cup sesame seeds<br/>
+1 cup brown sugar<br/>
+3/4 cup raisins or chopped dates<br/>
+1 tbsp cinnamon<br/>
+1 tbsp allspice<br/>
+1/2 tbsp cardamom<br/>
+
+Mix together all filling ingredients.
+
+Assembly:
+
+1 lb filo pastry (one box)<br/>
+3/4 lb melted butter<br/>
+
+Layer 2/3 of filo in pan, brush every second sheet with melted butter.
+I use a 9x13 pan and fold each sheet in half.
+
+Add filling, then remaining filo brushed with butter.
+
+Cut most of the way through before baking.
+
+Bake at 350 F for 50 minutes.
+
+Sauce:
+
+1/4 cup sugar<br/>
+3 tbsp lemon juice<br/>
+3/4 cup water<br/>
+
+Heat sauce, then pour hot sauce over hot baklava
 
 ## Lemon Pudding
 
@@ -2058,11 +2133,11 @@ Pour into buttered 8x8" pan and bake at 350 F for 25 minutes.
 1 1/4 cup flour<br/>
 1/2 tsp baking soda<br/>
 2/3 tsp salt<br/>
-1 cup oats (or less?)<br/>
+1 cup oats<br/>
 1 cup chocolate chips (or 3 oz semi-sweet chocolate chunks)<br/>
 
 Beat butter and sugar til smooth, then add egg, milk and vanilla.
-Add flour, salt, baking soda, oats and chocolate chunks.
+Add flour, salt, baking soda, oats and chocolate.
 
 Bake in buttered 8x8 pan at 350 F for 30-35 minutes.
 
@@ -2211,6 +2286,7 @@ Bake at 350 F for 45 minutes.
 * [Ginger Cookies](#ginger-cookies)
 * [Maxine's Komish](#maxines-komish)
 * [Coconut Cream Cheese Cookies](#coconut-cream-cheese-cookies)
+* [Chocolate Wafer Cookies](#chocolate-wafer-cookies)
 
 
 <br/> <!-- force page break -->
@@ -2361,11 +2437,11 @@ Bake at 350 F for 12 to 15 minutes.
 1 egg<br/>
 1/4 cup molasses<br/>
 2-1/4 cups flour<br/>
-2 tsp ground ginger<br/>
 1 tsp baking soda<br/>
+1/4 tsp salt<br/>
+2 tsp ground ginger<br/>
 3/4 tsp cinnamon<br/>
 1/2 tsp cloves<br/>
-1/4 tsp salt<br/>
 extra sugar<br/>
 
 Cream butter and sugar until light and fluffy. Beat in egg and molasses.
@@ -2429,11 +2505,42 @@ just until edges and bottoms are light brown.
 
 <small>https://vanillakitchen.blogspot.com/2009/03/coconut-cream-cheese-cookies.html</small>
 
+## Chocolate Wafer Cookies
+
+1/4 cup butter<br/>
+1/3 cup sugar<br/>
+1/4 cup brown sugar<br/>
+1/2 tsp vanilla</br>
+1/2 cup flour<br/>
+1/3 cup cocoa<br/>
+1/4 tsp baking soda<br/>
+2 tbsp milk<br/>
+
+Cream butter, sugar and vanilla.
+
+Separately mix flour, cocoa and baking soda.
+
+Stir flour mix and milk into batter until just combined.
+
+Form dough into 1 1/2 inch log, wrap in plastic or parchment
+and chill until stiff (about 1 hour).  Then slice into 1/8" rounds.
+
+Arrange on baking sheets with 1 1/2" clearance between cookies.
+
+Bake at 350 F for 10-12 minutes.
+
+Note: this is a half-recipe, which is not enough for an Ice Box Dessert,
+which uses 12 cookies and 1 1/2 cups crumbs.  So I added oreo crumbs as
+well.
+
+<small>https://www.cookingchanneltv.com/recipes/homemade-chocolate-wafer-cookies-2107685</small>
+
 # Muffins
 
 * [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
 * [Pumpkin Muffins](#pumpkin-muffins)
+* [Lemon Cupcakes](#lemon-cupcakes)
 
 
 <br/> <!-- force page break -->
@@ -2455,7 +2562,7 @@ just until edges and bottoms are light brown.
 Mix sugar, egg and oil.  Add grated carrot, apple sauce and juice.
 Mix in dry ingredients and raisins.
 
-For muffins, bake at 400 F for 25 minutes.
+Bake at 400 F for 25 minutes.
 
 For cake, bake at 350 F for 50 minutes.
 
@@ -2511,12 +2618,38 @@ Bake 25 minutes at 400 F.
 
 Makes 12 - 14 muffins.
 
+## Lemon Cupcakes
+
+1/2 cup soft butter<br/>
+1 cup sugar<br/>
+2 eggs<br/>
+1 1/2 tsp vanilla<br/>
+1 1/2 cups flour<br/>
+2 tsp baking powder<br/>
+1/2 tsp salt<br/>
+1/2 cup milk<br/>
+1 1/2 tbsp lemon zest<br/>
+1/3 cup lemon juice<br/>
+
+Beat butter and sugar until creamy.
+Stir in eggs and vanilla.
+
+Mix flour, baking powder and salt, then stir
+into wet ingredients, just until mixed.
+
+Pour into cupcake pan and bake 18-22 minutes at 350 F.
+
+When cool, top with <a href="#lemon-cream-cheese-icing">lemon cream cheese icing</a>.
+
+<small>https://sallysbakingaddiction.com/homemade-lemon-cupcakes-with-vanilla-frosting/</small>
+
 
 # Icing
 
 * [Chocolate Icing](#chocolate-icing)
 * [Dark Chocolate Icing](#dark-chocolate-icing)
 * [Cream Cheese Icing](#cream-cheese-icing)
+* [Lemon Cream Cheese Icing](#lemon-cream-cheese-icing)
 
 
 <br/> <!-- force page break -->
@@ -2562,15 +2695,27 @@ This covers a 9x13" cake.
 Cream cheese and butter, add icing sugar and beat until smooth.
 Spread on 9x13" cake.
 
+## Lemon Cream Cheese Icing
+
+6 oz cream cheese, at room temperature<br/>
+1/3 cup butter, at room temperature<br/>
+1 2/3 cups icing sugar, sifted<br/>
+2-3 tbsp fresh lemon juice<br/>
+
+Beat cream cheese and butter until light and creamy.
+On low speed, gradually add icing sugar and lemon juice.
+
+<small>https://handletheheat.com/lemon-cupcakes/</small>
 
 # Pie
 
 * [Chocolate Mousse (blender)](#chocolate-mousse-blender)
 * [Chocolate Mousse Pie](#chocolate-mousse-pie)
 * [Pie Crust (Baba)](#pie-crust-baba)
-* [Lemon Pie](#lemon-pie)
+* [Lemon Meringue Pie](#lemon-meringue-pie)
 * [Strawberry Bavarian Pie](#strawberry-bavarian-pie)
 * [Strawberry Fogellian Pie](#strawberry-fogellian-pie)
+* [Key Lime Pie](#key-lime-pie)
 
 
 <br/> <!-- force page break -->
@@ -2615,7 +2760,7 @@ Top with whipped cream.
 1/4 cup butter, cubed<br/>
 
 1/4 cup crisco<br/>
-1 3/4 cup flour<br/>
+1 3/4 to 2 cup flour<br/>
 dash salt<br/>
 3-4 tbsp sour cream<br/>
 extra flour for rolling<br/>
@@ -2630,26 +2775,18 @@ Flour board, not too much.  Roll out, working as little as possible.
 
 Makes two 9" pie shells.
 
-**Food Processor Pie Crust**
+## Lemon Meringue Pie
 
-Mix flour, salt, butter and crisco in a food processor.
-Break butter into pieces so it blends more easily.
-
-Add sour cream (or milk mixed with 1 tbsp vinegar) and
-process a bit more.  While processing, slowly add 2-3 tbsp cold water.
-Stop adding water and processing as soon as dough forms a ball.
-
-## Lemon Pie
-
-1 1/2 cup hot water<br/>
+1 1/2 cup water<br/>
 1 1/4 cup sugar<br/>
 juice from 1 1/2 lemons<br/>
 1/3 cup corn starch, mixed with 1/2 c cold water<br/>
 3 eggs, separated<br/>
 1 9" pie crust<br/>
 
-Stir 1 cup sugar and water over low heat until sugar dissolves.  Add cornstarch
-(carefully) and mix.  Cook until thick, stirring constantly.
+Stir 1 cup sugar with water and lemon juice over low heat until sugar
+dissolves.  Stir in cornstarch mixed with cold water.  Cook until thick,
+stirring constantly.
 
 Remove from heat, then add egg yolks one at a time, beat after each.
 
@@ -2717,3 +2854,38 @@ When cool, but not set, fold in whipped cream and pour over crust. Chill.
 
 For Julie, replace butter and whipping cream with margarine and nutriwhip.
 
+## Key Lime Pie
+
+Crust:
+
+2 cup graham wafer crumbs<br/>
+4 tbsp sugar<br/>
+4 tbsp melted butter<br/>
+
+Mix and spread in 9" pie dish.  Press evenly into bottom and up the sides
+of the dish.  Bake 6-8 minutes at 350 F.
+
+Filling:
+
+2 can sweetened condensed milk (28 oz)<br/>
+2 egg yolks<br/>
+3/4 cup key lime juice (1 lb key limes)<br/>
+1/2 cup sour cream<br/>
+grated zest from 3-4 key limes(optional)<br/>
+
+Beat condensed milk and egg yolks in a large bowl until doubled in volume.
+Add juice, sour cream and lime zest.
+
+Pour into cooled crust and bake 15-20 minutes.
+
+Cool 30 minutes on counter, then refrigerate.
+
+Top with whipped cream.
+
+Note: this makes too much filling for one pie, so I also made 6 tarts.
+
+Keyless Lime pie: 
+If you can't find fresh key limes or juice, use 1/2 cup lime
+juice plus 1/4 cup lemon juice.
+
+From <small>https://soufflebombay.com/prize-winning-key-lime-pie-recipe/#recipe</small>
