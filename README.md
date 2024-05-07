@@ -39,9 +39,9 @@
 1/3 cup raw pumpkin seeds<br/>
 1/3 cup raw sunflower seeds<br/>
 1/3 cup slivered almonds<br/>
-1 tbsp cinnamon (or more)<br/>
-1 cup brown sugar<br/>
-1/2 cup water<br/>
+1-2 tbsp cinnamon<br/>
+2/3 cup brown sugar<br/>
+1/4 cup water<br/>
 1/2 cup oil<br/>
 
 Mix oats, coconut, pumpkin seeds, sunflower seeds, almonds and cinnamon
@@ -215,9 +215,9 @@ Topping:
 1 tbsp parmesan<br/>
 
 Mix and brush over biscuit dough.
-Bake at 375 F for 12 minutes or until golden.
+Bake at 375 F for 12-15 minutes or until golden.
 
-These are *too* rich, so I usually halve the topping, or skip it completely.
+These are *too* rich, so I halve the topping or skip it completely.
 
 ## Apple Scone
 
@@ -500,8 +500,9 @@ Bake at 350 F for 40 to 45 minutes.
 
 Serve with strawberries in syrop and sour cream.
 
-If you can't find dry cottage cheese, you can drain regular
-cottage cheese and leave out the salt (since there's enough
+If you can't find dry cottage cheese, substitute regular
+cottage cheese, use just one egg and thicken with flour
+(2-3 tbsp). Also, leave out the salt (since there's enough
 salt in regular cottage cheese).
 
 ## Tian de courges
@@ -513,7 +514,7 @@ salt in regular cottage cheese).
 1 medium zucchini, cubed, about 2 cups<br/>
 2 cup grated white turnip<br/>
 2 cloves garlic, minced<br/>
-1.5 cup grated emmenthal cheese<br/>
+1.5 cup grated emmenthal cheese (or maasdam)<br/>
 2/3 cup grated romano cheese (divided)<br/>
 4 eggs<br/>
 1/2 cup cream<br/>
@@ -574,7 +575,7 @@ Serve immediately.
 1/2 onion, chopped<br/>
 2 clove garlic, minced<br/>
 1 1/4 cup milk<br/>
-100 grams gruyere, grated<br/>
+150 grams gruyere, grated<br/>
 
 Alternately layer potato slices, onion, garlic and cheese in an 8x8" pan,
 then add milk, cover and bake for 1 hour at 350 F.
@@ -762,6 +763,7 @@ Top with corn flakes, dot with butter and bake at 375 F for 35 minutes.
 1 tsp dry mustard<br/>
 1 tsp worchestershire sauce<br/>
 2 egg yolks (room temperature)<br/>
+1/2 lemon (juice)<br/>
 3 tbsp parmesan or romano cheese<br/>
 5/8 cup olive oil (or mixed olive and canola)<br/>
 croutons<br/>
@@ -770,7 +772,7 @@ croutons<br/>
 Rub cut garlic around inside of salad bowl.
 Crush garlic and anchovies.
 Add mustard and worchestershire and mash into a paste.
-Add egg yolks, lemon juice cheese and oil.
+Add egg yolks, lemon juice, cheese and oil.
 Whisk until it thickens (like thin mayonnaise).
 If it doesn't thicken, let sit at room temperature, then try again.
 
@@ -873,9 +875,11 @@ sprinkle on sesame seeds.
 1/4 cup brown sugar<br/>
 2 tbsp soya sauce <br/>
 
-Brown meatballs.  For sauce, mix pineapple juice and water (1 cup total),
+Brown meatballs, then add pineapple.
+
+For sauce, mix pineapple juice and water (1 cup total),
 then add remaining ingredients.  Heat until thick and clear.
-Add pineapple to meatballs, stir in sauce and simmer about 20 minutes.
+Add to meatballs and simmer about 20 minutes.
 
 ## Sweet and Sour Short Ribs
 
@@ -1036,19 +1040,21 @@ This is my version of Uncle Robert's version of:
 4 stalks celery, sliced<br/>
 1 litre beef broth<br/>
 1 tsp dried rosemary<br/>
-1/4 tsp ground black pepper<br/>
+1/2 tsp salt<br/>
+1/4 tsp pepper<br/>
 3 large potatoes, cubed<br/>
 4 medium carrots, sliced<br/>
+1/2 lb mushrooms, sliced<br/>
 3 tbsp cornstarch<br/>
-3 tbsp cold water or broth<br/>
+3 tbsp cold water<br/>
 
 In a large pot, fry beef in oil over medium heat until mostly brown.
 Add onion, garlic and celery and fry a bit more.
 
-Add beef broth, rosemary and pepper.
+Add beef broth, rosemary, salt and pepper.
 Bring to a boil, then reduce heat, cover and simmer 1 hour.
 
-Add potatoes and carrots and simmer another hour or more.
+Add potato, carrots and mushrooms and simmer another hour or so.
 
 Dissolve cornstarch in cold water then stir into stew.
 Stir 2 or 3 minutes until the stew thickens.
@@ -1162,7 +1168,7 @@ Add carrots and mushrooms.
 
 Cover and simmer 2 hours, until the vegetables and barley are tender.
 
-If soup is too thick, add more water or broth.
+If left-over soup is too thick, add more water or broth.
 
 ## Tomato Veggie Soup
 
@@ -1234,6 +1240,7 @@ Serve with homemade croutons or toast.
 * [Lazy Daisy Cake](#lazy-daisy-cake)
 * [Killer Chocolate Torte](#killer-chocolate-torte)
 * [Zucchini Chocolate Cake](#zucchini-chocolate-cake)
+* [Chocolate Beet Cake](#chocolate-beet-cake)
 * [Grand Marnier Chocolate Torte](#grand-marnier-chocolate-torte)
 * [Grand Marnier Orange Cake](#grand-marnier-orange-cake)
 * [Shmoo Torte](#shmoo-torte)
@@ -1420,14 +1427,13 @@ Cool on the counter for a while, then refrigerate.
 When cool, top with cherry pie filling, or homemade cherry topping.
 
 ** Cherry Topping **:<br/>
-1 can cherries in syrop<br/>
+2 cup pitted cherries (fresh or frozen)<br/>
+1/2 cup water<br/>
+1/4 cup sugar (1/3?)<br/>
 1 tbsp corn starch<br/>
 
-Mix corn starch with 1/4 cup cherry syrop and set aside.
-
-Bring cherries and remaining syrop to a boil,
-then add cornstarch/syrop mix.
-Cook slowly, stirring, until the sauce turns clear and thickens.
+Cook slowly, stirring, until the sauce turns clear and thickens,
+3-5 minutes.
 
 When cool, spoon onto cake.
 
@@ -1476,8 +1482,7 @@ Mix and pat into 9" cake pan.
 2 eggs<br/>
 1 tsp vanilla<br/>
 1 cup sour cream<br/>
-3 oz semi-sweet chocolate, melted<br/>
-1 oz unsweetened chocolate, melted<br/>
+4 oz semi-sweet chocolate, melted<br/>
 
 Beat cream cheese with sugar, add eggs, sour cream, vanilla
 and melted chocolate, and pour over crust.
@@ -1824,6 +1829,46 @@ Bake at 350 F for 45-50 minutes.
 When cool, top with <a href="#chocolate-icing">chocolate icing</a>.
 
 You can leave out the zucchini and add a bit more water.
+
+## Chocolate Beet Cake
+
+2 cups grated beet<br/>
+2 tablespoons water<br/>
+3/4 cup butter, soft<br/>
+1 3/4 cup sugar<br/>
+2 eggs<br/>
+1 1/2 teaspoons vanilla<br/>
+1/2 cup cold coffee<br/>
+1/2 cup water<br/>
+2 cup flour<br/>
+1/2 cup cocoa<br/>
+1 tsp salt<br/>
+1 tsp baking soda<br/>
+1/2 tsp baking powder<br/>
+1 cup chocolate chips (optional)<br/>
+
+Peel, grate and cook beets until soft, 3-4 minutes in microwave.
+When cool, squeeze out 2-4 tbsp of liquid to save for icing.
+
+Cream butter and sugar, then mix in eggs, vanilla and coffee.
+
+Mix dry ingredients in a separate bowl, then add to batter
+along with grated beets and chocolate chips.
+
+Pour into two 9" cake pans and bake at 350 F for 30-35 minutes.
+
+Pink Icing for Beet Cake:
+
+1 cup butter, soft<br/>
+3 cups icing sugar<br/>
+2-4 tbsp beet juice<br/>
+2 tsp vanilla<br/>
+2-4 tbsp cream<br/>
+
+Cream butter, sugar, vanilla, half the beet juice and half the
+cream. For more color, add more beet juice, for less, add more cream.
+
+<small>https://www.theendlessmeal.com/chocolate-beet-cake/</small>
 
 ## Grand Marnier Chocolate Torte
 
@@ -2493,7 +2538,7 @@ adding lemon zest or nutmeg, less almond, or chop the almonds.
 2 tsp vanilla</br>
 2 cups shredded coconut</br>
 
-To toast coconut: spread coconut on baking sheet and bake at 325 F
+To toast coconut: spread coconut on baking sheet and bake at 300 F
 until light brown (10-15 minutes) stirring every 4-5 minutes.  Do not burn.
 Set aside.
 
@@ -2560,14 +2605,11 @@ well.
 1/2 cup raisins (optional)<br/>
 
 Mix sugar, egg and oil.  Add grated carrot, apple sauce and juice.
-Mix in dry ingredients and raisins.
+Mix in remaining ingredients.
 
 Bake at 400 F for 25 minutes.
 
 For cake, bake at 350 F for 50 minutes.
-
-For Carrot Zucchini Muffins, use 2 cup grated zucchini instead of apple
-sauce/juice and replace 1 tsp cinnamon with allspice.
 
 For Carrot Pineapple Muffins, use 1/2 can crushed pineapple instead of
 apple sauce/juice.
