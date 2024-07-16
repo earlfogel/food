@@ -123,9 +123,9 @@ the bottom.
 ## No Knead Bread
 
 3 cup flour (1 white, 2 whole-wheat)<br/>
-1 1/2 tsp salt<br/>
-1 1/2 tsp yeast (1/2 package)<br/>
-1 1/2 cup lukewarm water (maybe a bit more)<br/>
+1 1/4 tsp salt<br/>
+1 1/4 tsp yeast (1/2 package)<br/>
+1 1/2 cup lukewarm water (or a bit more)<br/>
 
 Mix flour, salt, yeast.
 Stir in water.
@@ -326,6 +326,11 @@ Filling:
 Simmer until apples are soft, about 5 minutes.
 
 Pour over pancake and serve.
+
+Note: for "Original" Pancake House version, melt 3 tbsp butter in pan, then
+sprinkle with 3 tbsp brown sugar mixed with 1/2 tsp cinnamon, then 1-2
+sliced apples, then pour in batter. Bake at 400 F 25-30 minutes. Turn
+upside down to serve.
 
 ## Cottage Cheese Pancakes
 
@@ -735,7 +740,7 @@ This is a variation on Chickpea Curry (above).
 
 ## Noodle Kugel
 
-1 pkg wide flat noodles<br/>
+1 pkg wide flat noodles (~350 gr)<br/>
 3 eggs<br/>
 1 1/2 cup cottage cheese<br/>
 8 oz cream cheese (optional)<br/>
@@ -754,18 +759,18 @@ Mix eggs, cheese, yogurt, vanilla, cinnamon and honey.
 Combine with sliced apple and noodles and spread into a
 buttered casserole dish.
 
-Top with corn flakes, dot with butter and bake at 375 F for 35 minutes.
+Top with corn flakes, dot with butter and bake at 350 F for 40-50 minutes.
 
 ## Caesar Salad
 
-2 anchovy fillets<br/>
+2 anchovy fillets (optional)<br/>
 2 cloves garlic<br/>
 1 tsp dry mustard<br/>
 1 tsp worchestershire sauce<br/>
 2 egg yolks (room temperature)<br/>
 1/2 lemon (juice)<br/>
 3 tbsp parmesan or romano cheese<br/>
-5/8 cup olive oil (or mixed olive and canola)<br/>
+5/8 cup olive oil<br/>
 croutons<br/>
 1 head romaine lettuce<br/>
 
@@ -869,7 +874,7 @@ sprinkle on sesame seeds.
 ## Sweet and Sour Meatballs
 
 1 pound ground beef<br/>
-1 13 oz can pineapple chunks<br/>
+1 13 oz can pineapple tidbits<br/>
 2 tbsp corn starch<br/>
 1/4 cup vinegar<br/>
 1/4 cup brown sugar<br/>
@@ -964,7 +969,7 @@ minutes.
 
 ## Earl's Chili
 
-1-2 lbs ground beef (optional)<br/>
+1-2 lbs ground beef<br/>
 2 tablespoons oil<br/>
 1 onion, diced<br/>
 3 celery stalks, sliced<br/>
@@ -976,11 +981,12 @@ minutes.
 2 (10 ounce) can sliced mushroom, drained (or fresh)<br/>
 2 (10 ounce) can tomato soup, undiluted<br/>
 1 (28 ounce) can diced tomatoes with juice<br/>
+1 can tomato with sweet green chili (optional)<br/>
 1 tbsp chili powder<br/>
-1/2 tbsp chipotle pepper (or more chili powder)<br/>
 1 teaspoon oregano<br/>
 1 teaspoon cinnamon<br/>
 2 garlic cloves, minced<br/>
+2 tbsp sugar (if chili is sour)<br/>
 
 Brown the ground beef in a large frying pan over medium heat.
 
@@ -2585,6 +2591,7 @@ well.
 * [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
 * [Pumpkin Muffins](#pumpkin-muffins)
+* [Banana Muffins](#banana-muffins)
 * [Lemon Cupcakes](#lemon-cupcakes)
 
 
@@ -2630,13 +2637,15 @@ Mix these:
 
 2 cup flour<br/>
 2 cup rolled oats<br/>
-1/4 cup corn starch<br/>
+4 tbsp corn starch<br/>
 4 tsp baking powder<br/>
 1/2 tsp baking soda<br/>
 
 Mix it all together.  If it's too thick, add more water or juice.
 
 Oil muffin tins, bake at 400 F for 25-30 minutes.
+
+Makes 18 muffins.
 
 ## Pumpkin Muffins
 
@@ -2659,6 +2668,29 @@ Stir in remaining ingredients.
 Bake 25 minutes at 400 F.
 
 Makes 12 - 14 muffins.
+
+## Banana Muffins
+
+2 ripe bananas, mashed<br/>
+1/4 cup soft butter<br/>
+2/3 cup brown sugar<br/>
+1 egg<br/>
+1 tsp vanilla<br/>
+2 tbsp milk<br/>
+2 tbsp sour cream<br/>
+1 1/2 cup flour<br/>
+1 tsp baking powder<br/>
+1 tsp baking soda<br/>
+1/4 tsp salt<br/>
+1 tsp cinnamon<br/>
+1/4 tsp nutmeg<br/>
+
+Cream butter and sugar, mix in egg, vanilla, milk and mashed banana.
+Then stir in dry ingredients.
+
+Spoon into muffin cups and bake at 375 F for 20-23 minutes.
+
+<small>https://sallysbakingaddiction.com/banana-muffins/</small>
 
 ## Lemon Cupcakes
 
@@ -2900,20 +2932,22 @@ For Julie, replace butter and whipping cream with margarine and nutriwhip.
 
 Crust:
 
-2 cup graham wafer crumbs<br/>
+1 1/2 cup graham wafer crumbs<br/>
 4 tbsp sugar<br/>
-4 tbsp melted butter<br/>
+4-5 tbsp melted butter<br/>
 
 Mix and spread in 9" pie dish.  Press evenly into bottom and up the sides
 of the dish.  Bake 6-8 minutes at 350 F.
 
 Filling:
 
-2 can sweetened condensed milk (28 oz)<br/>
+1 1/2 can sweetened condensed milk (21 oz)<br/>
 2 egg yolks<br/>
 3/4 cup key lime juice (1 lb key limes)<br/>
 1/2 cup sour cream<br/>
-grated zest from 3-4 key limes(optional)<br/>
+grated zest from 3-4 key limes (optional)<br/>
+
+Chill condensed milk, beaters and bowl.
 
 Beat condensed milk and egg yolks in a large bowl until doubled in volume.
 Add juice, sour cream and lime zest.
@@ -2923,8 +2957,6 @@ Pour into cooled crust and bake 15-20 minutes.
 Cool 30 minutes on counter, then refrigerate.
 
 Top with whipped cream.
-
-Note: this makes too much filling for one pie, so I also made 6 tarts.
 
 Keyless Lime pie: 
 If you can't find fresh key limes or juice, use 1/2 cup lime
