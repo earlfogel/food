@@ -74,15 +74,15 @@ Bake in buttered 8" square pan, 375 F for 30 minutes.
 
 ## Irish Soda Bread
 
-3 cups flour<br/>
-1 tbsp baking powder<br/>
-1 tsp baking soda<br/>
-1/3 cup sugar<br/>
-1 tsp salt<br/>
-1 egg<br/>
-2 cups milk<br/>
+3 cups flour<br/>
+1 tbsp baking powder<br/>
+1 tsp baking soda<br/>
+1/3 cup sugar<br/>
+1 tsp salt<br/>
+1 egg<br/>
+2 cups milk<br/>
 2 tbsp vinegar<br/>
-1/4 cup melted butter<br/>
+1/4 cup melted butter<br/>
 
 Mix milk and vinegar.
 
@@ -289,10 +289,10 @@ Bake at 350 F for 25-30 minutes.
 1/4 tsp salt<br/>
 3/4 cup milk<br/>
 1 egg<br/>
-2 tsp vanilla<br/>
-1/4 cup butter (try more)<br/>
+1-2 tsp vanilla<br/>
+1/4 cup butter<br/>
 1/3 cup brown sugar<br/>
-1-2 tsp cinnamon<br/>
+2 tsp cinnamon<br/>
 
 Mix flour, sugar, baking powder and salt. Mix milk, egg and vanilla. Stir
 the wet and dry ingredients together, then add the melted butter.
@@ -328,8 +328,8 @@ Simmer until apples are soft, about 5 minutes.
 Pour over pancake and serve.
 
 Note: for "Original" Pancake House version, melt 3 tbsp butter in pan, then
-sprinkle with 3 tbsp brown sugar mixed with 1/2 tsp cinnamon, then 1-2
-sliced apples, then pour in batter. Bake at 400 F 25-30 minutes. Turn
+sprinkle with 3 tbsp brown sugar mixed with 1-2 tsp cinnamon, then 1-2
+thinly sliced apples, then pour in batter. Bake at 400 F 25-30 minutes. Turn
 upside down to serve.
 
 ## Cottage Cheese Pancakes
@@ -442,7 +442,7 @@ Serve immediately, traditionally with roast beef.
 * [Baked Macaroni](#baked-macaroni)
 * [Cottage Cheese Pie](#cottage-cheese-pie)
 * [Tian de courges](#tian-de-courges)
-* [Fettuccine Primavera](#fettuccine-primavera)
+* [Pasta Primavera](#pasta-primavera)
 * [Potato au gratin](#potato-au-gratin)
 * [Zucchini Quiche](#zucchini-quiche)
 * [Zucchini or Broccoli Quiche](#zucchini-or-broccoli-quiche)
@@ -549,7 +549,7 @@ breadcrumbs.
 Bake at 375 F for 35-45 minutes or until set and lightly browned on top.
 
 
-## Fettuccine Primavera
+## Pasta Primavera
 
 1/4 cup oil<br/>
 3 cloves garlic, minced<br/>
@@ -658,7 +658,7 @@ Pour into pie shells and bake at 400 F for 30 minutes.
 1 tablespoon chili powder<br/>
 1 tablespoon chopped chipotle pepper in adobo<br/>
 1 teaspoon ground cumin<br/>
-¼ teaspoon ground cinnamon<br/>
+1/4 teaspoon ground cinnamon<br/>
 1 bay leaf<br/>
 2 cans (15 ounces each) black beans, rinsed and drained<br/>
 1 can (28 ounces) diced tomatoes, including the liquid<br/>
@@ -703,7 +703,7 @@ Cover and simmer over low heat until everything is tender.
 Remove from heat and add honey and lemon juice.  Cover and let sit.
 Meanwhile, fry almonds in butter.
 
-Serve over rice, with sauteed almonds on top.
+Serve over rice.
 
 This curry is better the second day.
 
@@ -990,7 +990,7 @@ minutes.
 
 Brown the ground beef in a large frying pan over medium heat.
 
-Sauté onion, celery, red pepper and garlic in oil in large pot
+Saute onion, celery, red pepper and garlic in oil in large pot
 for about 5 minutes until onion is translucent, then add remaining 
 ingredients.
 
@@ -1147,7 +1147,7 @@ If you can't find soup bones, use cut up meat instead.
 ## Beef Barley Soup
 
 1 1/2 lb beef soup bones<br/>
-1 1/2 lb lean beef, cubed<br/>
+1 1/2 lb lean beef, cubed<br/>
 3 tablespoons vegetable oil<br/>
 1 teaspoon salt<br/>
 1/2 teaspoon pepper<br/>
@@ -1792,7 +1792,6 @@ Mix together and spread on cake.  Broil carefully until lightly golden.
 Apple cake: replace cocoa and milk with 1/2 cup apple sauce, 1 1/2 tsp cinnamon,
 1/2 tsp nutmeg and 1/4 tsp cloves.
 
-
 ## Killer Chocolate Torte
 
 16 oz semi-sweet chocolate<br/>
@@ -1833,8 +1832,6 @@ Pour into 2 greased 9" round cake pans.
 Bake at 350 F for 45-50 minutes.
 
 When cool, top with <a href="#chocolate-icing">chocolate icing</a>.
-
-You can leave out the zucchini and add a bit more water.
 
 ## Chocolate Beet Cake
 
@@ -1993,65 +1990,61 @@ more sauce.  Leave some sauce to spoon onto each slice when cake is served.
 
 **The Cake**
 
-6 oz semi-sweet chocolate<br/>
-8 egg yolks<br/>
-10 egg whites<br/>
-1 tbsp vanilla<br/>
-1/2 cup melted butter<br/>
-3/4 cup sugar<br/>
+5 oz semi-sweet chocolate<br/>
+6 eggs, separated<br/>
+3/4 tsp cream of tartar<br/>
+3/4 cup soft butter<br/>
+1 cup sugar<br/>
 1 cup flour<br/>
 
-Line two 8" round pans with wax paper and brush with butter.
+Butter a 9" springform pan (just the sides).
 
-Melt chocolate over low heat and let cool til lukewarm,
-then beat in egg yolks one by one.
+Melt chocolate over low heat and let cool til lukewarm.
 
-Add vanilla and melted butter a few tbsp at a time.
+Beat egg whites until they foam thickly, then slowly add cream of tartar
+and half the sugar, beating until stiff.
 
-Beat egg whites until they foam thickly, then slowly add sugar, beating
-until whites are stiff.  Mix 1 cup of whites into chocolate mix, then pour
-chocolate mix over remaining whites.  Sieve flour on top and fold all three
-together until no flour or whites show.
+In a separate bowl, beat butter and remaining sugar until fluffy. Add yolks
+one at a time, beating after each. Stir in chocolate, then flour.
 
-Pour batter into pans and bake 30 minutes at 350 F.
+Stir 1/4 of the whites into batter, then fold in remaining whites.
 
-Remove from oven and let stand 5 minutes before removing from pans.
+Spoon batter into pan and smooth the top. Bake at 375 F for 35 minutes.
+
+Remove from oven, turn upside down and cool on a wire rack.
+
+When cool, remove from pan and slice cake in half horizontally.
 
 **Apricot Filling and Chocolate Glaze**
 
 3 oz unsweetened chocolate<br/>
-1 cup cream<br/>
+3/4 cup cream<br/>
 1 cup sugar<br/>
 3 tbsp corn syrop<br/>
 1 egg<br/>
 1 tbsp vanilla<br/>
-1/2 cup apricot jam mixed with 2 tbsp water<br/>
+3/4 cup apricot jam mixed with 3 tbsp water<br/>
 1 cup whipped cream (optional)<br/>
 
-Combine chocolate, cream, sugar and corn syrop in a pot.
-bring to a boil over moderate heat, stirring constantly
-until chocolate has completely dissolved.
+Combine chocolate, cream, sugar and corn syrop in a pot.  Bring to a boil,
+stirring constantly until chocolate has completely dissolved.
 
-Cook 5-8 minutes, stirring constantly, until 1/4 tsp of mixture
-forms a small ball when dropped in a glass of cold water.
+Cook 5-8 minutes on low heat, stirring constantly, until mixture begins
+to thicken.
 
-When glaze reaches proper consistency, mix 2-3 tbsp of glaze into
-lightly beaten egg, then pour back into pot.
-Reduce to low heat and simmer 3-4 minutes, stirring constantly,
-until thick enough to coat a spoon heavily.
+When glaze reaches proper consistency, mix 2-3 tbsp of glaze into lightly
+beaten egg, then pour back into pot.  Simmer 3-4 more minutes, stirring
+constantly, until thick enough to coat a spoon heavily.
 
-Remove from heat, stir in vanilla and cool to room temperature.
+Remove from heat, add vanilla and cool to room temperature.
 
-Spread apricot jam over bottom layer of cake (inverted).
-Add second layer.  Pour cooled glaze in a slow stream over cake,
+Spread apricot jam over bottom half of cake.
+Add second layer.  Pour glaze in a slow stream over cake,
 covering it completely.
 
-Let chill for 3 hours in fridge until glaze is firm and glossy.
+Chill in fridge until glaze is firm and glossy.
 
 Serve with whipped cream.
-
-Alternatively, see:
-<small>https://www.foodandwine.com/recipes/sacher-torte</small>
 
 ## Bruce's Bambi Baklava
 
@@ -2743,8 +2736,6 @@ Add sifted icing sugar mixed with cocoa, then add vanilla.
 
 Cool until icing thickens, then spread quickly before it hardens.
 
-If too thick, add a bit more milk.
-
 
 ## Dark Chocolate Icing
 
@@ -2832,7 +2823,6 @@ Top with whipped cream.
 ## Pie Crust (Baba)
 
 1/4 cup butter, cubed<br/>
-
 1/4 cup crisco<br/>
 1 3/4 to 2 cup flour<br/>
 dash salt<br/>
