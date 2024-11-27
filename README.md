@@ -449,7 +449,6 @@ Serve immediately, traditionally with roast beef.
 * [Onion Tarte](#onion-tarte)
 * [Butternut Squash Chipotle Chili](#butternut-squash-chipotle-chili)
 * [Chickpea Curry](#chickpea-curry)
-* [Sweet Potato Curry](#sweet-potato-curry)
 * [Noodle Kugel](#noodle-kugel)
 * [Caesar Salad](#caesar-salad)
 * [White House Coleslaw](#white-house-coleslaw)
@@ -708,35 +707,6 @@ Serve over rice.
 This curry is better the second day.
 
 This is based on the mushroom curry in the Moosewood cookbook.
-
-## Sweet Potato Curry
-
-3 tbsp butter<br/>
-1/2 onion, chopped<br/>
-2 cloves minced garlic<br/>
-1 tsp cumin<br/>
-1 tsp cinnamon<br/>
-1 tsp powdered ginger<br/>
-1/2 tsp turmeric<br/>
-1/2 tsp cloves<br/>
-1/2 tsp dry mustard<br/>
-1 cup celery, chopped<br/>
-2 lbs sweet potato, peeled<br/>
-2 cup mushrooms, sliced<br/>
-2 cup green beans, chopped<br/>
-1 tbsp honey<br/>
-2 tbsp lemon juice<br/>
-
-Chop the vegetables into bite-sized pieces.
-
-Fry onions, garlic and spices in butter.  When onions are soft, add celery.
-When celery is soft, add sweet potato.  When sweet potato is soft, add
-mushrooms, beans and a little water.  Cover and simmer over low heat until
-everything is tender.  Remove from heat and stir in honey and lemon juice.
-
-Serve over rice, with yogurt and naan.
-
-This is a variation on Chickpea Curry (above).
 
 ## Noodle Kugel
 
@@ -1248,7 +1218,6 @@ Serve with homemade croutons or toast.
 * [Zucchini Chocolate Cake](#zucchini-chocolate-cake)
 * [Chocolate Beet Cake](#chocolate-beet-cake)
 * [Grand Marnier Chocolate Torte](#grand-marnier-chocolate-torte)
-* [Grand Marnier Orange Cake](#grand-marnier-orange-cake)
 * [Shmoo Torte](#shmoo-torte)
 * [Sachertorte](#sachertorte)
 * [Bruce's Bambi Baklava](#bruces-bambi-baklava)
@@ -1921,36 +1890,6 @@ then fold in Grand Marnier sauce.
 
 Fill and cover cake.  Refrigerate at least 4 hours.
 
-## Grand Marnier Orange Cake
-
-1 cup butter<br/>
-1 cup plus 2 tbsp sugar<br/>
-3 eggs<br/>
-1 orange, zest and juice<br/>
-1 1/4 cup flour<br/>
-2 tsp baking powder<br/>
-1/2 tsp salt<br/>
-1/4 cup Grand Marnier<br/>
-
-Mix butter and sugar, then add eggs, then orange zest, juice and
-Grand Marnier. Add dry ingredients. Mix until smooth.
-
-Pour into buttered Bundt pan and bake 35-40 minutes at 350 F.
-
-**Sauce**
-
-2 oranges, zest and juice<br/>
-1 tbsp lemon juice<br/>
-1/2 cup sugar<br/>
-1/4 cup butter<br/>
-1/4 cup Grand Marnier<br/>
-
-In a saucepan, combine sugar, orange juice, orange zest and lemon juice.
-Simmer until mixture thickens, 10 to 20 minutes.  Remove from heat.
-Add butter and Grand Marnier.
-
-Pour warm sauce over cake.
-
 ## Shmoo Torte
 
 8 egg whites<br/>
@@ -2329,6 +2268,7 @@ Bake at 350 F for 45 minutes.
 * [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
 * [Ginger Cookies](#ginger-cookies)
 * [Maxine's Komish](#maxines-komish)
+* [Baba's Komish](#babas-komish)
 * [Coconut Cream Cheese Cookies](#coconut-cream-cheese-cookies)
 * [Chocolate Wafer Cookies](#chocolate-wafer-cookies)
 
@@ -2368,7 +2308,7 @@ Spoon onto cookie sheets and refrigerate.
 1 cup ground almonds (optional)<br/>
 
 Cream butter and sugar, then mix in eggs and vanilla.
-Add flour, salt, baking powder, chocolate chips and raisins,
+Add flour, salt, baking soda, chocolate chips and raisins,
 mixing until just blended.
 
 Spoon onto cookie sheets and bake at 375 F for 10-12 minutes.
@@ -2524,6 +2464,27 @@ the oven.
 
 Next time, make one without chocolate chips (and double-bake it), or try
 adding lemon zest or nutmeg, less almond, or chop the almonds.
+
+## Baba's Komish
+
+3 eggs<br/>
+1 cup sugar<br/>
+1 cup oil<br/>
+3 cup flour<br/>
+1 1/2 tsp baking powder<br/>
+1 tsp salt<br/>
+3/4 cup almonds (crushed fine)<br/>
+1 tsp cocoa<br/>
+
+Mix all together and let stand half hour.  Divide in 3 rolls.
+
+Roll slightly and sprinkle cocoa (use small strainer).
+
+Roll like jello roll and put in greased loaf pans.
+
+Bake 25 minutes at 350 F.
+
+Cut while still warm and toast in oven 250 F until brown.
 
 ## Coconut Cream Cheese Cookies
 
@@ -2950,6 +2911,6 @@ Top with whipped cream.
 
 Keyless Lime pie: 
 If you can't find fresh key limes or juice, use 1/2 cup lime
-juice plus 1/4 cup lemon juice.
+juice plus 1/4 cup lemon juice. And try without the sour cream?
 
 From <small>https://soufflebombay.com/prize-winning-key-lime-pie-recipe/#recipe</small>
