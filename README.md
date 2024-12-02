@@ -16,6 +16,7 @@
 * [Irish Soda Bread](#irish-soda-bread)
 * [Rye Soda Bread](#rye-soda-bread)
 * [No Knead Bread](#no-knead-bread)
+* [Plain Bagels](#plain-bagels)
 * [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
 * [Homemade Marzipan](#homemade-marzipan)
 * [Red Lobster Biscuits](#red-lobster-biscuits)
@@ -58,7 +59,7 @@ Bake at 350 F for 1 hour, stirring every 15 minutes.
 1 cup corn meal<br/>
 1 1/3 cup hot water<br/>
 3 tbsp butter<br/>
-1 cup white flour<br/>
+1 cup flour<br/>
 2 tsp baking powder<br/>
 1/2 tsp baking soda<br/>
 1/4 cup honey<br/>
@@ -143,6 +144,43 @@ If not done, remove cover and bake 5 more minutes.
 Cool on rack 1 hour or more.
 
 See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
+
+## Plain Bagels
+
+2 1/2 cup flour<br/>
+2 tbsp sugar<br/>
+2 tsp yeast<br/>
+1 tsp salt<br/>
+1 1/4 cup water<br/>
+2 tsp oil<br/>
+corn meal<br/>
+sesame seeds (optional)<br/>
+
+Mix flour, yeast, salt and 1 tbsp sugar.
+Add water, then knead until soft and elastic.
+
+Oil a large bowl and add dough, turning to coat the top in oil.
+
+Set in a warm place and let rise for 1 hour, or until doubled in size.
+
+Punch down dough, then divide in to 6 equal balls.
+
+Poke a hole in the middle of each ball and set
+them on an oiled baking sheet to rise 20 minutes.
+
+Preheat the oven to 400 F.
+
+Meanwhile, boil 2 inches of water with remaining sugar in a large pot,
+then add 2 or 3 bagels at a time, simmering for 1 minute on each side.
+
+Remove from pot and sprinkle with sesame seeds.
+
+Sprinkle baking sheet with corn meal, then add bagels.
+
+Bake 25-30 minutes.
+
+See:
+<small>https://polishhousewife.com/homemade-bagels/</small>
 
 ## Sylvia Gerrard Stollen
 
@@ -1936,7 +1974,7 @@ more sauce.  Leave some sauce to spoon onto each slice when cake is served.
 1 cup sugar<br/>
 1 cup flour<br/>
 
-Butter a 9" springform pan (just the sides).
+Butter a 9" springform pan (just the bottom).
 
 Melt chocolate over low heat and let cool til lukewarm.
 
@@ -2263,7 +2301,6 @@ Bake at 350 F for 45 minutes.
 * [Chocolate Chip Cookies](#chocolate-chip-cookies)
 * [Raisin Cookies](#raisin-cookies)
 * [Peanut Butter Cookies](#peanut-butter-cookies)
-* [Cinnamon Cookies](#cinnamon-cookies)
 * [Oatmeal Cookies (Mrs Dodd)](#oatmeal-cookies-mrs-dodd)
 * [Oatmeal Raisin Cookies (Lee Benson)](#oatmeal-raisin-cookies-lee-benson)
 * [Ginger Cookies](#ginger-cookies)
@@ -2353,22 +2390,6 @@ Add flour, soda and vanilla last.
 Spoon onto cookie sheets, and press down with a fork.
 
 Bake at 350 F about 10 minutes.
-
-## Cinnamon Cookies
-
-3 eggs<br/>
-1 cup brown sugar<br/>
-3/4 cup oil<br/>
-2 3/4 cup flour<br/>
-1 tbsp baking powder<br/>
-1/2 tsp baking soda<br/>
-cinnamon and sugar<br/>
-
-Cream eggs, sugar and oil, then add flour mixed with baking powder and
-soda.  Let stand 1/2 hour.  Tie in circles, then dip in mixed cinnamon
-and sugar.
-
-Place on greased cookie sheet and bake at 350 F for 10 minutes.
 
 ## Oatmeal Cookies (Mrs Dodd)
 
