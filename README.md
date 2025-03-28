@@ -357,9 +357,9 @@ Bake at 450 F for 10-15 minutes.
 Filling:
 
 3-4 tart apples, sliced<br/>
-1/4 cup butter<br/>
+1/4 cup butter (less)<br/>
 1/4 cup brown sugar<br/>
-2 tsp cinnamon<br/>
+2 tsp cinnamon (more?)<br/>
 
 Simmer until apples are soft, about 5 minutes.
 
@@ -1053,7 +1053,7 @@ This is my version of Uncle Robert's version of:
 4 cloves garlic, chopped<br/>
 4 stalks celery, sliced<br/>
 1 litre beef broth<br/>
-1 tsp dried rosemary<br/>
+3/4 tsp dried rosemary<br/>
 1/2 tsp salt<br/>
 1/4 tsp pepper<br/>
 3 large potatoes, cubed<br/>
@@ -1073,7 +1073,7 @@ Add potato, carrots and mushrooms and simmer another hour or so.
 Dissolve cornstarch in cold water then stir into stew.
 Stir 2 or 3 minutes until the stew thickens.
 
-Serve with corn bread.
+Serve with corn bread or biscuits.
 
 ## Beef Banh Mi Bowl
 
@@ -1442,13 +1442,16 @@ When cool, top with cherry pie filling, or homemade cherry topping.
 ** Cherry Topping **:<br/>
 2 cup pitted cherries (fresh or frozen)<br/>
 1/2 cup water<br/>
-1/4 cup sugar (1/3?)<br/>
-1 tbsp corn starch<br/>
+1/4 cup sugar (less?)<br/>
+1 tbsp lemon juice (less?)<br/>
+1 tbsp corn starch(less?)<br/>
 
 Cook slowly, stirring, until the sauce turns clear and thickens,
 3-5 minutes.
 
 When cool, spoon onto cake.
+
+Note: use less sugar for sweet cherries, less lemon juice for sour.
 
 ## Chocolate Marble Cheese Cake
 
@@ -1503,6 +1506,20 @@ and melted chocolate, and pour over crust.
 Bake at 350 F for 45-50 minutes, centre should still wobble.
 Let cool 30 minutes in open oven.
 Cool to room temperature, then refrigerate.
+
+Variation: Chocolate Graham Crust
+
+1 1/2 cup graham wafer crumbs<br/>
+5 tbsp cocoa<br/>
+3 tbsp icing sugar<br/>
+1/4 cup melted butter<br/>
+
+Mix crumbs, cocoa and sugar, then stir in melted butter.
+Pour into a 9" cake pan and pat down gently.
+
+Bake at 350 F for 10-12 minutes.
+
+Reduce to 250 F, pour in batter and bake 80-90 minutes.
 
 ## Banana Cake
 
@@ -1662,7 +1679,7 @@ through.
 
 4 eggs<br/>
 1 1/2 cup sugar<br/>
-1 lb honey<br/>
+1 lb honey (1 1/3 cups)<br/>
 1/2 cup oil<br/>
 1/2 cup stong tea<br/>
 6 1/2 oz coke<br/>
@@ -1710,6 +1727,7 @@ When cool, sprinkle with icing sugar and serve with whipped cream.
 1 cup sugar<br/>
 1 egg<br/>
 1 apple, chopped or grated<br/>
+1/4 cup apple sauce</br>
 1 1/4 cups flour<br/>
 1 1/2 tsp cinnamon<br/>
 1/4 tsp nutmeg<br/>
@@ -1723,7 +1741,7 @@ Add remaining ingredients and stir just until mixed.
 
 Pour into buttered 8x8" pan.
 
-Bake at 375 F for 35-40 minutes.
+Bake at 375 F for 35 minutes.
 
 <small>https://www.onelovelylife.com/apple-spice-cake/</small>
 
@@ -1813,9 +1831,9 @@ water.  When mostly cool, add egg yolks and fold in beaten egg whites.
 
 Bake at 425 F for 15 minutes in a 9" cake pan.
 
-It will still be soft in the middle.
+It should still be soft in the middle.
 
-Refrigerate.  Serve with whipped cream.
+Serve with whipped cream.
 
 ## Zucchini Chocolate Cake
 
@@ -2129,6 +2147,8 @@ then flour mixed with cocoa.
 Pour into buttered 8x8" pan and bake at 350 F for 25 minutes.
 
 Variation: add 1 cup ground almonds.
+
+Original had 2 oz unsweetened chocolate instead of cocoa.
 
 ## Gluten Free Brownies
 
@@ -2568,6 +2588,7 @@ well.
 * [Pumpkin Muffins](#pumpkin-muffins)
 * [Banana Muffins](#banana-muffins)
 * [Lemon Cupcakes](#lemon-cupcakes)
+* [Lemon Loaf](#lemon-loaf)
 
 
 <br/> <!-- force page break -->
@@ -2691,6 +2712,38 @@ Pour into cupcake pan and bake 18-22 minutes at 350 F.
 When cool, top with <a href="#lemon-cream-cheese-icing">lemon cream cheese icing</a>.
 
 <small>https://sallysbakingaddiction.com/homemade-lemon-cupcakes-with-vanilla-frosting/</small>
+
+## Lemon Loaf
+
+1/2 cup butter, at room temperature<br/>
+1 cup sugar<br/>
+4 eggs<br/>
+2-3 lemons, zest and juice<br/>
+1 1/2 cup flour<br/>
+1/4 tsp baking powder<br/>
+1/4 tsp baking soda<br/>
+1/2 tsp salt<br/>
+1/3 cup milk<br/>
+1/2 tsp vanilla<br/>
+1/2 cup icing sugar (for the glaze)<br/>
+1 tbsp fresh lemon juice (for the glaze)<br/>
+
+Cream butter and sugar until light and fluffy.
+Add eggs, lemon zest, most of the lemon juice, vanilla and milk.
+
+Separately mix flour, baking powder, baking soda and salt,
+then add to batter.
+
+Pour into greased and floured loaf pan.
+
+Bake at 350 F for 45-50 minutes.
+
+Remove from oven and let cool completely.
+
+Make the glaze: mix sugar and lemon juice,
+then drizzle over loaf.
+
+<small>https://www.foodnetwork.com/recipes/ina-garten/lemon-cake-recipe-1913110</small>
 
 
 # Icing
