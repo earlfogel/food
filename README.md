@@ -19,11 +19,11 @@
 * [Plain Bagels](#plain-bagels)
 * [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
 * [Homemade Marzipan](#homemade-marzipan)
+* [Buttermilk Biscuits](#buttermilk-biscuits)
 * [Red Lobster Biscuits](#red-lobster-biscuits)
 * [Apple Scone](#apple-scone)
 * [Scrumpets](#scrumpets)
 * [Baked Bannock](#baked-bannock)
-* [Baba's Buns](#babas-buns)
 * [Cinnamon Breakfast Cake](#cinnamon-breakfast-cake)
 * [German Apple Pancake](#german-apple-pancake)
 * [Cottage Cheese Pancakes](#cottage-cheese-pancakes)
@@ -232,6 +232,34 @@ Knead a few times, then wrap in plastic and refrigerate up to a month.
 
 This makes about twice what we need for one stollen.
 
+## Buttermilk Biscuits
+
+2 1/2 cup flour<br/>
+1 tbsp baking powder<br/>
+1/2 tsp baking soda<br/>
+1 tsp salt<br/>
+1/2 cup cold butter, cubed<br/>
+1 cup buttermilk (or 1 cup milk plus 1 tbsp vinegar)<br/>
+2 tsp honey<br/>
+more flour for rolling<br/>
+more milk for brushing<br/>
+
+Mix dry ingredients in a bowl, then cut in butter.
+
+Fold in buttermilk and honey, just until crumbly.
+
+Move dough to a floured surface and shape into a 3/4" thick rectangle.
+Fold one third to the middle, then fold the opposite third over top.
+Flatten and repeat twice more, sprinkling more flour if it gets sticky.
+
+Flatten to 3/4" thick again, and cut into 2 to 2.5 inch circles with a
+biscuit cutter or jar lid. Combine scraps and repeat until you've used all
+the dough.
+
+Brush tops with milk, move to baking sheet and bake 20-22 minutes at 425 F.
+
+<small>https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/</small>
+
 ## Red Lobster Biscuits
 
 Biscuits:
@@ -299,25 +327,6 @@ Stir everything together, until just mixed.
 Spread on a cookie sheet sprinkled with corn meal.
 
 Bake at 400 F for 15 - 20 minutes until bottom is golden.
-
-## Baba's Buns
-
-10-12 frozen dough balls (e.g. for dinner rolls)<br/>
-1/2 cup brown sugar<br/>
-1 tbsp cinnamon<br/>
-1/4 cup melted butter<br/>
-1/4 cup raisins<br/>
-1/3 package lemon or vanilla instant pudding (optional)<br/>
-
-Arrange dough balls in a greased bundt pan.
-
-Put everything else in a pot and boil 3 minutes.
-
-Pour mixture over balls.
-
-Cover, let rise overnight.
-
-Bake at 350 F for 25-30 minutes.
 
 ## Cinnamon Breakfast Cake
 
@@ -482,7 +491,6 @@ Serve immediately, traditionally with roast beef.
 * [Tian de courges](#tian-de-courges)
 * [Pasta Primavera](#pasta-primavera)
 * [Potato au gratin](#potato-au-gratin)
-* [Zucchini Quiche](#zucchini-quiche)
 * [Zucchini or Broccoli Quiche](#zucchini-or-broccoli-quiche)
 * [Onion Tarte](#onion-tarte)
 * [Butternut Squash Chipotle Chili](#butternut-squash-chipotle-chili)
@@ -540,7 +548,7 @@ then filling, then rest of batter.
 
 Bake at 350 F for 40 to 45 minutes.
 
-Serve with strawberries in syrop and sour cream.
+Serve with strawberries in syrup and sour cream.
 
 If you can't find dry cottage cheese, substitute regular
 cottage cheese, use just one egg and thicken with flour
@@ -625,29 +633,6 @@ then add milk, cover and bake for 1 hour at 350 F.
 Remove cover and bake 10 more minutes until golden brown on top.
 
 AKA: scalloped potatoes
-
-## Zucchini Quiche
-
-1 9" pie shell<br/>
-1/4 cup grated parmesan<br/>
-1/2 cup bread crumbs<br/>
-2 lb zucchini, sliced 1/4" thick<br/>
-2 eggs, separated<br/>
-1 1/2 cup sour cream<br/>
-2 tbsp chives<br/>
-2 tbsp flour<br/>
-butter<br/>
-
-Beat egg yolks and sour cream, add chives and flour.
-
-Beat egg whites til stiff and fold into other mixture.
-
-Put half the parmesan and breadcrumbs in pie shell, then 
-alternate layers of zucchini slices and other mix in pie shell.
-Top with remaining parmesan and breadcrumbs and a few dabs of
-butter.
-
-Bake at 450 F for 10 minutes, then 325 F for 40 minutes.
 
 ## Zucchini or Broccoli Quiche
 
@@ -843,6 +828,7 @@ Cool.
 * [White House Ribs (not quite)](#white-house-ribs-not-quite)
 * [Greek Ribs](#greek-ribs)
 * [Roast Beef (Prime Rib)](#roast-beef-prime-rib)
+* [Roast Beef (Strip Loin)](#roast-beef-strip-loin)
 * [Sloppy Joes](#sloppy-joes)
 * [Earl's Chili](#earls-chili)
 * [Chicken Mafé](#chicken-mafé)
@@ -954,6 +940,33 @@ For a small roast, partially cook the cabbage, potatoes and sweet potatoes
 before adding them to the pan.
 
 If the vegetables start to dry out, partially cover the pan.
+
+## Roast Beef (Strip Loin)
+
+1/2 strip loin roast, 3-5 lbs<br/>
+4 cloves garlic<br/>
+2 tsp rosemary<br/>
+2 tsp thyme<br/>
+1.5 tsp salt<br/>
+4 tsp oil<br/>
+2 cup sliced cabbage<br/>
+3-4 potatoes, cubed<br/>
+1 sweet potato, cubed<br/>
+3-4 carrots, thickly sliced<br/>
+
+Blend garlic, herbs, salt and oil, then spread all over the roast.
+Refrigerate at least three hours.
+
+Place roast in a large pan (fat-side up) and bake at 450 F for 15 minutes.
+
+Meanwhile, partially cook the cabbage, potatoes and sweet potatoes.
+
+Add vegetables to the pan, reduce to 350 F and bake another 1 hour,
+or until a meat thermometer in the middle of the roast reads 140 F.
+
+If the vegetables start to dry out, partially cover the pan.
+
+<small>https://www.epicurious.com/recipes/food/views/roast-new-york-strip-loin-with-garlic-herb-crust-104494</small>
 
 ## Sloppy Joes
 
@@ -1250,7 +1263,6 @@ Serve with homemade croutons or toast.
 * [Felix's Apple Cake](#felixs-apple-cake)
 * [Apple Spice Cake](#apple-spice-cake)
 * [Carrot Cake](#carrot-cake)
-* [Carrot Pudding](#carrot-pudding)
 * [Lazy Daisy Cake](#lazy-daisy-cake)
 * [Killer Chocolate Torte](#killer-chocolate-torte)
 * [Zucchini Chocolate Cake](#zucchini-chocolate-cake)
@@ -1284,7 +1296,7 @@ Serve with homemade croutons or toast.
 Mix and spread on bottom of 8x8" pan.
 
 1/2 cup butter<br/>
-1/2 cup icing sugar<br/>
+1/2 cup sugar<br/>
 2 oz melted semi-sweet chocolate<br/>
 3 egg yolks<br/>
 3 egg whites, unbeaten<br/>
@@ -1506,20 +1518,6 @@ and melted chocolate, and pour over crust.
 Bake at 350 F for 45-50 minutes, centre should still wobble.
 Let cool 30 minutes in open oven.
 Cool to room temperature, then refrigerate.
-
-Variation: Chocolate Graham Crust
-
-1 1/2 cup graham wafer crumbs<br/>
-5 tbsp cocoa<br/>
-3 tbsp icing sugar<br/>
-1/4 cup melted butter<br/>
-
-Mix crumbs, cocoa and sugar, then stir in melted butter.
-Pour into a 9" cake pan and pat down gently.
-
-Bake at 350 F for 10-12 minutes.
-
-Reduce to 250 F, pour in batter and bake 80-90 minutes.
 
 ## Banana Cake
 
@@ -1773,23 +1771,6 @@ at 350 F for 50-60 minutes.
 Cream cheese and butter, add icing sugar and beat until smooth.
 Spread on cake.
 
-## Carrot Pudding
-
-1/2 cup shortening<br/>
-1/2 cup brown sugar<br/>
-2 egg yolks<br/>
-1 1/2 cup grated carrots<br/>
-1 1/4 cup flour<br/>
-1 tsp baking soda<br/>
-1 tsp baking powder<br/>
-1 tsp cinnamon<br/>
-4 tsp lemon juice<br/>
-2 egg whites, beaten<br/>
-
-Cream shortening and sugar, then add remaining ingredients in order.
-Beat egg whites and fold in last.
-Bake at 350 F for 1 hour, in a greased pan over a tray of water.
-
 ## Lazy Daisy Cake
 
 1 cup sugar<br/>
@@ -2015,13 +1996,13 @@ When cool, remove from pan and slice cake in half horizontally.
 3 oz unsweetened chocolate<br/>
 3/4 cup cream<br/>
 1 cup sugar<br/>
-3 tbsp corn syrop<br/>
+3 tbsp corn syrup<br/>
 1 egg<br/>
 1 tbsp vanilla<br/>
 3/4 cup apricot jam mixed with 3 tbsp water<br/>
 1 cup whipped cream (optional)<br/>
 
-Combine chocolate, cream, sugar and corn syrop in a pot.  Bring to a boil,
+Combine chocolate, cream, sugar and corn syrup in a pot.  Bring to a boil,
 stirring constantly until chocolate has completely dissolved.
 
 Cook 5-8 minutes on low heat, stirring constantly, until mixture begins
@@ -2328,6 +2309,7 @@ Bake at 350 F for 45 minutes.
 * [Baba's Komish](#babas-komish)
 * [Coconut Cream Cheese Cookies](#coconut-cream-cheese-cookies)
 * [Chocolate Wafer Cookies](#chocolate-wafer-cookies)
+* [Chocolate Wafer Crust](#chocolate-wafer-crust)
 
 
 <br/> <!-- force page break -->
@@ -2581,14 +2563,29 @@ well.
 
 <small>https://www.cookingchanneltv.com/recipes/homemade-chocolate-wafer-cookies-2107685</small>
 
+## Chocolate Wafer Crust
+
+1/3 cup sugar<br/>
+1/4 cup brown sugar<br/>
+1/2 cup flour<br/>
+1/3 cup cocoa<br/>
+1/4 tsp baking soda<br/>
+1/4 cup butter, melted<br/>
+
+Mix dry ingredients, then stir in melted butter.
+
+Gently press into a buttered 9" pan and bake at 350 F for 15-20 minutes.
+
+Ie. 15 minutes for baked desserts (chocolate cheesecake)
+or 20 minutes for unbaked (chocolate mousse pie).
+
 # Muffins
 
 * [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
 * [Pumpkin Muffins](#pumpkin-muffins)
 * [Banana Muffins](#banana-muffins)
-* [Lemon Cupcakes](#lemon-cupcakes)
-* [Lemon Loaf](#lemon-loaf)
+* [Lemon Cupcakes or Loaf](#lemon-cupcakes-or-loaf)
 
 
 <br/> <!-- force page break -->
@@ -2688,7 +2685,7 @@ Spoon into muffin cups and bake at 375 F for 20-23 minutes.
 
 <small>https://sallysbakingaddiction.com/banana-muffins/</small>
 
-## Lemon Cupcakes
+## Lemon Cupcakes or Loaf
 
 1/2 cup soft butter<br/>
 1 cup sugar<br/>
@@ -2697,54 +2694,22 @@ Spoon into muffin cups and bake at 375 F for 20-23 minutes.
 1 1/2 cups flour<br/>
 2 tsp baking powder<br/>
 1/2 tsp salt<br/>
-1/2 cup milk<br/>
-1 1/2 tbsp lemon zest<br/>
-1/3 cup lemon juice<br/>
+1/2 cup milk or sour cream<br/>
+1 large lemon, zest and juice<br/>
 
 Beat butter and sugar until creamy.
-Stir in eggs and vanilla.
+Stir in eggs, vanilla, milk, lemon juice and zest.
 
 Mix flour, baking powder and salt, then stir
 into wet ingredients, just until mixed.
 
-Pour into cupcake pan and bake 18-22 minutes at 350 F.
+For cupcakes, bake 18-22 minutes at 350 F.
+
+For loaf, bake 45-50 minutes at 350 F.
 
 When cool, top with <a href="#lemon-cream-cheese-icing">lemon cream cheese icing</a>.
 
 <small>https://sallysbakingaddiction.com/homemade-lemon-cupcakes-with-vanilla-frosting/</small>
-
-## Lemon Loaf
-
-1/2 cup butter, at room temperature<br/>
-1 cup sugar<br/>
-4 eggs<br/>
-2-3 lemons, zest and juice<br/>
-1 1/2 cup flour<br/>
-1/4 tsp baking powder<br/>
-1/4 tsp baking soda<br/>
-1/2 tsp salt<br/>
-1/3 cup milk<br/>
-1/2 tsp vanilla<br/>
-1/2 cup icing sugar (for the glaze)<br/>
-1 tbsp fresh lemon juice (for the glaze)<br/>
-
-Cream butter and sugar until light and fluffy.
-Add eggs, lemon zest, most of the lemon juice, vanilla and milk.
-
-Separately mix flour, baking powder, baking soda and salt,
-then add to batter.
-
-Pour into greased and floured loaf pan.
-
-Bake at 350 F for 45-50 minutes.
-
-Remove from oven and let cool completely.
-
-Make the glaze: mix sugar and lemon juice,
-then drizzle over loaf.
-
-<small>https://www.foodnetwork.com/recipes/ina-garten/lemon-cake-recipe-1913110</small>
-
 
 # Icing
 
