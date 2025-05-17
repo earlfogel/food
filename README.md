@@ -509,8 +509,8 @@ Serve immediately, traditionally with roast beef.
 2 1/2 cup macaroni<br/>
 2 tbsp butter<br/>
 3 tbsp flour<br/>
-1 1/2 cup milk<br/>
-1/3 lb. cheddar cheese, cut up<br/>
+1 1/4 cup milk<br/>
+1/3 lb cheddar cheese, cut up<br/>
 3 tbsp corn flake crumbs<br/>
 
 Boil macaroni for 10 minutes. Drain, then put in oven-safe pan.
@@ -708,22 +708,21 @@ Original recipe:
 1 tsp powdered ginger<br/>
 1/2 tsp cloves<br/>
 1/2 tsp dry mustard<br/>
+1/2 tsp salt<br/>
 1 cup celery, chopped<br/>
-1 can chick peas<br/>
+1 can chick peas, drained<br/>
+1/2 pound sliced mushrooms<br/>
 2 large apples, sliced<br/>
 3 large tomatoes, sliced<br/>
 3 tbsp shredded coconut<br/>
 1 tbsp honey<br/>
-1 lemon, juice<br/>
-1 cup sliced almonds<br/>
-2 tbsp butter<br/>
+1/2 lemon, juice<br/>
 
 Fry onions, garlic and spices in butter.
 When onions are soft, add celery and chickpeas.
-When celery is soft, add apples, tomato, coconut and 1/2 cup water.
+When celery is soft, add apples, tomato, mushrooms, coconut and 1/2 cup water.
 Cover and simmer over low heat until everything is tender.
 Remove from heat and add honey and lemon juice.  Cover and let sit.
-Meanwhile, fry almonds in butter.
 
 Serve over rice.
 
@@ -1273,6 +1272,7 @@ Serve with homemade croutons or toast.
 * [Bruce's Bambi Baklava](#bruces-bambi-baklava)
 * [Lemon Pudding](#lemon-pudding)
 * [Lemon Bars](#lemon-bars)
+* [Lemon Loaf or Cupcakes](#lemon-loaf-or-cupcakes)
 * [What To Do With Half A Lemon Tartes](#what-to-do-with-half-a-lemon-tartes)
 * [Brownies](#brownies)
 * [Gluten Free Brownies](#gluten-free-brownies)
@@ -1414,19 +1414,19 @@ Mix and put half in bottom of 8x8" pan.
 
 1 1/2 lb cream cheese (3 bricks)<br/>
 3/4 cup sugar<br/>
-4 eggs<br/>
+2 eggs<br/>
+1/4 cup milk<br/>
 1 1/2 tsp vanilla<br/>
 
-Beat cream cheese until fluffy, add sugar, eggs (one at a time),
-and vanilla.  Pour into pan, top with remaining crumbs.
+Beat cream cheese and sugar until fluffy, add eggs, milk and vanilla.
+Pour into pan, top with remaining crumbs.
+
 Bake at 350 F for 30-35 minutes, until the edges are brown.
 Centre should still be moist.
 
-Leave in oven with door open 10 minutes. Refrigerate.
+Leave in oven with door open 10 minutes, then cool on the counter. Refrigerate.
 
 Top with frozen strawberries.
-
-For a lighter cake, replace 2 eggs with 1/4 cup milk or cream.
 
 ## Cherry Cheese Cake
 
@@ -1688,7 +1688,7 @@ through.
 Mix everything together and bake at 350 F for 1 hour or more
 in a greased 9x13" pan.
 
-Or make a half recipe in an 8x8 pan and bake for 45 minutes.
+Or make a half recipe in an 8x8 pan and bake for 45-47 minutes.
 
 If baked just right, it will be sticky on top when it cools.
 
@@ -2093,6 +2093,33 @@ Pour over baked crust.
 Bake an additional 20 minutes.
 
 When cool, dust with icing sugar, if desired.
+
+## Lemon Loaf or Cupcakes
+
+1/2 cup soft butter<br/>
+1 cup sugar<br/>
+2 eggs<br/>
+1 1/2 tsp vanilla<br/>
+1 1/2 cups flour<br/>
+2 tsp baking powder<br/>
+1/2 tsp salt<br/>
+1/2 cup milk or sour cream<br/>
+1 large lemon, zest and juice<br/>
+
+Beat butter and sugar until creamy.
+Stir in eggs, vanilla, milk, lemon juice and zest.
+
+Mix flour, baking powder and salt, then stir
+into wet ingredients, just until mixed.
+
+Bake 45-50 minutes at 350 F.
+
+For cupcakes, bake 18-22 minutes at 350 F.
+
+Optional: When cool, top with <a href="#lemon-cream-cheese-icing">lemon
+cream cheese icing</a> or <a href="#lemon-glaze">lemon glaze</a>.
+
+<small>https://sallysbakingaddiction.com/homemade-lemon-cupcakes-with-vanilla-frosting/</small>
 
 ## What To Do With Half A Lemon Tartes
 
@@ -2579,13 +2606,13 @@ Gently press into a buttered 9" pan and bake at 350 F for 15-20 minutes.
 Ie. 15 minutes for baked desserts (chocolate cheesecake)
 or 20 minutes for unbaked (chocolate mousse pie).
 
+
 # Muffins
 
 * [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
 * [Pumpkin Muffins](#pumpkin-muffins)
 * [Banana Muffins](#banana-muffins)
-* [Lemon Cupcakes or Loaf](#lemon-cupcakes-or-loaf)
 
 
 <br/> <!-- force page break -->
@@ -2683,33 +2710,10 @@ Then stir in dry ingredients.
 
 Spoon into muffin cups and bake at 375 F for 20-23 minutes.
 
+Makes 12 muffins.
+
 <small>https://sallysbakingaddiction.com/banana-muffins/</small>
 
-## Lemon Cupcakes or Loaf
-
-1/2 cup soft butter<br/>
-1 cup sugar<br/>
-2 eggs<br/>
-1 1/2 tsp vanilla<br/>
-1 1/2 cups flour<br/>
-2 tsp baking powder<br/>
-1/2 tsp salt<br/>
-1/2 cup milk or sour cream<br/>
-1 large lemon, zest and juice<br/>
-
-Beat butter and sugar until creamy.
-Stir in eggs, vanilla, milk, lemon juice and zest.
-
-Mix flour, baking powder and salt, then stir
-into wet ingredients, just until mixed.
-
-For cupcakes, bake 18-22 minutes at 350 F.
-
-For loaf, bake 45-50 minutes at 350 F.
-
-When cool, top with <a href="#lemon-cream-cheese-icing">lemon cream cheese icing</a>.
-
-<small>https://sallysbakingaddiction.com/homemade-lemon-cupcakes-with-vanilla-frosting/</small>
 
 # Icing
 
@@ -2717,6 +2721,7 @@ When cool, top with <a href="#lemon-cream-cheese-icing">lemon cream cheese icing
 * [Dark Chocolate Icing](#dark-chocolate-icing)
 * [Cream Cheese Icing](#cream-cheese-icing)
 * [Lemon Cream Cheese Icing](#lemon-cream-cheese-icing)
+* [Lemon Glaze](#lemon-glaze)
 
 
 <br/> <!-- force page break -->
@@ -2765,12 +2770,23 @@ Spread on 9x13" cake.
 6 oz cream cheese, at room temperature<br/>
 1/3 cup butter, at room temperature<br/>
 1 2/3 cups icing sugar, sifted<br/>
-2-3 tbsp fresh lemon juice<br/>
+2 tbsp fresh lemon juice<br/>
 
 Beat cream cheese and butter until light and creamy.
 On low speed, gradually add icing sugar and lemon juice.
 
+Next time: reduce butter, sugar and lemon
+(2 tbsp butter, 1 tbsp lemon, 1 cup icing sugar?)
+
 <small>https://handletheheat.com/lemon-cupcakes/</small>
+
+## Lemon Glaze
+
+1/2 cup icing sugar<br/>
+1 tbsp fresh lemon juice<br/>
+
+Mix sifted icing sugar and lemon juice.
+
 
 # Pie
 
@@ -2922,9 +2938,9 @@ For Julie, replace butter and whipping cream with margarine and nutriwhip.
 
 Crust:
 
-1 1/2 cup graham wafer crumbs<br/>
+1 3/4 cup graham wafer crumbs<br/>
 4 tbsp sugar<br/>
-4-5 tbsp melted butter<br/>
+6 tbsp melted butter<br/>
 
 Mix and spread in 9" pie dish.  Press evenly into bottom and up the sides
 of the dish.  Bake 6-8 minutes at 350 F.
@@ -2933,14 +2949,14 @@ Filling:
 
 1 1/2 can sweetened condensed milk (21 oz)<br/>
 2 egg yolks<br/>
-3/4 cup key lime juice (1 lb key limes)<br/>
+3/4 (2/3?) cup key lime juice (1 lb key limes)<br/>
 1/2 cup sour cream<br/>
 grated zest from 3-4 key limes (optional)<br/>
 
 Chill condensed milk, beaters and bowl.
 
-Beat condensed milk and egg yolks in a large bowl until doubled in volume.
-Add juice, sour cream and lime zest.
+Beat condensed milk, sour cream and egg yolks in a large bowl,
+then add lime juice and zest.
 
 Pour into cooled crust and bake 15-20 minutes.
 
