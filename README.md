@@ -1331,6 +1331,7 @@ then fold in jello mix.
 Leave 12 whole wafers and crush the rest (~1.5 cups).  Spread half the wafer
 crumbs on bottom of angel food pan, pour in filling, then sprinkle
 remaining crumbs on top.  Slide whole wafers down around the edges.
+
 Refrigerate.
 
 ## Custard Cake
@@ -1756,6 +1757,7 @@ Bake at 375 F for 35 minutes.
 2 tsp baking powder<br/>
 1 1/2 tbsp cinnamon<br/>
 3 cup grated carrot<br/>
+1 cup crushed pineapple and more flour (optional)<br/>
 1 cup raisins (optional)<br/>
 
 Grease and flour a 9x13" pan.
@@ -2223,7 +2225,7 @@ Prairie Ink uses coconut, mini-chips and sliced almonds.
 1 cup whipping cream<br/>
 1/4 cup icing sugar<br/>
 1/2 tsp vanilla<br/>
-2 oz semi sweet chocolate<br/>
+2 oz semi-sweet chocolate<br/>
 1/2 tsp shortening<br/>
 
 Combine water and butter in a small heavy saucepan and bring to a full
@@ -2342,6 +2344,7 @@ Bake at 350 F for 45 minutes.
 * [Coconut Cream Cheese Cookies](#coconut-cream-cheese-cookies)
 * [Chocolate Wafer Cookies](#chocolate-wafer-cookies)
 * [Chocolate Wafer Crust](#chocolate-wafer-crust)
+* [Chocolate Wafer Crumbs](#chocolate-wafer-crumbs)
 
 
 <br/> <!-- force page break -->
@@ -2501,7 +2504,7 @@ Bake at 375 F until lightly browned, 12-14 minutes.
 1 cup oil<br/>
 1 tsp vanilla<br/>
 16 oz chopped filberts (blender)<br/>
-4 oz semi sweet chocolate chips<br/>
+4 oz chocolate chips<br/>
 3/4 cup coconut (desiccated)<br/>
 2 1/2 cups flour<br/>
 2 tsp baking powder<br/>
@@ -2543,18 +2546,18 @@ Cut while still warm and toast in oven 250 F until brown.
 
 ## Coconut Cream Cheese Cookies
 
-2 cups flour (more?)</br>
+2 1/4 cup flour</br>
 1/2 tsp baking soda</br>
 1/2 tsp salt</br>
-3/4 cup butter</br>
-6 oz cream cheese</br>
+1/2 cup butter</br>
+8 oz cream cheese</br>
 1 cup brown sugar</br>
 1/2 cup white sugar</br>
 2 tsp vanilla</br>
 2 cups shredded coconut</br>
 
 To toast coconut: spread coconut on baking sheet and bake at 300 F
-until light brown (10-15 minutes) stirring every 4-5 minutes.  Do not burn.
+until light brown (10-12 minutes) stirring every 4-5 minutes.  Do not burn.
 Set aside.
 
 Cream butter and cream cheese until smooth, then mix in sugar and vanilla,
@@ -2597,9 +2600,9 @@ well.
 
 ## Chocolate Wafer Crust
 
-1/3 cup sugar<br/>
-1/4 cup brown sugar<br/>
-1/2 cup flour<br/>
+1/2 cup sugar<br/>
+1/3 cup brown sugar<br/>
+2/3 cup flour<br/>
 1/3 cup cocoa<br/>
 1/4 tsp baking soda<br/>
 1/4 cup butter, melted<br/>
@@ -2610,6 +2613,21 @@ Gently press into a buttered 9" pan and bake at 350 F for 15-20 minutes.
 
 Ie. 15 minutes for baked desserts (chocolate cheesecake)
 or 20 minutes for unbaked (chocolate mousse pie).
+
+## Chocolate Wafer Crumbs
+
+2 tbsp butter<br/>
+2 tbsp sugar<br/>
+2 tbsp brown sugar<br/>
+4 tbsp flour<br/>
+2 tbsp cocoa<br/>
+1/4 tsp baking soda<br/>
+
+Mix dry ingredients, then stir in melted butter.
+
+Gently press to form a 7-8" round cookie and bake at 350 F for 15-20 minutes.
+
+When cool and dry, crumble the cookie with hands or rolling pin.
 
 
 # Muffins
