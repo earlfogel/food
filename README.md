@@ -2603,7 +2603,7 @@ well.
 1/2 cup sugar<br/>
 1/3 cup brown sugar<br/>
 2/3 cup flour<br/>
-1/3 cup cocoa<br/>
+1/2 cup cocoa<br/>
 1/4 tsp baking soda<br/>
 1/4 cup butter, melted<br/>
 
