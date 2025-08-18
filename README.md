@@ -1589,7 +1589,7 @@ Stir a bit, and bake at 350 F for 45 minutes.
 
 ## Apricot Coffee Cake
 
-3/4 cup butter (was 1 cup)<br/>
+1 cup butter (scant)<br/>
 1 cup sugar<br/>
 2 eggs<br/>
 1/2 cup water<br/>
@@ -1597,7 +1597,7 @@ Stir a bit, and bake at 350 F for 45 minutes.
 2 cup flour<br/>
 1 tbsp baking powder<br/>
 1/4 tsp salt<br/>
-apricot filling (or apple filling)<br/>
+apricot filling<br/>
 
 Cream butter and sugar, add eggs, vanilla and water, then flour
 mixed with baking powder and salt.
@@ -1617,10 +1617,12 @@ Mix.
 
 **Apricot Filling:**
 
-1 cup apricot jam (or more)<br/>
-1-2 tbsp water<br/>
+1 can apricot pie filling<br/>
 
-Mix.
+Or:
+
+1-2 cup apricot jam<br/>
+1-2 tbsp water<br/>
 
 Or:
 
@@ -1628,13 +1630,14 @@ Or:
 1 1/2 cup sugar<br/>
 1/4 cup water<br/>
 
-Cut apricots in half and remove pits.  Simmer apricots, sugar and water,
+Cut apricots in half and remove pits.  Simmer apricots, sugar and water
 until it thickens, stirring occasionally -- an hour or more.  To test
 consistency, spoon a bit onto a cold plate and cool in fridge.
 
-**Apple Cake:** use apple filling instead and only 3/4 cup sugar.
+### Apple Cake
 
-**Apple Filling:**<br/>
+Replace apricot filling with:
+
 3-4 apples, sliced<br/>
 1/4 cup butter<br/>
 1/4 cup sugar<br/>
@@ -1881,10 +1884,10 @@ cream. For more color, add more beet juice, for less, add more cream.
 
 ## Grand Marnier Chocolate Torte
 
-1 3/4 cup flour<br/>
+1 3/4 cup flour(more?)<br/>
 1/2 cup cocoa<br/>
 1 tsp baking soda<br/>
-1/2 tsp baking powder<br/>
+1/2 tsp baking powder(more?)<br/>
 1 tsp salt<br/>
 1/2 cup butter<br/>
 1 2/3 cup sugar<br/>
@@ -1910,10 +1913,11 @@ Marnier, 1 tbsp each.
 
 **Filling**
 
-6 oz frozen orange juice<br/>
+3/4 cup frozen orange juice<br/>
 3/4 cup sugar<br/>
 1 envelope (1 tbsp) gelatin<br/>
 zest from 2 oranges<br/>
+1/4 cup Grand Marnier<br/>
 3 cup whipping cream<br/>
 3/4 cup icing sugar, sifted<br/>
 
@@ -2277,8 +2281,7 @@ Mix apples and cinnamon.
 
 In food processor, combine oats, flour, sugar and butter.
 
-Place 1/2 mix in bottom of baking dish, cover with apples,
-put rest of oat mix on top.
+Place apples in baking dish, then cover with oat mix.
 
 Bake at 350 F for 45 to 60 minutes.
 
@@ -2309,16 +2312,18 @@ Bake at 350 F for 40 minutes.
 **Filling:**<br/>
 2 cup sliced apples<br/>
 2 cup sliced rhubarb<br/>
+2 tbsp sugar<br/>
 1 tsp cinnamon<br/>
 
 **Topping:**<br/>
 1/2 cup soft butter<br/>
-1 cup brown sugar<br/>
-1 cup flour<br/>
-1 cup oats<br/>
+2/3 cup brown sugar<br/>
+2/3 cup flour<br/>
+2/3 cup oats<br/>
 
-Mix topping ingredients together.
-Put half crumbs in bottom of pan, then filling, then remaining topping.
+Mix topping ingredients in food processor.
+
+Put filling in pan, then cover with topping.
 
 Bake at 350 F for 45 minutes.
 
