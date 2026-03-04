@@ -131,7 +131,7 @@ the bottom.
 Mix flour, salt, yeast.
 Stir in water.
 Cover loosely.
-Let sit 3 hours, or until doubled in bulk.
+Let rise 1 to 2 hours, or until doubled in bulk.
 
 Preheat oven, oven-safe pan and lid to 450 F.
 
@@ -142,6 +142,14 @@ Pour dough into hot pan, cover and bake 25 minutes.
 If not done, remove cover and bake 5 more minutes.
 
 Cool on rack 1 hour or more.
+
+Variation: add 1/3 cup muesli cereal.
+
+Variation 2:
+
+The night before, mix 1 cup flour, 1 cup water and 1/4 tsp yeast,
+and let it sit overnight at room temperature. This is called a poolish.
+The next morning, stir in remaining ingredients and continue as usual.
 
 See: <small>http://www.kk.org/cooltools/archives/004156.php</small>
 
@@ -250,13 +258,13 @@ Fold in buttermilk and honey, just until crumbly.
 
 Move dough to a floured surface and shape into a 3/4" thick rectangle.
 Fold one third to the middle, then fold the opposite third over top.
-Flatten and repeat twice more, sprinkling more flour if it gets sticky.
+Flatten and repeat twice, sprinkling more flour if it gets sticky.
 
-Flatten to 3/4" thick again, and cut into 2 to 2.5 inch circles with a
+Flatten to 3/4" thick again, then cut into 2 to 2.5 inch circles with a
 biscuit cutter or jar lid. Combine scraps and repeat until you've used all
 the dough.
 
-Brush tops with milk, move to baking sheet and bake 20-22 minutes at 425 F.
+Brush tops with milk, move to baking sheet and bake 18-20 minutes at 425 F.
 
 <small>https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/</small>
 
@@ -744,14 +752,13 @@ This is based on the mushroom curry in the Moosewood cookbook.
 corn flakes<br/>
 butter<br/>
 
-Boil noodles in salted water until barely tender,
-drain and dot with butter.
+Boil noodles in salted water until barely tender, then drain.
 
 Mix eggs, cheese, yogurt, vanilla, cinnamon and honey.
 Combine with sliced apple and noodles and spread into a
 buttered casserole dish.
 
-Top with corn flakes, dot with butter and bake at 350 F for 40-50 minutes.
+Top with corn flakes and bake at 350 F for 40-50 minutes.
 
 ## Caesar Salad
 
@@ -834,6 +841,7 @@ Cool.
 * [Beef Stew](#beef-stew)
 * [Beef Banh Mi Bowl](#beef-banh-mi-bowl)
 * [Anne's Cabbage Rolls](#annes-cabbage-rolls)
+* [Slow Cooker Pork Tenderloin](#slow-cooker-pork-tenderloin)
 
 
 <br/> <!-- force page break -->
@@ -1132,6 +1140,30 @@ Top:<br/>
 
 Bake at 350 F for 2 hours.
 
+## Slow Cooker Pork Tenderloin
+
+1 pork tenderloin, about 1 lb<br/>
+1 tsp garlic powder<br/>
+1/2 tsp salt<br/>
+1/2 tsp paprika<br/>
+1/2 tsp rosemary<br/>
+1/3 cup apple juice<br/>
+1 tbsp balsamic vinegar<br/>
+2 tbsp brown sugar<br/>
+1 tbsp ketchup<br/>
+2 tsp corn starch<br/>
+
+Combine garlic, salt, paprika and rosemary. Rub onto
+the pork tenderloin and place in the slow cooker.
+
+Mix apple juice, sugar, balsamic vinegar, ketchup and corn starch and pour
+into the slow cooker.
+
+Cover and cook on low for 3-4 hours, turning once.
+
+Serve with mashed potatoes and cooked carrots.
+
+<small>https://www.thereciperebel.com/slow-cooker-pork-tenderloin-honey-balsamic-glaze-recipe/</small>
 
 # Soup
 
@@ -1146,18 +1178,18 @@ Bake at 350 F for 2 hours.
 ## Beet Borscht
 
 1 or 2 soup bones<br/>
-4 or 5 beets, peeled<br/>
-1 carrot<br/>
-1/2 onion<br/>
-1 stalk celery<br/>
-1 or 2 tomatoes, peeled<br/>
-1 cup shredded cabbage<br/>
+4 or 5 beets, peeled and sliced<br/>
+1/2 onion, chopped<br/>
+1 stalk celery, sliced<br/>
 1/2 tsp salt<br/>
+1 cup shredded cabbage<br/>
+1 carrot, sliced<br/>
+1 or 2 tomatoes, peeled and sliced<br/>
 
 Cut up vegetables.
 
 Boil soup bones in 1-2 litres of water, add onion, celery and salt, simmer 
-1 or 2 hours.  Add the other vegetables and simmer 2 more hours, or 
+1 or 2 hours.  Add remaining vegetables and simmer 2 more hours, or 
 until everything is tender.
 
 Serve with sour cream and fresh bread.
@@ -1253,6 +1285,7 @@ Serve with homemade croutons or toast.
 * [Cherry Cheese Cake](#cherry-cheese-cake)
 * [Chocolate Marble Cheese Cake](#chocolate-marble-cheese-cake)
 * [Chocolate Cheese Cake](#chocolate-cheese-cake)
+* [Chocolate Peanut Butter Cheesecake](#chocolate-peanut-butter-cheesecake)
 * [Banana Cake](#banana-cake)
 * [Gingerbread](#gingerbread)
 * [Coffee Cake](#coffee-cake)
@@ -1455,9 +1488,9 @@ When cool, top with cherry pie filling, or homemade cherry topping.
 ** Cherry Topping **:<br/>
 2 cup pitted cherries (fresh or frozen)<br/>
 1/2 cup water<br/>
-1/4 cup sugar (less?)<br/>
-1 tbsp lemon juice (less?)<br/>
-1 tbsp corn starch(less?)<br/>
+1/4 cup sugar<br/>
+1 tbsp lemon juice<br/>
+1 tbsp corn starch<br/>
 
 Cook slowly, stirring, until the sauce turns clear and thickens,
 3-5 minutes.
@@ -1482,7 +1515,7 @@ Mix and pat into 9" cake pan.
 1 cup sugar<br/>
 2 eggs<br/>
 1 tsp vanilla<br/>
-1 cup sour cream (3/4?)<br/>
+1 cup sour cream<br/>
 4 oz semi-sweet chocolate, melted<br/>
 
 Beat cream cheese with sugar, add eggs, sour cream and vanilla.
@@ -1519,6 +1552,37 @@ and melted chocolate, and pour over crust.
 Bake at 350 F for 45-50 minutes, centre should still wobble.
 Let cool 30 minutes in open oven.
 Cool to room temperature, then refrigerate.
+
+## Chocolate Peanut Butter Cheesecake
+
+Crust:
+
+Make <a href="#chocolate-wafer-crust">chocolate wafer crust</a>.
+
+Filling:
+
+3 bricks cream cheese<br/>
+1 cup sugar<br/>
+1/4 cup sour cream<br/>
+1 cup smooth peanut butter (or 3/4 cup natural smooth)<br/>
+1 tsp vanilla<br/>
+1/8 tsp salt<br/>
+3 eggs<br/>
+
+Mix cream cheese and sugar until smooth, then add sour cream,
+peanut butter, vanilla and salt and beat until smooth and creamy.
+Add eggs one at a time, mixing until just blended in.
+
+Pour filling into crust and bake at 350 F for 33-35 minutes.
+Cool on the counter at least 1 hour, then refrigerate.
+
+Topping:
+
+1/4 cup butter<br/>
+2/3 cup chocolate chips<br/>
+
+Microwave butter and chocolate chips 30 seconds, stir and repeat
+until smooth.  Let cool a bit, then pour over cheesecake.
 
 ## Banana Cake
 
@@ -2277,7 +2341,7 @@ and bake at 350 F for 20-25 minutes.
 1 cup rolled oats<br/>
 1 cup flour<br/>
 1 cup brown sugar<br/>
-2/3 cup butter<br/>
+2/3 cup butter, cubed<br/>
 
 Mix apples and cinnamon.
 
@@ -2363,7 +2427,9 @@ Mix in large bowl:
 1 cup coconut<br/>
 4 tbsp cocoa<br/>
 
-Stir it all together and add 1/2 tsp vanilla.
+Stir it all together then add:
+
+1/2 tsp vanilla<br/>
 
 Spoon onto cookie sheets and refrigerate.  
 
@@ -2379,11 +2445,10 @@ Spoon onto cookie sheets and refrigerate.
 3/4 tsp baking soda<br/>
 1 cup chocolate chips<br/>
 1/2 cup raisins<br/>
-1 cup ground almonds (optional)<br/>
+1 cup ground almonds<br/>
 
 Cream butter and sugar, then mix in eggs and vanilla.
-Add flour, salt, baking soda, chocolate chips and raisins,
-mixing until just blended.
+Add remaining ingredients and mix until just blended.
 
 Spoon onto cookie sheets and bake at 375 F for 10-12 minutes.
 
@@ -2570,44 +2635,41 @@ just until edges and bottoms are light brown.
 
 ## Chocolate Wafer Cookies
 
-1/4 cup butter<br/>
-1/3 cup sugar<br/>
-1/4 cup brown sugar<br/>
-1/2 tsp vanilla</br>
-1/2 cup flour<br/>
-1/3 cup cocoa<br/>
-1/4 tsp baking soda<br/>
-2 tbsp milk<br/>
+1/2 cup butter<br/>
+2/3 cup sugar<br/>
+1/2 cup brown sugar<br/>
+1 tsp vanilla</br>
+1 cup flour<br/>
+2/3 cup cocoa<br/>
+1/2 tsp baking soda<br/>
+4-5 tbsp milk<br/>
 
-Cream butter, sugar and vanilla.
+Cream butter and sugar then add vanilla and milk.
 
 Separately mix flour, cocoa and baking soda.
 
-Stir flour mix and milk into batter until just combined.
+Stir flour mix into batter until just combined.
 
-Form dough into 1 1/2 inch log, wrap in plastic or parchment
+Form dough into two 1.5 inch diameter logs, wrap in plastic or parchment
 and chill until stiff (about 1 hour).  Then slice into 1/8" rounds.
 
 Arrange on baking sheets with 1 1/2" clearance between cookies.
 
 Bake at 350 F for 10-12 minutes.
 
-Note: this is a half-recipe, which is not enough for an Ice Box Dessert,
-which uses 12 cookies and 1 1/2 cups crumbs.  So I added oreo crumbs as
-well.
-
-<small>https://www.cookingchanneltv.com/recipes/homemade-chocolate-wafer-cookies-2107685</small>
+This makes enough for an Ice Box Dessert with 12-15 cookies left over.
 
 ## Chocolate Wafer Crust
 
-1/2 cup sugar<br/>
-1/3 cup brown sugar<br/>
-2/3 cup flour<br/>
-1/2 cup cocoa<br/>
+1/3 cup sugar<br/>
+1/4 cup brown sugar<br/>
+1/2 cup flour (more)<br/>
+1/3 cup cocoa<br/>
 1/4 tsp baking soda<br/>
-1/4 cup butter, melted<br/>
+1/4 cup butter, melted (less)<br/>
 
-Mix dry ingredients, then stir in melted butter.
+Mix dry ingredients, then stir in just enough melted butter so it starts
+to stick together.
 
 Gently press into a buttered 9" pan and bake at 350 F for 15-20 minutes.
 
@@ -2684,7 +2746,7 @@ Mix these:
 4 tsp baking powder<br/>
 1/2 tsp baking soda<br/>
 
-Mix it all together.  If it's too thick, add more water or juice.
+Mix it all together.
 
 Oil muffin tins, bake at 400 F for 25-30 minutes.
 
@@ -2816,7 +2878,6 @@ Mix sifted icing sugar and lemon juice.
 * [Chocolate Mousse (blender)](#chocolate-mousse-blender)
 * [Chocolate Mousse Pie](#chocolate-mousse-pie)
 * [Pie Crust (Baba)](#pie-crust-baba)
-* [Lemon Meringue Pie](#lemon-meringue-pie)
 * [Strawberry Bavarian Pie](#strawberry-bavarian-pie)
 * [Strawberry Fogellian Pie](#strawberry-fogellian-pie)
 * [Key Lime Pie](#key-lime-pie)
@@ -2877,26 +2938,6 @@ cream.
 Flour board, not too much.  Roll out, working as little as possible.
 
 Makes two 9" pie shells.
-
-## Lemon Meringue Pie
-
-1 1/2 cup water<br/>
-1 1/4 cup sugar<br/>
-juice from 1 1/2 lemons<br/>
-1/3 cup corn starch, mixed with 1/2 c cold water<br/>
-3 eggs, separated<br/>
-1 9" pie crust<br/>
-
-Stir 1 cup sugar with water and lemon juice over low heat until sugar
-dissolves.  Stir in cornstarch mixed with cold water.  Cook until thick,
-stirring constantly.
-
-Remove from heat, then add egg yolks one at a time, beat after each.
-
-While warm, pour into baked pie crust.
-
-Beat egg whites with remaining sugar and spread over pie.
-Bake at 325 F for 20 minutes.
 
 ## Strawberry Bavarian Pie
 
@@ -2961,34 +3002,28 @@ For Julie, replace butter and whipping cream with margarine and nutriwhip.
 
 Crust:
 
-1 3/4 cup graham wafer crumbs<br/>
+1 1/4 cup graham wafer crumbs<br/>
 4 tbsp sugar<br/>
-6 tbsp melted butter<br/>
+4 tbsp melted butter<br/>
 
 Mix and spread in 9" pie dish.  Press evenly into bottom and up the sides
 of the dish.  Bake 6-8 minutes at 350 F.
 
 Filling:
 
-1 1/2 can sweetened condensed milk (21 oz)<br/>
+1 can sweetened condensed milk (14 oz)<br/>
 2 egg yolks<br/>
-3/4 (2/3?) cup key lime juice (1 lb key limes)<br/>
-1/2 cup sour cream<br/>
+1/2 cup key lime juice<br/>
+1/3 cup sour cream<br/>
 grated zest from 3-4 key limes (optional)<br/>
 
-Chill condensed milk, beaters and bowl.
-
-Beat condensed milk, sour cream and egg yolks in a large bowl,
-then add lime juice and zest.
-
-Pour into cooled crust and bake 15-20 minutes.
+Mix well, pour into cooled crust and bake 15-20 minutes at 350 F.
 
 Cool 30 minutes on counter, then refrigerate.
 
 Top with whipped cream.
 
 Keyless Lime pie: 
-If you can't find fresh key limes or juice, use 1/2 cup lime
-juice plus 1/4 cup lemon juice. And try without the sour cream?
+Replace key limes with 3 oz lime juice plus 1 oz lemon juice.
 
 From <small>https://soufflebombay.com/prize-winning-key-lime-pie-recipe/#recipe</small>
