@@ -13,8 +13,8 @@
 
 * [Everyday Granola](#everyday-granola)
 * [Corn Bread](#corn-bread)
-* [Irish Soda Bread](#irish-soda-bread)
 * [Rye Soda Bread](#rye-soda-bread)
+* [Irish Soda Bread](#irish-soda-bread)
 * [No Knead Bread](#no-knead-bread)
 * [Plain Bagels](#plain-bagels)
 * [Sylvia Gerrard Stollen](#sylvia-gerrard-stollen)
@@ -26,6 +26,7 @@
 * [Baked Bannock](#baked-bannock)
 * [Cinnamon Breakfast Cake](#cinnamon-breakfast-cake)
 * [German Apple Pancake](#german-apple-pancake)
+* [German Apple Pancake 2](#german-apple-pancake-2)
 * [Cottage Cheese Pancakes](#cottage-cheese-pancakes)
 * [Potato Pancakes](#potato-pancakes)
 * [Waffles](#waffles)
@@ -73,29 +74,6 @@ Mix dry ingredients together, then add everything else.
 
 Bake in buttered 8" square pan, 375 F for 30 minutes.
 
-## Irish Soda Bread
-
-3 cups flour<br/>
-1 tbsp baking powder<br/>
-1 tsp baking soda<br/>
-1/3 cup sugar<br/>
-1 tsp salt<br/>
-1 egg<br/>
-2 cups milk<br/>
-2 tbsp vinegar<br/>
-1/4 cup melted butter<br/>
-
-Mix milk and vinegar.
-
-Combine flour, baking powder, baking soda, sugar and salt,
-then add beaten egg, milk, vinegar and melted butter.
-Mix just until moistened.
-
-Bake at 325 F in a buttered 9x5" loaf pan for 60-70 minutes, or until
-toothpick emerges clean.
-
-Yummy while still hot from the oven, or toasted later.
-
 ## Rye Soda Bread
 
 1 1/2 cup rye flour<br/>
@@ -120,6 +98,29 @@ Bake at 375 F for 45-50 minutes or until it sounds hollow when tapped on
 the bottom.
 
 <small>http://www.geniuskitchen.com/recipe/jans-irish-soda-bread-9198</small>
+
+## Irish Soda Bread
+
+3 cups flour<br/>
+1 tbsp baking powder<br/>
+1 tsp baking soda<br/>
+1/3 cup sugar<br/>
+1 tsp salt<br/>
+1 egg<br/>
+2 cups milk<br/>
+2 tbsp vinegar<br/>
+1/4 cup melted butter<br/>
+
+Mix milk and vinegar.
+
+Combine flour, baking powder, baking soda, sugar and salt,
+then add beaten egg, milk, vinegar and melted butter.
+Mix just until moistened.
+
+Bake at 325 F in a buttered 9x5" loaf pan for 60-70 minutes, or until
+toothpick emerges clean.
+
+Yummy while still hot from the oven, or toasted later.
 
 ## No Knead Bread
 
@@ -382,10 +383,32 @@ Simmer until apples are soft, about 5 minutes.
 
 Pour over pancake and serve.
 
-Note: for "Original" Pancake House version, melt 3 tbsp butter in pan, then
-sprinkle with 3 tbsp brown sugar mixed with 1-2 tsp cinnamon, then 1-2
-thinly sliced apples, then pour in batter. Bake at 400 F 25-30 minutes. Turn
-upside down to serve.
+## German Apple Pancake 2
+
+1-2 apples, thinly sliced<br/>
+3 tbsp butter<br/>
+3 tbsp brown sugar<br/>
+2 tsp cinnamon<br/>
+
+Melt butter in a cast iron skillet, then add apples and
+sprinkle with brown sugar mixed with cinnamon.
+
+Bake 10-12 minutes at 450 F. 
+
+Meanwhile, mix:
+
+3 eggs<br/>
+3/4 cup milk<br/>
+3/4 cup flour<br/>
+1/2 tsp salt<br/>
+1 tsp vanilla<br/>
+
+Pour over apples and bake another 12-14 minutes.
+
+Turn upside down to serve.
+
+This is modelled after the apple pancakes at the Original Pancake
+House in Winnipeg.
 
 ## Cottage Cheese Pancakes
 
@@ -427,11 +450,14 @@ For six waffles:
 1/3 cup melted Butter<br/>
 1 1/4 tbsp Sugar<br/>
 
-Mix all that
+Mix all that.
 
 Beat Egg Whites and fold in.
 
 Cook. Eat. No Burping.
+
+Last time I added 1/4 cup flour and 1/4 cup water, and it was especially
+nice.
 
 For Julie: Replace egg and milk with 2 tbsp egg replacer, 1 cup apple juice
 and 1/2 cup water.
@@ -537,8 +563,8 @@ minutes.
 1/4 cup shortening<br/>
 1/4 cup sugar<br/>
 2 eggs<br/>
-3/4 cup milk<br/>
-1 1/4 cup flour<br/>
+1 cup milk<br/>
+1 1/2 cup flour<br/>
 1 tsp baking powder<br/>
 
 Cream butter, shortening, sugar, beaten eggs.
@@ -558,10 +584,9 @@ Bake at 350 F for 40 to 45 minutes.
 
 Serve with strawberries in syrup and sour cream.
 
-If you can't find dry cottage cheese, substitute regular
-cottage cheese, use just one egg and thicken with flour
-(2-3 tbsp). Also, leave out the salt (since there's enough
-salt in regular cottage cheese).
+If you can't find dry cottage cheese, use regular
+and thicken with 1/4 cup flour. Also, leave out the salt,
+since there's enough salt in regular cottage cheese.
 
 ## Tian de courges
 
@@ -829,8 +854,8 @@ Cool.
 
 * [Peach Chicken](#peach-chicken)
 * [Sticky Chicken](#sticky-chicken)
-* [Sweet and Sour Meatballs](#sweet-and-sour-meatballs)
 * [Sweet and Sour Short Ribs](#sweet-and-sour-short-ribs)
+* [Sweet and Sour Meatballs](#sweet-and-sour-meatballs)
 * [White House Ribs (not quite)](#white-house-ribs-not-quite)
 * [Greek Ribs](#greek-ribs)
 * [Roast Beef (Prime Rib)](#roast-beef-prime-rib)
@@ -872,6 +897,19 @@ Mix brown sugar, water, soya sauce and worchestershire and pour over
 chicken.  Bake at 350 F for 1 hour.  About 15 minutes before it is ready,
 sprinkle on sesame seeds.
 
+## Sweet and Sour Short Ribs
+
+1-2 pounds beef ribs<br/>
+1/2 cup ketchup<br/>
+1/4 cup vinegar<br/>
+1/3 cup brown sugar<br/>
+1 cup crushed pineapple<br/>
+1 tbsp soya sauce<br/>
+
+Put ribs in pan.  Mix rest and pour over ribs.
+
+Cover and bake at 350 F for 2 hours, basting occasionally.
+
 ## Sweet and Sour Meatballs
 
 1 pound ground beef<br/>
@@ -886,19 +924,6 @@ Brown meatballs, then add pineapple.
 For sauce, mix pineapple juice and water (1 cup total),
 then add remaining ingredients.  Heat until thick and clear.
 Add to meatballs and simmer about 20 minutes.
-
-## Sweet and Sour Short Ribs
-
-1-2 pounds beef ribs<br/>
-1/2 cup ketchup<br/>
-1/4 cup vinegar<br/>
-1/3 cup brown sugar<br/>
-1 cup crushed pineapple<br/>
-1 tbsp soya sauce<br/>
-
-Put ribs in pan.  Mix rest and pour over ribs.
-
-Cover and bake at 350 F for 2 hours, basting occasionally.
 
 ## White House Ribs (not quite)
 
@@ -1220,9 +1245,7 @@ Saute the beef in oil until browned, then add to the soup.
 
 Saute onion until soft, then add to the soup.
 
-Saute celery until soft, then add to the soup.
-
-Add carrots and mushrooms.
+Add celery, carrots and mushrooms.
 
 Cover and simmer 2 hours, until the vegetables and barley are tender.
 
@@ -1450,9 +1473,11 @@ Mix and put half in bottom of 8x8" pan.
 3/4 cup sugar<br/>
 2 eggs<br/>
 1/4 cup milk<br/>
-1 1/2 tsp vanilla<br/>
+1/4 cup flour<br/>
+1 tsp vanilla<br/>
 
-Beat cream cheese and sugar until fluffy, add eggs, milk and vanilla.
+Beat cream cheese and sugar until fluffy, then add milk, flour and vanilla.
+Beat til smooth, then stir in eggs.
 Pour into pan, top with remaining crumbs.
 
 Bake at 350 F for 30-35 minutes, until the edges are brown.
@@ -1582,7 +1607,9 @@ Topping:
 2/3 cup chocolate chips<br/>
 
 Microwave butter and chocolate chips 30 seconds, stir and repeat
-until smooth.  Let cool a bit, then pour over cheesecake.
+until smooth.  Let cool a bit, then spread over cheesecake.
+
+See <small>https://sallysbakingaddiction.com/chocolate-peanut-butter-cheesecake-bars/</small>
 
 ## Banana Cake
 
@@ -2694,37 +2721,13 @@ When cool and dry, crumble the cookie with hands or rolling pin.
 
 # Muffins
 
-* [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Tofu Oatmeal Muffins](#tofu-oatmeal-muffins)
+* [Carrot Apple Muffins](#carrot-apple-muffins)
 * [Pumpkin Muffins](#pumpkin-muffins)
 * [Banana Muffins](#banana-muffins)
 
 
 <br/> <!-- force page break -->
-
-## Carrot Apple Muffins
-
-2 cup sugar<br/>
-4 eggs<br/>
-1 cup oil<br/>
-2 cup grated carrots<br/>
-1 cup apple sauce<br/>
-1/4 cup apple juice (more if needed)<br/>
-3 cup flour<br/>
-2 tsp baking soda<br/>
-2 tsp baking powder<br/>
-3 tsp cinnamon<br/>
-1/2 cup raisins (optional)<br/>
-
-Mix sugar, egg and oil.  Add grated carrot, apple sauce and juice.
-Mix in remaining ingredients.
-
-Bake at 400 F for 25 minutes.
-
-For cake, bake at 350 F for 50 minutes.
-
-For Carrot Pineapple Muffins, use 1/2 can crushed pineapple instead of
-apple sauce/juice.
 
 ## Tofu Oatmeal Muffins
 
@@ -2751,6 +2754,30 @@ Mix it all together.
 Oil muffin tins, bake at 400 F for 25-30 minutes.
 
 Makes 18 muffins.
+
+## Carrot Apple Muffins
+
+2 cup sugar<br/>
+4 eggs<br/>
+1 cup oil<br/>
+2 cup grated carrots<br/>
+1 cup apple sauce<br/>
+1/4 cup apple juice (more if needed)<br/>
+3 cup flour<br/>
+2 tsp baking soda<br/>
+2 tsp baking powder<br/>
+3 tsp cinnamon<br/>
+1/2 cup raisins (optional)<br/>
+
+Mix sugar, egg and oil.  Add grated carrot, apple sauce and juice.
+Mix in remaining ingredients.
+
+Bake at 400 F for 25 minutes.
+
+For cake, bake at 350 F for 50 minutes.
+
+For Carrot Pineapple Muffins, use 1/2 can crushed pineapple instead of
+apple sauce/juice.
 
 ## Pumpkin Muffins
 
@@ -2905,10 +2932,12 @@ If you melt the chocolate first, then you don't need a blender.
 1 1/4 cup chocolate wafer crumbs<br/>
 1 pkg (8 oz) semi-sweet chocolate (plus 1/2 oz dark)<br/>
 6 eggs, separated<br/>
-4 tbsp water<br/>
-4 tbsp sugar<br/>
+1/4 cup water<br/>
+1/4 cup sugar<br/>
 1 tsp vanilla<br/>
 1 1/4 cup whipping cream<br/>
+
+This makes too much. Next time reduce filling by 1/3.
 
 Line 9" round pan with crushed chocolate wafers.
 
@@ -2916,9 +2945,9 @@ Melt chocolate in double boiler.  Add egg yolks, water, sugar and vanilla.
 
 Beat egg whites til stiff and fold into chocolate mix.
 
-Pour over wafers.
+Pour over wafers and chill.
 
-Top with whipped cream.
+When set, top with whipped cream.
 
 ## Pie Crust (Baba)
 
@@ -2937,7 +2966,7 @@ cream.
 
 Flour board, not too much.  Roll out, working as little as possible.
 
-Makes two 9" pie shells.
+Makes two small 9" pie shells.
 
 ## Strawberry Bavarian Pie
 
